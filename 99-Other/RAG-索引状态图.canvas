@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"67a815d1aa8176ee","type":"text","text":"indexed","x":-220,"y":120,"width":110,"height":60,"color":"5"},
+		{"id":"d83df039892976a9","type":"text","text":"failed","x":120,"y":120,"width":90,"height":60,"color":"1"},
+		{"id":"2ae969fb7bf799fe","type":"text","text":"processing","x":-80,"y":-200,"width":140,"height":60},
+		{"id":"b73cc24d8bc914f2","type":"text","text":"pending","x":-70,"y":-340,"width":120,"height":60}
+	],
+	"edges":[
+		{"id":"30c24e6f847d2c0b","fromNode":"b73cc24d8bc914f2","fromSide":"bottom","toNode":"2ae969fb7bf799fe","toSide":"top"},
+		{"id":"fc5358dcbaca3d4f","fromNode":"2ae969fb7bf799fe","fromSide":"bottom","toNode":"67a815d1aa8176ee","toSide":"top","label":"索引成功"},
+		{"id":"bd8cb62a699398db","fromNode":"2ae969fb7bf799fe","fromSide":"bottom","toNode":"d83df039892976a9","toSide":"top","label":"索引失败"}
+	]
+}

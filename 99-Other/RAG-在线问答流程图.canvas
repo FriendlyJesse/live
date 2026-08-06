@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"16ee5b1e8b9f4b0e","type":"text","text":"用户提交问题","x":-200,"y":-300,"width":160,"height":60},
+		{"id":"6bc0a0a560a6bfc4","type":"text","text":"获取会话绑定的知识库","x":-232,"y":-160,"width":225,"height":60},
+		{"id":"0b7f17adf0f88a44","type":"text","text":"问题向量化","x":-192,"y":-40,"width":145,"height":60},
+		{"id":"083ef7d474213ce4","type":"text","text":"TopK 语义检索","x":-201,"y":80,"width":164,"height":60},
+		{"id":"15c90eeed9b6b423","type":"text","text":"保存消息与引用信息","x":300,"y":160,"width":204,"height":60},
+		{"id":"a3273173f9000e96","type":"text","text":"格式化知识上下文","x":59,"y":-40,"width":185,"height":60},
+		{"id":"a4da80e7c7c6291d","type":"text","text":"大语言模型生成回答","x":50,"y":80,"width":204,"height":60},
+		{"id":"224077d7bbf52a1c","type":"text","text":"返回回答与来源引用","x":299,"y":280,"width":207,"height":60}
+	],
+	"edges":[
+		{"id":"3648cb9c861deafd","fromNode":"16ee5b1e8b9f4b0e","fromSide":"bottom","toNode":"6bc0a0a560a6bfc4","toSide":"top"},
+		{"id":"87e1c5bdcb8a80b0","fromNode":"6bc0a0a560a6bfc4","fromSide":"bottom","toNode":"0b7f17adf0f88a44","toSide":"top"},
+		{"id":"cca6e538a384cda9","fromNode":"0b7f17adf0f88a44","fromSide":"bottom","toNode":"083ef7d474213ce4","toSide":"top"},
+		{"id":"b6dac456254ce29f","fromNode":"083ef7d474213ce4","fromSide":"right","toNode":"a3273173f9000e96","toSide":"left"},
+		{"id":"82e69ccd6612038d","fromNode":"a3273173f9000e96","fromSide":"bottom","toNode":"a4da80e7c7c6291d","toSide":"top"},
+		{"id":"f14b0420d807f55b","fromNode":"a4da80e7c7c6291d","fromSide":"right","toNode":"15c90eeed9b6b423","toSide":"top"},
+		{"id":"4f06c16cefcbed99","fromNode":"15c90eeed9b6b423","fromSide":"bottom","toNode":"224077d7bbf52a1c","toSide":"top"}
+	]
+}

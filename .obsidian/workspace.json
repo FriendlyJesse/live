@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "238784084602cc11",
+        "id": "4cab4b1138bb4c81",
         "type": "tabs",
         "children": [
           {
-            "id": "a93b633494c884b2",
+            "id": "e224a071a45355d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-English/03 Vocabulary Bank（阅读词汇库）/Verb Phrases.md",
+                "file": "01-English/04 Grammar Patterns（语法模式库）/介词 preposition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Verb Phrases"
+              "title": "介词 preposition"
             }
           }
         ]
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-English/03 Vocabulary Bank（阅读词汇库）/Verb Phrases.md",
-                "followCursor": false,
+                "file": "01-English/04 Grammar Patterns（语法模式库）/介词 preposition.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Verb Phrases"
+              "title": "Outline of 介词 preposition"
             }
           }
         ],
@@ -182,20 +182,49 @@
       "bases:Create new base": false
     }
   },
-  "active": "94f562ee8a33ac20",
+  "active": "e224a071a45355d3",
   "lastOpenFiles": [
-    "01-English/03 Vocabulary Bank（阅读词汇库）/Go Phrases.md",
+    "_attachments/Pasted image 20260806164136.png",
+    "_attachments/Pasted image 20260806164114.png",
+    "01-English/04 Grammar Patterns（语法模式库）/冠词 article.md",
+    "01-English/04 Grammar Patterns（语法模式库）/介词 preposition.md",
+    "_templates/word class.md",
+    "99-Other/Cloud computing Purchase.md",
+    "_templates/grammar.md",
+    "01-English/03 Vocabulary Bank（阅读词汇库）/Word Contrasts.md",
     "01-English/03 Vocabulary Bank（阅读词汇库）/Verb Phrases.md",
+    "_templates/reading.md",
+    "_templates/vocabulary.md",
+    "99-Other/RAG-在线问答实现流程图.canvas",
+    "99-Other/RAG-在线问答流程图.canvas",
+    "99-Other/RAG-索引状态图.canvas",
+    "99-Other/RAG-离线知识库构建流程图.canvas",
+    "99-Other/RAG-总体架构图.canvas",
+    "99-Other/Untitled.md",
+    "99-Other/Git Workflow for the R&D and Delivery Teams.md",
+    "_attachments/Pasted image 20260803155448.png",
+    "_attachments/Pasted image 20260803155443.png",
+    "_attachments/Pasted image 20260803155145.png",
+    "_attachments/Pasted image 20260803155022.png",
+    "99-Other/web 驱动招聘要求.md",
+    "99-Other/使用 Cursor AI 工作赋能成果报告.md",
+    "99-Other",
+    "_attachments/Pasted image 20260721101056.png",
+    "_attachments/Pasted image 20260721102224.png",
+    "_attachments",
+    "Pasted image 20260721100946.png",
+    "Pasted image 20260721100549.png",
+    "03-Cloud",
+    "02-AI",
+    "02-",
+    "2026-07-15.md",
+    "01-English/03 Vocabulary Bank（阅读词汇库）/Go Phrases.md",
     "01-English/03 Vocabulary Bank（阅读词汇库）/Make Phrases.md",
     "01-English/03 Vocabulary Bank（阅读词汇库）/Take Phrases.md",
     "01-English/03 Vocabulary Bank（阅读词汇库）/Give Phrases.md",
-    "01-English/03 Vocabulary Bank（阅读词汇库）/Word Contrasts.md",
-    "_templates/vocabulary.md",
     "01-English/03 Vocabulary Bank（阅读词汇库）/Kindergarten.md",
-    "2026-07-15.md",
     "01-English/03 Vocabulary Bank（阅读词汇库）/Got Phrases.md",
     "01-English/01 Reading Logs（阅读拆解）/2026-06-29-01.md",
-    "_templates/reading.md",
     "_templates/structure.md",
     "01-English/01 Reading Logs（阅读拆解）/2026-06-30-01.md",
     "_templates",
@@ -203,20 +232,7 @@
     "Templates",
     "Template/reading.md",
     "Template",
-    "template/reading.md",
     "template",
-    "Untitled",
-    "01-English/07- Root（词根）",
-    "01-English/Untitled",
-    "01-English/06 Review System（复习系统）/Kindergarten.md",
-    "01-English/05 Mistake Bank（错误库）/Kindergarten.md",
-    "01-English/04 Grammar Patterns（语法模式库）/Kindergarten.md",
-    "01-English/02 Sentence Bank（句子拆解库）/Kindergarten.md",
-    "01-English/01 Reading Logs（阅读拆解）/Kindergarten.md",
-    "01-English/01 Reading Logs（阅读拆解）/kind.md",
-    "01-English/01 Reading Logs（阅读拆解）",
-    "01-English/02 Sentence Bank（句子拆解库）",
-    "01-English/03 Vocabulary Bank（阅读词汇库）",
-    "Welcome.md"
+    "01-English/07- Root（词根）"
   ]
 }

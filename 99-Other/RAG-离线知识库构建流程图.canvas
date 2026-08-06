@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"c8ec6a4d40928e10","type":"text","text":"文档上传","x":-310,"y":-400,"width":120,"height":60},
+		{"id":"545ca4dc7d99da2c","type":"text","text":"文件存储与元数据记录","x":-362,"y":-240,"width":225,"height":60},
+		{"id":"cd63bb51513025ed","type":"text","text":"读取文档内容","x":-332,"y":-120,"width":165,"height":60},
+		{"id":"928a87d4e2901c7c","type":"text","text":"文本解析与分块","x":-342,"y":0,"width":184,"height":60},
+		{"id":"7f6d9923286d0c7c","x":7,"y":-300,"width":216,"height":60,"type":"text","text":"调用 Embedding 模型"},
+		{"id":"8526b760cd6fe1cf","x":33,"y":-180,"width":165,"height":60,"type":"text","text":"向量维度校验"},
+		{"id":"05a2bc3d091c5796","x":12,"y":-60,"width":208,"height":60,"type":"text","text":"知识分片与向量入库"},
+		{"id":"d5b49e577d303eb1","type":"text","text":"更新文档索引状态","x":23,"y":60,"width":187,"height":60}
+	],
+	"edges":[
+		{"id":"ae11dc6ee2b29244","fromNode":"c8ec6a4d40928e10","fromSide":"bottom","toNode":"545ca4dc7d99da2c","toSide":"top"},
+		{"id":"548919d0076b0770","fromNode":"545ca4dc7d99da2c","fromSide":"bottom","toNode":"cd63bb51513025ed","toSide":"top"},
+		{"id":"3d66acbad553d0e1","fromNode":"cd63bb51513025ed","fromSide":"bottom","toNode":"928a87d4e2901c7c","toSide":"top"},
+		{"id":"a248d2dc101e80c1","fromNode":"7f6d9923286d0c7c","fromSide":"bottom","toNode":"8526b760cd6fe1cf","toSide":"top"},
+		{"id":"22e872b25768cb4d","fromNode":"8526b760cd6fe1cf","fromSide":"bottom","toNode":"05a2bc3d091c5796","toSide":"top"},
+		{"id":"d0efa9fd0cce58ec","fromNode":"05a2bc3d091c5796","fromSide":"bottom","toNode":"d5b49e577d303eb1","toSide":"top"},
+		{"id":"095b3f1ef6e98d48","fromNode":"928a87d4e2901c7c","fromSide":"right","toNode":"7f6d9923286d0c7c","toSide":"left"}
+	]
+}

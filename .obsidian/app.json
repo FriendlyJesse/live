@@ -1,3 +1,12 @@
 {
-  "tabSize": 2
+  "tabSize": 2,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "attachmentFolderPath": "_attachments",
+  "newFileLocation": "root",
+  "alwaysUpdateLinks": true
 }

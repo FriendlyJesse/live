@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"8fe40e3f3a1d2d27","x":-60,"y":-420,"width":180,"height":60,"type":"text","text":"前端 / API 客户端"},
+		{"id":"62cfaf9178341a0f","x":-67,"y":-280,"width":195,"height":60,"type":"text","text":"Gin 路由与中间件"},
+		{"id":"375b8da6f59a39b9","x":-200,"y":-120,"width":180,"height":140,"type":"text","text":"1. 知识库模块\n2. 知识库创建\n3. 文档上传\n4. 文档索引"},
+		{"id":"2eb56eba4c4f80c9","type":"text","text":"1. 会话问答模块\n2. 会话与消息管理\n3. 语义检索\n4. RAG 问答与引用","x":100,"y":-120,"width":212,"height":140},
+		{"id":"d4c06e42b0c5cf39","x":-67,"y":120,"width":223,"height":60,"type":"text","text":"PostgreSQL + pgvector"},
+		{"id":"2e97536dc5a4bbd2","x":-220,"y":280,"width":160,"height":60,"type":"text","text":"本地文件存储"},
+		{"id":"813aa866137cee66","x":120,"y":280,"width":277,"height":60,"type":"text","text":"大语言模型 / Embedding 服务"}
+	],
+	"edges":[
+		{"id":"653d32318e4eb417","fromNode":"8fe40e3f3a1d2d27","fromSide":"bottom","toNode":"62cfaf9178341a0f","toSide":"top"},
+		{"id":"48128171cd84b6b5","fromNode":"62cfaf9178341a0f","fromSide":"bottom","toNode":"375b8da6f59a39b9","toSide":"top"},
+		{"id":"2246761717c1111f","fromNode":"62cfaf9178341a0f","fromSide":"bottom","toNode":"2eb56eba4c4f80c9","toSide":"top"},
+		{"id":"478bad2d7ab97f0d","fromNode":"375b8da6f59a39b9","fromSide":"bottom","toNode":"d4c06e42b0c5cf39","toSide":"top"},
+		{"id":"bd6db16a22537881","fromNode":"2eb56eba4c4f80c9","fromSide":"bottom","toNode":"d4c06e42b0c5cf39","toSide":"top"},
+		{"id":"9aa47b903dd04b4c","fromNode":"d4c06e42b0c5cf39","fromSide":"bottom","toNode":"2e97536dc5a4bbd2","toSide":"top"},
+		{"id":"3333915f00fb30eb","fromNode":"d4c06e42b0c5cf39","fromSide":"bottom","toNode":"813aa866137cee66","toSide":"top"}
+	]
+}
