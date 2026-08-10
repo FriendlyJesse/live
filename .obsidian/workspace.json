@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4cab4b1138bb4c81",
+        "id": "44b6d8935100b3c6",
         "type": "tabs",
         "children": [
           {
-            "id": "e224a071a45355d3",
+            "id": "d00164fc522ffffd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-English/04 Grammar Patterns（语法模式库）/介词 preposition.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "介词 preposition"
+              "title": "New tab"
             }
           }
         ]
@@ -41,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -155,13 +153,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-English/04 Grammar Patterns（语法模式库）/介词 preposition.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 介词 preposition"
+              "title": "Outline"
             }
           }
         ],
@@ -182,12 +179,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "e224a071a45355d3",
+  "active": "d00164fc522ffffd",
   "lastOpenFiles": [
+    "01-English/04 Grammar Patterns（语法模式库）/强调 emphasize.md",
+    "01-English/04 Grammar Patterns（语法模式库）/倒装 inversion.md",
+    "01-English/04 Grammar Patterns（语法模式库）/词性 word class.md",
+    "99-Other/RAG-在线问答流程图.canvas",
+    "99-Other/RAG-在线问答实现流程图.canvas",
+    "99-Other/RAG-总体架构图.canvas",
+    "01-English/04 Grammar Patterns（语法模式库）/形容词 adjective.md",
+    "01-English/04 Grammar Patterns（语法模式库）/数词 numeral.md",
+    "99-Other/RAG-离线知识库构建流程图.canvas",
+    "01-English/04 Grammar Patterns（语法模式库）/名词 noun.md",
+    "01-English/04 Grammar Patterns（语法模式库）/代词 pronoun.md",
+    "01-English/04 Grammar Patterns（语法模式库）/介词 preposition.md",
+    "_attachments/Pasted image 20260806231258.png",
+    "_attachments/Pasted image 20260806210201.png",
+    "_attachments/Pasted image 20260806210010.png",
+    "_attachments/Pasted image 20260806205903.png",
     "_attachments/Pasted image 20260806164136.png",
     "_attachments/Pasted image 20260806164114.png",
     "01-English/04 Grammar Patterns（语法模式库）/冠词 article.md",
-    "01-English/04 Grammar Patterns（语法模式库）/介词 preposition.md",
     "_templates/word class.md",
     "99-Other/Cloud computing Purchase.md",
     "_templates/grammar.md",
@@ -195,11 +207,7 @@
     "01-English/03 Vocabulary Bank（阅读词汇库）/Verb Phrases.md",
     "_templates/reading.md",
     "_templates/vocabulary.md",
-    "99-Other/RAG-在线问答实现流程图.canvas",
-    "99-Other/RAG-在线问答流程图.canvas",
     "99-Other/RAG-索引状态图.canvas",
-    "99-Other/RAG-离线知识库构建流程图.canvas",
-    "99-Other/RAG-总体架构图.canvas",
     "99-Other/Untitled.md",
     "99-Other/Git Workflow for the R&D and Delivery Teams.md",
     "_attachments/Pasted image 20260803155448.png",
@@ -209,11 +217,7 @@
     "99-Other/web 驱动招聘要求.md",
     "99-Other/使用 Cursor AI 工作赋能成果报告.md",
     "99-Other",
-    "_attachments/Pasted image 20260721101056.png",
-    "_attachments/Pasted image 20260721102224.png",
     "_attachments",
-    "Pasted image 20260721100946.png",
-    "Pasted image 20260721100549.png",
     "03-Cloud",
     "02-AI",
     "02-",
@@ -223,14 +227,8 @@
     "01-English/03 Vocabulary Bank（阅读词汇库）/Take Phrases.md",
     "01-English/03 Vocabulary Bank（阅读词汇库）/Give Phrases.md",
     "01-English/03 Vocabulary Bank（阅读词汇库）/Kindergarten.md",
-    "01-English/03 Vocabulary Bank（阅读词汇库）/Got Phrases.md",
-    "01-English/01 Reading Logs（阅读拆解）/2026-06-29-01.md",
-    "_templates/structure.md",
-    "01-English/01 Reading Logs（阅读拆解）/2026-06-30-01.md",
     "_templates",
-    "Templates/reading.md",
     "Templates",
-    "Template/reading.md",
     "Template",
     "template",
     "01-English/07- Root（词根）"
