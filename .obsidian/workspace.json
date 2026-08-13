@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3690b29b8bfb3e19",
+        "id": "bd6ebb4cf8cb5e6d",
         "type": "tabs",
         "children": [
           {
-            "id": "fbc0883eacd3e009",
+            "id": "42405e25492fecb8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01-English/01 Reading Logs（阅读拆解）/2014年5月北京学位英语阅读理解 第二篇.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2014年5月北京学位英语阅读理解 第二篇"
             }
           }
         ]
@@ -76,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "78f89275a6561506",
@@ -153,6 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01-English/01 Reading Logs（阅读拆解）/2014年5月北京学位英语阅读理解 第二篇.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -166,7 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,8 +185,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "fbc0883eacd3e009",
+  "active": "42405e25492fecb8",
   "lastOpenFiles": [
+    "01-English/01 Reading Logs（阅读拆解）/2014年5月北京学位英语阅读理解 第一篇.md",
+    "01-English/01 Reading Logs（阅读拆解）/2014年5月北京学位英语阅读理解 第二篇.md",
+    "_templates/reading.md",
+    "01-English/01 Reading Logs（阅读拆解）/2026-06-29-01.md",
+    "01-English/04 Grammar Patterns（语法模式库）/词性 word class.md",
+    "01-English/04 Grammar Patterns（语法模式库）/语法综述.md",
+    "01-English/04 Grammar Patterns（语法模式库）/形容词 adjective.md",
     "01-English/04 Grammar Patterns（语法模式库）/标点符号 punctuation.md",
     "01-English/04 Grammar Patterns（语法模式库）/主谓一致 subject verb agreement.md",
     "01-English/04 Grammar Patterns（语法模式库）/名词 noun.md",
@@ -190,9 +203,7 @@
     "01-English/04 Grammar Patterns（语法模式库）/代词 pronoun.md",
     "01-English/04 Grammar Patterns（语法模式库）/省略 ellipsis.md",
     "01-English/04 Grammar Patterns（语法模式库）/数词 numeral.md",
-    "01-English/04 Grammar Patterns（语法模式库）/形容词 adjective.md",
     "01-English/04 Grammar Patterns（语法模式库）/冠词 article.md",
-    "01-English/04 Grammar Patterns（语法模式库）/词性 word class.md",
     "99-Other/RAG-在线问答流程图.canvas",
     "99-Other/RAG-在线问答实现流程图.canvas",
     "99-Other/RAG-总体架构图.canvas",
@@ -208,7 +219,6 @@
     "_templates/grammar.md",
     "01-English/03 Vocabulary Bank（阅读词汇库）/Word Contrasts.md",
     "01-English/03 Vocabulary Bank（阅读词汇库）/Verb Phrases.md",
-    "_templates/reading.md",
     "_templates/vocabulary.md",
     "99-Other/RAG-索引状态图.canvas",
     "99-Other/Untitled.md",
@@ -218,15 +228,11 @@
     "_attachments/Pasted image 20260803155145.png",
     "_attachments/Pasted image 20260803155022.png",
     "99-Other/web 驱动招聘要求.md",
-    "99-Other/使用 Cursor AI 工作赋能成果报告.md",
     "99-Other",
     "_attachments",
     "03-Cloud",
     "02-AI",
     "02-",
-    "2026-07-15.md",
-    "01-English/03 Vocabulary Bank（阅读词汇库）/Go Phrases.md",
-    "01-English/03 Vocabulary Bank（阅读词汇库）/Make Phrases.md",
     "_templates",
     "Templates",
     "Template",
