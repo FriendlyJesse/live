@@ -1,4 +1,4 @@
-# 叹词（Interjections）
+# 叹词 Interjections
 
 ## 什么是叹词
 
