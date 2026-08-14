@@ -11,10 +11,14 @@
             "id": "21f42341abdad566",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01-English/04 Grammar Patterns（语法模式库）/英语语法综述 grammar Overview.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "英语语法综述 grammar Overview"
             }
           }
         ]
@@ -153,6 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01-English/04 Grammar Patterns（语法模式库）/英语语法综述 grammar Overview.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -179,18 +184,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "94f562ee8a33ac20",
+  "active": "21f42341abdad566",
   "lastOpenFiles": [
-    "01-English/04 Grammar Patterns（语法模式库）/01 词法体系/介词 preposition.md",
     "01-English/04 Grammar Patterns（语法模式库）/词性 word class.md",
     "01-English/04 Grammar Patterns（语法模式库）/英语语法综述 grammar Overview.md",
-    "01-English/04 Grammar Patterns（语法模式库）/标点符号 punctuation.md",
-    "01-English/04 Grammar Patterns（语法模式库）/03 句法与特殊句式/主谓一致 subject verb agreement.md",
     "01-English/04 Grammar Patterns（语法模式库）/03 句法与特殊句式/省略 ellipsis.md",
     "01-English/04 Grammar Patterns（语法模式库）/03 句法与特殊句式/独立主格 Absolute Construction.md",
     "01-English/04 Grammar Patterns（语法模式库）/03 句法与特殊句式/强调 emphasize.md",
     "01-English/04 Grammar Patterns（语法模式库）/03 句法与特殊句式/倒装 inversion.md",
     "01-English/04 Grammar Patterns（语法模式库）/03 句法与特殊句式/从句 clause.md",
+    "01-English/04 Grammar Patterns（语法模式库）/03 句法与特殊句式/主谓一致 subject verb agreement.md",
+    "01-English/04 Grammar Patterns（语法模式库）/01 词法体系/介词 preposition.md",
+    "01-English/04 Grammar Patterns（语法模式库）/标点符号 punctuation.md",
     "01-English/04 Grammar Patterns（语法模式库）/02 动词专项体系/非谓语动词 non-finite verb.md",
     "01-English/04 Grammar Patterns（语法模式库）/02 动词专项体系/被动 Passive Voice.md",
     "01-English/04 Grammar Patterns（语法模式库）/02 动词专项体系/系动词 linking verbs.md",

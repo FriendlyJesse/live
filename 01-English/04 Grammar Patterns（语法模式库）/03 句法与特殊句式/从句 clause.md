@@ -1,8 +1,13 @@
+---
+tags:
+  - grammar
+  - syntax
+---
 # 从句（Clauses）
 
 ## 一、什么是从句
 
-从句是句子的一部分，通常包含自己的**主语**和**谓语**，但不能独立表达完整意思，需要依附于主句。
+从句是句子的一部分，通常包含自己的**主语**和**谓语**，但不能独立表达完整意思，需要依附于主句（参见 [[英语语法综述 grammar Overview]] 与 [[动词分类 verb Classification]]）。
 
 ```text
 I saw that the rabbit ate a carrot.
@@ -956,11 +961,51 @@ the + 比较级 ..., the + 比较级 ...
 
 ## 七、从句快速判断
 
-| 看到的结构 | 优先判断 |
-| --- | --- |
-| 名词后 + `that/who/which/where...` | 定语从句 |
-| 动词后 + `that/if/whether/疑问词` | 宾语从句 |
-| 句首的 `that/whether/疑问词` 整体作主语 | 主语从句 |
-| 系动词后 + 从句 | 表语从句 |
-| `fact/idea/news/question` 后 + 从句 | 同位语从句 |
-| `when/if/because/although/so that` 等连接主从句 | 状语从句 |
+| 看到的结构 | 优先判断 | 关联专题 |
+| --- | --- | --- |
+| 名词后 + `that/who/which/where...` | 定语从句 | [[形容词 adjective]] |
+| 动词后 + `that/if/whether/疑问词` | 宾语从句 | [[代词 pronoun]] |
+| 句首的 `that/whether/疑问词` 整体作主语 | 主语从句 | [[主谓一致 subject verb agreement]] |
+| 系动词后 + 从句 | 表语从句 | [[系动词 linking verbs]] |
+| `fact/idea/news/question` 后 + 从句 | 同位语从句 | [[名词 noun]] |
+| `when/if/because/although/so that` 等连接主从句 | 状语从句 | [[连词 conjunction]] · [[副词 adverb]] |
+
+---
+
+## 八、常见错误
+
+```text
+❌ I don't know where does the rabbit live.
+✅ I don't know where the rabbit lives.
+```
+- 宾语从句一律使用**陈述语序**（主语 + 谓语），不能使用疑问语序。
+
+```text
+❌ This is the rabbit which I told you about him.
+✅ This is the rabbit that / whom I told you about.
+```
+- 定语从句的关系代词在从句中已经充当宾语，从句中不能再保留代词 `him`。
+
+```text
+❌ The reason is because he was late.
+✅ The reason is that he was late.
+```
+- `The reason is...` 后面引导表语从句必须使用连词 `that`，不能用 `because`。
+
+```text
+❌ Although he is tired, but he keeps running.
+✅ Although he is tired, he keeps running.
+✅ He is tired, but he keeps running.
+```
+- `although` 与 `but` 不能在同一句中同时出现（参见 [[连词 conjunction]]）。
+
+---
+
+## 🔗 知识网络与双链导航
+
+- **语法顶层导图**：[[英语语法综述 grammar Overview]] · [[词性 word class]]
+- **句法与特殊句式**：
+  - [[主谓一致 subject verb agreement]] · **[[从句 clause]]** · [[倒装 inversion]] · [[强调 emphasize]]
+  - [[独立主格 Absolute Construction]] · [[省略 ellipsis]] · [[标点符号 punctuation]]
+- **词法与动词专项联动**：
+  - [[连词 conjunction]] · [[代词 pronoun]] · [[虚拟语气 Subjunctive Mood]] · [[动词时态 verb tense]]

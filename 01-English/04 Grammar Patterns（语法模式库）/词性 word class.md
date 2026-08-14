@@ -6,25 +6,26 @@ tags:
 
 学位英语背词时，经常会看到这些词性缩写。建议你把它们当成“单词身份证”，不仅知道意思，还知道它在句子里的位置。
 
-| 缩写                 | 英文全称              | 中文意思  | 作用               |
-| ------------------ | ----------------- | ----- | ---------------- |
-| **n.**             | noun              | 名词    | 人、物、事、概念         |
-| **v.**             | verb              | 动词    | 动作、状态            |
-| **vi.**            | intransitive verb | 不及物动词 | 后面不能直接接宾语        |
-| **vt.**            | transitive verb   | 及物动词  | 后面可以直接接宾语        |
-| **adj.**           | adjective         | 形容词   | 修饰名词，描述特征        |
-| **adv.**           | adverb            | 副词    | 修饰动词、形容词、副词、句子   |
-| **prep.**          | preposition       | 介词    | 表示关系（位置、时间、方向等）  |
-| **conj.**          | conjunction       | 连词    | 连接词、短语、句子        |
-| **pron.**          | pronoun           | 代词    | 代替名词             |
-| **art.**           | article           | 冠词    | a/an/the         |
-| **num.**           | numeral           | 数词    | 表示数量、顺序          |
-| **aux. v.**        | auxiliary verb    | 助动词   | 帮助构成时态、语气        |
-| **modal v.**       | modal verb        | 情态动词  | can, may, must 等 |
-| **int. / interj.** | interjection      | 感叹词   | 表达情绪             |
-| **abbr.**          | abbreviation      | 缩写    | 单词缩写             |
-| **phr.**           | phrase            | 短语    | 固定词组             |
-| **phr. v.**        | phrasal verb      | 短语动词  | 动词+介词/副词         |
+| 缩写 | 英文全称 | 中文意思 | 作用 | 专题笔记 |
+| --- | --- | --- | --- | --- |
+| **n.** | noun | 名词 | 人、物、事、概念 | [[名词 noun]] |
+| **v.** | verb | 动词 | 动作、状态 | [[动词分类 verb Classification]] |
+| **vi.** | intransitive verb | 不及物动词 | 后面不能直接接宾语 | [[动词分类 verb Classification]] |
+| **vt.** | transitive verb | 及物动词 | 后面可以直接接宾语 | [[动词分类 verb Classification]] |
+| **adj.** | adjective | 形容词 | 修饰名词，描述特征 | [[形容词 adjective]] |
+| **adv.** | adverb | 副词 | 修饰动词、形容词、副词、句子 | [[副词 adverb]] |
+| **prep.** | preposition | 介词 | 表示关系（位置、时间、方向等） | [[介词 preposition]] |
+| **conj.** | conjunction | 连词 | 连接词、短语、句子 | [[连词 conjunction]] |
+| **pron.** | pronoun | 代词 | 代替名词 | [[代词 pronoun]] |
+| **art.** | article | 冠词 | a/an/the | [[冠词 article]] |
+| **num.** | numeral | 数词 | 表示数量、顺序 | [[数词 numeral]] |
+| **det.** | determiner | 限定词 | 限定名词范围与归属 | [[限定词 determiners]] |
+| **aux. v.** | auxiliary verb | 助动词 | 帮助构成时态、语态、否定 | [[助动词和情态动词 auxiliary verbs and modal verbs]] |
+| **modal v.** | modal verb | 情态动词 | can, may, must 等 | [[助动词和情态动词 auxiliary verbs and modal verbs]] |
+| **int. / interj.** | interjection | 感叹词 | 表达情绪与感叹 | [[叹词 interjection]] |
+| **abbr.** | abbreviation | 缩写 | 单词缩写 | —— |
+| **phr.** | phrase | 短语 | 固定词组 | —— |
+| **phr. v.** | phrasal verb | 短语动词 | 动词+介词/副词 | [[动词分类 verb Classification]] |
 
 ## 重点掌握（学位英语高频）
 
@@ -219,3 +220,15 @@ do 帮助构成疑问。
 不能：
 
 > You should studied ❌
+
+---
+
+## 🔗 知识网络与双链导航
+
+- **语法顶层导图**：[[英语语法综述 grammar Overview]] · **[[词性 word class]]**
+- **词法体系专题**：
+  - [[名词 noun]] · [[冠词 article]] · [[代词 pronoun]] · [[数词 numeral]] · [[形容词 adjective]]
+  - [[副词 adverb]] · [[介词 preposition]] · [[连词 conjunction]] · [[叹词 interjection]] · [[限定词 determiners]]
+- **动词专项体系**：
+  - [[动词分类 verb Classification]] · [[使役动词 Causative Verb]] · [[系动词 linking verbs]] · [[动词时态 verb tense]]
+  - [[被动 Passive Voice]] · [[助动词和情态动词 auxiliary verbs and modal verbs]] · [[非谓语动词 non-finite verb]] · [[虚拟语气 Subjunctive Mood]]

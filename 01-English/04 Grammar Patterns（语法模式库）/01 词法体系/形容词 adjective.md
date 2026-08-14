@@ -1,10 +1,15 @@
+---
+tags:
+  - grammar
+  - morphology
+---
 # 形容词（Adjectives）
 
 ## 什么是形容词
 
-形容词是用来修饰名词或代词，说明人或事物的特征、性质、状态、属性或所属的词。
+形容词（Adjective，简写为 `adj.`）是用来修饰 [[名词 noun]] 或 [[代词 pronoun]]，说明人或事物的特征、性质、状态、属性或所属的词。
 
-在句子中，形容词主要充当定语、表语、宾语补足语或状语。
+在句子中，形容词主要充当定语、表语、宾语补足语或状语。详细体系可对照 [[词性 word class]] 与 [[英语语法综述 grammar Overview]]。
 
 ```text
 The cute white rabbit is eating sweet carrots.
@@ -16,13 +21,13 @@ The cute white rabbit is eating sweet carrots.
 
 ### 形容词的核心句法功能
 
-| 句法成分 | 核心位置 | 示例 |
-| --- | --- | --- |
-| 前置定语 | 放在被修饰名词之前 | `a hungry rabbit` |
-| 后置定语 | 放在不定代词或短语后 | `something important`, `the rabbit alive` |
-| 表语 | 放在系动词（be, seem, look等）之后 | `The rabbit is happy.` |
-| 宾语补足语 | 放在宾语之后补充说明其状态 | `Carrots make the rabbit healthy.` |
-| 状语 | 补充说明动作发生时主语的状态 | `The rabbit arrived home, tired and hungry.` |
+| 句法成分 | 核心位置 | 示例 | 关联章节 |
+| --- | --- | --- | --- |
+| 前置定语 | 放在被修饰名词之前 | `a hungry rabbit` | [[限定词 determiners]] |
+| 后置定语 | 放在不定代词或短语后 | `something important`, `the rabbit alive` | [[代词 pronoun]] |
+| 表语 | 放在系动词（be, seem, look等）之后 | `The rabbit is happy.` | [[系动词 linking verbs]] |
+| 宾语补足语 | 放在宾语之后补充说明其状态 | `Carrots make the rabbit healthy.` | [[使役动词 Causative Verb]] |
+| 状语 | 补充说明动作发生时主语的状态 | `The rabbit arrived home, tired and hungry.` | [[副词 adverb]] |
 
 ---
 
@@ -32,30 +37,30 @@ The cute white rabbit is eating sweet carrots.
 
 #### 前置定语与多个形容词的排列顺序
 
-当多个形容词同时修饰一个名词时，通常遵循“**限观形龄色国材用**”的顺序规律：
+当多个形容词同时修饰一个名词时，通常遵循“**限观形龄色国材用**”的顺序规律（首位通常由 [[限定词 determiners]] 占据）：
 
 ```text
 限定词 → 观点评价 → 形状大小 → 年龄新旧 → 颜色 → 国籍来源 → 材质材料 → 用途类别 → 中心名词
 ```
 
-| 顺序编号 | 类别 | 常见词汇 | 综合例句 |
-| --- | --- | --- | --- |
-| 1 | 限定词 | `a`, `the`, `my`, `this` | `a` |
-| 2 | 主观观点 / 评价 | `beautiful`, `nice`, `good` | `beautiful` |
-| 3 | 大小 / 形状 | `big`, `small`, `round` | `big round` |
-| 4 | 年龄 / 新旧 | `new`, `old`, `young` | `new` |
-| 5 | 颜色 | `black`, `white`, `red` | `black` |
-| 6 | 国籍 / 来源 | `Chinese`, `British` | `Chinese` |
-| 7 | 材质 / 材料 | `wooden`, `silk`, `stone` | `wooden` |
-| 8 | 用途 / 类别 | `dining`, `writing` | `dining` |
-| 9 | 中心名词 | `table`, `chair` | `table` |
+| 顺序编号 | 类别 | 常见词汇 | 综合例句 | 语法定位 |
+| --- | --- | --- | --- | --- |
+| 1 | 限定词 | `a`, `the`, `my`, `this` | `a` | [[限定词 determiners]] |
+| 2 | 主观观点 / 评价 | `beautiful`, `nice`, `good` | `beautiful` | 性质特征 |
+| 3 | 大小 / 形状 | `big`, `small`, `round` | `big round` | 物理外观 |
+| 4 | 年龄 / 新旧 | `new`, `old`, `young` | `new` | 年代特征 |
+| 5 | 颜色 | `black`, `white`, `red` | `black` | 视觉色彩 |
+| 6 | 国籍 / 来源 | `Chinese`, `British` | `Chinese` | 专有属性 |
+| 7 | 材质 / 材料 | `wooden`, `silk`, `stone` | `wooden` | 构成材料 |
+| 8 | 用途 / 类别 | `dining`, `writing` | `dining` | 功能类别 |
+| 9 | 中心名词 | `table`, `chair` | `table` | [[名词 noun]] |
 
 > a beautiful big round new black Chinese wooden dining table  
 > 一张漂亮的、崭新的、黑色中式木质大圆餐桌。
 
 #### 后置定语的常见情形
 
-1. **修饰复合不定代词**（`something`, `anything`, `nothing`, `somebody` 等）：形容词必须后置。
+1. **修饰复合不定代词**（`something`, `anything`, `nothing`, `somebody` 等，详见 [[代词 pronoun]]）：形容词必须后置。
 2. **形容词短语**（带有介词短语或不定式）：须后置修饰。
 3. **特定表语形容词**在特定语境下作后置修饰。
 
@@ -63,14 +68,14 @@ The cute white rabbit is eating sweet carrots.
 > 兔子需要一些甜的东西。（修饰不定代词 `something`）
 
 > carrots good for health  
-> 对健康有益的胡萝卜。（形容词短语后置）
+> 对健康有益的胡萝卜。（形容词短语后置，通过 [[介词 preposition]] 构成）
 
 > the rabbit eager to eat carrots  
-> 急于吃胡萝卜的兔子。（= `the rabbit that is eager to eat carrots`）
+> 急于吃胡萝卜的兔子。（= `the rabbit that is eager to eat carrots`，参见 [[从句 clause]]）
 
 ### 2. 作表语（表语形容词特性）
 
-形容词接在系动词（`be`, `look`, `sound`, `smell`, `taste`, `feel`, `seem`, `become` 等）后作表语。
+形容词接在 [[系动词 linking verbs]]（`be`, `look`, `sound`, `smell`, `taste`, `feel`, `seem`, `become` 等）后作表语。
 
 > The rabbit is hungry.  
 > 兔子饿了。
@@ -105,7 +110,7 @@ The cute white rabbit is eating sweet carrots.
 
 ### 3. 作宾语补足语
 
-常用于“动词 + 宾语 + 形容词”结构，说明宾语处于某种状态（常见动词：`make`, `keep`, `find`, `leave`, `paint`）。
+常用于“动词 + 宾语 + 形容词”结构，说明宾语处于某种状态（常见使役或状态动词：`make`, `keep`, `find`, `leave`，详见 [[使役动词 Causative Verb]]）。
 
 > Carrots make the rabbit happy.  
 > 胡萝卜让兔子开心。
@@ -137,14 +142,14 @@ The cute white rabbit is eating sweet carrots.
 
 ### 2. 复合形容词的构成分类
 
-| 结构模式 | 示例 | 含义 |
-| --- | --- | --- |
-| 形容词 + 形容词 / 分词 | `red-hot`, `good-looking`, `new-born` | 红热的、好看的、新生的 |
-| 副词 + 形容词 / 分词 | `all-round`, `hard-working`, `recently-built` | 全面的、努力工作的、最近建成的 |
-| 形容词 / 数词 + 名词 + `-ed` | `white-haired`, `kind-hearted`, `three-legged` | 白发的、好心的、三条腿的 |
-| 名词 + 形容词 / 分词 | `snow-white`, `carrot-eating`, `heart-broken` | 雪白的、吃胡萝卜的、心碎的 |
+| 结构模式 | 示例 | 含义 | 关联语法 |
+| --- | --- | --- | --- |
+| 形容词 + 形容词 / 分词 | `red-hot`, `good-looking`, `new-born` | 红热的、好看的、新生的 | [[非谓语动词 non-finite verb]] |
+| 副词 + 形容词 / 分词 | `all-round`, `hard-working`, `recently-built` | 全面的、努力工作的、最近建成的 | [[副词 adverb]] |
+| 形容词 / 数词 + 名词 + `-ed` | `white-haired`, `kind-hearted`, `three-legged` | 白发的、好心的、三条腿的 | [[数词 numeral]] |
+| 名词 + 形容词 / 分词 | `snow-white`, `carrot-eating`, `heart-broken` | 雪白的、吃胡萝卜的、心碎的 | [[名词 noun]] |
 
-### 3. `-ing` 形容词 与 `-ed` 形容词辨析
+### 3. `-ing` 形容词 与 `-ed` 形容词辨析（参见 [[非谓语动词 non-finite verb]]）
 
 - **`-ing` 形容词**：表示“令人……的”，通常描述**事物的特征或性质**。
 - **`-ed` 形容词**：表示“感到……的”，通常描述**人（或拟人动物）的自身感受**。
@@ -160,7 +165,7 @@ The cute white rabbit is eating sweet carrots.
 > 这个故事非常有趣。
 
 > The rabbit is interested in the story.  
-> 兔子对这个故事很感兴趣。
+> 兔子对这个故事很感兴趣。（搭配介词 `in`，参见 [[介词 preposition]]）
 
 ---
 
@@ -193,7 +198,7 @@ The cute white rabbit is eating sweet carrots.
 #### 句型 1：`A + be + 比较级 + than + B`（两者比较）
 
 > This carrot is bigger than that one.  
-> 这根胡萝卜比那根大。
+> 这根胡萝卜比那根大。（`one` 是代词，见 [[代词 pronoun]]；`than` 是从属连词，见 [[连词 conjunction]]）
 
 #### 句型 2：`as + 原级 + as`（同级比较）/ `not as/so + 原级 + as`（不如……）
 
@@ -206,7 +211,7 @@ The cute white rabbit is eating sweet carrots.
 #### 句型 3：越来越……（`比较级 + and + 比较级` / `more and more + 多音节`）
 
 > The rabbit is getting smarter and smarter.  
-> 兔子变得越来越聪明了。
+> 兔子变得越来越聪明了。（`get` 是变化类 [[系动词 linking verbs]]）
 
 > The garden is becoming more and more beautiful.  
 > 花园变得越来越漂亮了。
@@ -222,7 +227,7 @@ The cute white rabbit is eating sweet carrots.
 #### 句型 5：两者中较……的一个（`the + 比较级 + of the two`）
 
 > He is the taller of the two rabbits.  
-> 他是两只兔子中较高的那一只。（特指两者之一，比较级前须加 `the`）
+> 他是两只兔子中较高的那一只。（特指两者之一，比较级前须加 [[冠词 article|the]]）
 
 ### 3. 最高级的核心句型
 
@@ -237,7 +242,7 @@ The cute white rabbit is eating sweet carrots.
 #### 句型 2：`the + 序数词 + 最高级 + 名词`（表示“第几最……”）
 
 > The Yellow River is the second longest river in China.  
-> 黄河是中国第二长河。
+> 黄河是中国第二长河。（结合 [[数词 numeral|序数词]]）
 
 #### 句型 3：`a most + 形容词`（表示“非常”，相当于 very）
 
@@ -248,7 +253,7 @@ The cute white rabbit is eating sweet carrots.
 
 ## 四、`the + 形容词` 的特殊用法
 
-### 1. 表示某一类人（谓语动词用复数）
+### 1. 表示某一类人（谓语动词用复数，参见 [[主谓一致 subject verb agreement]]）
 
 ```text
 the rich（富人）     the poor（穷人）     the blind（盲人）
@@ -271,14 +276,14 @@ the unknown（未知事物）   the beautiful（美的事物）   the true（真
 
 ## 五、核心对比与总结
 
-| 句式模式 | 语法结构 | 核心含义 | 示例 |
-| --- | --- | --- | --- |
-| 同级比较 | `as + adj.原级 + as` | 和……一样 | `as big as` |
-| 优劣比较 | `adj.比较级 + than` | 比……更…… | `bigger than` |
-| 持续渐进 | `比较级 + and + 比较级` | 越来越…… | `smarter and smarter` |
-| 因果递进 | `the + 比较级, the + 比较级` | 越……就越…… | `The more, the better.` |
-| 两者选一 | `the + 比较级 + of the two` | 两者中较……的那一个 | `the taller of the two` |
-| 最高级 | `the + 最高级 + in/of` | 最…… | `the smartest of all` |
+| 句式模式 | 语法结构 | 核心含义 | 示例 | 关联专题 |
+| --- | --- | --- | --- | --- |
+| 同级比较 | `as + adj.原级 + as` | 和……一样 | `as big as` | [[连词 conjunction]] |
+| 优劣比较 | `adj.比较级 + than` | 比……更…… | `bigger than` | [[连词 conjunction]] |
+| 持续渐进 | `比较级 + and + 比较级` | 越来越…… | `smarter and smarter` | [[系动词 linking verbs]] |
+| 因果递进 | `the + 比较级, the + 比较级` | 越……就越…… | `The more, the better.` | [[从句 clause]] |
+| 两者选一 | `the + 比较级 + of the two` | 两者中较……的那一个 | `the taller of the two` | [[冠词 article]] |
+| 最高级 | `the + 最高级 + in/of` | 最…… | `the smartest of all` | [[介词 preposition]] |
 
 ---
 
@@ -300,7 +305,7 @@ the unknown（未知事物）   the beautiful（美的事物）   the true（真
 ❌ He told me important something.
 ✅ He told me something important.
 ```
-- 形容词修饰复合不定代词必须后置。
+- 形容词修饰复合不定代词必须后置（参见 [[代词 pronoun]]）。
 
 ```text
 ❌ This carrot is more bigger than that one.
@@ -318,10 +323,21 @@ the unknown（未知事物）   the beautiful（美的事物）   the true（真
 ❌ The rich is helping the poor.
 ✅ The rich are helping the poor.
 ```
-- `the + 形容词` 表示一类人时，谓语动词须用复数形式。
+- `the + 形容词` 表示一类人时，谓语动词须用复数形式（参见 [[主谓一致 subject verb agreement]]）。
 
 ```text
 ❌ The rabbit is interesting in carrots.
 ✅ The rabbit is interested in carrots.
 ```
-- 描述人/动物自身感到有兴趣应使用 `-ed` 结尾的 `interested`。
+- 描述人/动物自身感到有兴趣应使用 `-ed` 结尾的 `interested`（参见 [[非谓语动词 non-finite verb]]）。
+
+---
+
+## 🔗 知识网络与双链导航
+
+- **语法顶层导图**：[[英语语法综述 grammar Overview]] · [[词性 word class]]
+- **词法体系专题**：
+  - [[名词 noun]] · [[冠词 article]] · [[代词 pronoun]] · [[数词 numeral]] · **[[形容词 adjective]]**
+  - [[副词 adverb]] · [[介词 preposition]] · [[连词 conjunction]] · [[叹词 interjection]] · [[限定词 determiners]]
+- **进阶关联专题**：
+  - [[系动词 linking verbs]] · [[限定词 determiners]] · [[非谓语动词 non-finite verb]] · [[主谓一致 subject verb agreement]]

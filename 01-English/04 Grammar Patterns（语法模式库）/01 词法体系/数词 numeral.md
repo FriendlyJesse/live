@@ -1,8 +1,13 @@
+---
+tags:
+  - grammar
+  - morphology
+---
 # 数词（Numerals）
 
 ## 什么是数词
 
-数词是表示数目多少或顺序先后的词。
+数词（Numeral，简写为 `num.`）是表示数目多少或顺序先后的词。在句子中修饰名词时，数词通常充当后位 [[限定词 determiners]]。
 
 英语中的数词主要分为两大家族：**基数词**（Cardinal Numerals）和**序数词**（Ordinal Numerals），并在日常生活与学术中衍生出分数、小数、百分数、倍数、时间、日期与度量衡等表达方式。
 
@@ -11,17 +16,17 @@ The three rabbits won the first prize.
 那三只兔子赢得了一等奖。
 ```
 
-- `three`：基数词（表示数目“三个”）
-- `the first`：序数词（表示顺序“第一”）
+- `three`：基数词（表示数目“三个”，修饰 [[名词 noun]] `rabbits`）
+- `the first`：序数词（表示顺序“第一”，搭配 [[冠词 article]] `the`）
 
 ### 数词核心分类
 
-| 分类 | 核心功能 | 典型示例 |
-| --- | --- | --- |
-| 基数词 | 表示数量多少 | `one`, `two`, `twenty`, `hundred` |
-| 序数词 | 表示排列顺序 | `first`, `second`, `twentieth` |
-| 分数 / 小数 / 百分数 | 表示部分与比例 | `one third (1/3)`, `1.34`, `25%` |
-| 倍数 | 表示倍数关系 | `twice`, `three times` |
+| 分类 | 核心功能 | 典型示例 | 关联章节 |
+| --- | --- | --- | --- |
+| 基数词 | 表示数量多少 | `one`, `two`, `twenty`, `hundred` | [[限定词 determiners]] |
+| 序数词 | 表示排列顺序 | `first`, `second`, `twentieth` | [[冠词 article]] |
+| 分数 / 小数 / 百分数 | 表示部分与比例 | `one third (1/3)`, `1.34`, `25%` | [[主谓一致 subject verb agreement]] |
+| 倍数 | 表示倍数关系 | `twice`, `three times` | [[形容词 adjective]] |
 
 ---
 
@@ -52,7 +57,7 @@ hundred（百）   thousand（千）   million（百万）   billion（十亿）
 
 #### 规则 1：确定数量时不加 `-s`
 
-当前面有具体基数词修饰时，`hundred`, `thousand`, `million`, `billion` 均使用**单数形式**，其后直接接复数名词。
+当前面有具体基数词修饰时，`hundred`, `thousand`, `million`, `billion` 均使用**单数形式**，其后直接接复数 [[名词 noun]]。
 
 > two hundred students  
 > 200 名学生
@@ -62,7 +67,7 @@ hundred（百）   thousand（千）   million（百万）   billion（十亿）
 
 #### 规则 2：不确定数量时加 `-s` 并接 `of`
 
-表示模糊的多数（成百上千、成千上万）时，须用**复数形式**并加上 `of`。
+表示模糊的多数（成百上千、成千上万）时，须用**复数形式**并加上 [[介词 preposition|of]]。
 
 ```text
 hundreds of          成百上千的
@@ -76,7 +81,7 @@ tens of thousands of 数以万计的
 
 #### 大数字分段读法（每三位用逗号隔开）
 
-从右往左数，每三位加一个逗号，从左往右依次读出 `billion`, `million`, `thousand`, `hundred`，百位与十位之间英式英语常加 `and`。
+从右往左数，每三位加一个逗号，从左往右依次读出 `billion`, `million`, `thousand`, `hundred`，百位与十位之间英式英语常加 [[连词 conjunction|and]]。
 
 ```text
 365             three hundred and sixty-five
@@ -96,7 +101,7 @@ tens of thousands of 数以万计的
 > 请给我两个。（作宾语）
 
 > There are two hundred rabbits here.  
-> 这里有两百只兔子。（作定语）
+> 这里有两百只兔子。（作定语，参见 [[限定词 determiners]]）
 
 > You two can go together.  
 > 你们两个可以一起去。（作同位语）
@@ -132,7 +137,7 @@ tens of thousands of 数以万计的
 - 结尾为 **11、12、13**：一律加 `th`（`11th`, `12th`, `13th`, `111th`）。
 - 其余数字：末位是 **1** 用 `st`（`21st`），末位是 **2** 用 `nd`（`22nd`），末位是 **3** 用 `rd`（`23rd`），其余均用 `th`（`24th`, `100th`）。
 
-### 2. 序数词前冠词使用规则
+### 2. 序数词前冠词使用规则（详见 [[冠词 article]]）
 
 #### 通常须加定冠词 `the`
 
@@ -142,7 +147,7 @@ tens of thousands of 数以万计的
 #### 前有物主代词或名词所有格时，不加 `the`
 
 > This is my first book.  
-> 这是我的第一本书。
+> 这是我的第一本书。（`my` 是中位 [[限定词 determiners]]）
 
 #### 加不定冠词 `a / an` 表示“再一、又一”
 
@@ -168,12 +173,13 @@ World War II       = the Second World War（第二次世界大战）
 
 - **分子**用基数词，**分母**用序数词。
 - 当分子大于 1 时，分母序数词须加 `-s`。
+- 分数作主语时，谓语动词单复数取决于 of 后名词的数（参见 [[主谓一致 subject verb agreement]]）。
 
 | 分数 | 英语表达 | 说明 |
 | --- | --- | --- |
 | 1/3 | `one third` / `a third` | 分子为 1，分母单数 |
 | 3/5 | `three fifths` | 分子大于 1，分母加 `-s` |
-| 1/2 | `a half` / `one half` | 特殊表达 |
+| 1/2 | `a half` / `one half` | 特殊表达（参见 [[限定词 determiners]]） |
 | 1/4 | `a quarter` / `one fourth` | 特殊表达 |
 | 3/4 | `three quarters` / `three fourths` | 特殊表达 |
 | 2⅓ | `two and one third` | 带分数用 `and` 连接 |
@@ -200,6 +206,8 @@ World War II       = the Second World War（第二次世界大战）
 ---
 
 ## 四、倍数表达法（Multiples）
+
+在与 [[形容词 adjective]] 或 [[副词 adverb]] 搭配比较时，有以下四大经典句型：
 
 ### 1. `倍数 + as + 形容词/副词原级 + as...`
 
@@ -240,6 +248,7 @@ World War II       = the Second World War（第二次世界大战）
 - **逆读法（分钟 + past / to + 钟点）**：
   - 分钟数 ≤ 30：用 `past`（表示“过几分”），如 `7:15` → `a quarter past seven`，`7:30` → `half past seven`。
   - 分钟数 > 30：用 `to`（表示“差几分到几点”），如 `7:50` → `ten to eight`（差十分八点）。
+  - 时间点介词搭配参见 [[介词 preposition]]。
 
 ### 2. 日期表达
 
@@ -275,12 +284,12 @@ This room is 20 by 35 meters.
 
 ## 六、核心对比与总结
 
-| 数词形式 | 核心结构 | 示例 | 关键注意点 |
-| --- | --- | --- | --- |
-| 具体基数词 | `基数词 + hundred/thousand + 名词复数` | `two hundred students` | `hundred` 不加 `-s` |
-| 模糊基数词 | `hundreds/thousands + of + 名词复数` | `thousands of carrots` | 必须加 `-s` 且后接 `of` |
-| 序数词 | `the + 序数词 + 名词单数` | `the first rabbit` | 前面通常必须加 `the` |
-| 分数 | `分子（基数）+ 分母（序数）` | `three fifths (3/5)` | 分子 > 1，分母加 `-s` |
+| 数词形式 | 核心结构 | 示例 | 关键注意点 | 关联规则 |
+| --- | --- | --- | --- | --- |
+| 具体基数词 | `基数词 + hundred/thousand + 名词复数` | `two hundred students` | `hundred` 不加 `-s` | [[名词 noun]] |
+| 模糊基数词 | `hundreds/thousands + of + 名词复数` | `thousands of carrots` | 必须加 `-s` 且后接 `of` | [[介词 preposition]] |
+| 序数词 | `the + 序数词 + 名词单数` | `the first rabbit` | 前面通常必须加 `the` | [[冠词 article]] |
+| 分数 | `分子（基数）+ 分母（序数）` | `three fifths (3/5)` | 分子 > 1，分母加 `-s` | [[主谓一致 subject verb agreement]] |
 
 ---
 
@@ -315,10 +324,21 @@ This room is 20 by 35 meters.
 ✅ This carrot is three times as big as that one.
 ✅ This carrot is three times bigger than that one.
 ```
-- `as...as` 与 `比较级...than` 结构不能混淆。
+- `as...as` 与 `比较级...than` 结构不能混淆（参见 [[形容词 adjective]]）。
 
 ```text
 ❌ in 1980s
 ✅ in the 1980s
 ```
-- 表示年代时，年份前必须加定冠词 `the`。
+- 表示年代时，年份前必须加定冠词 `the`（参见 [[冠词 article]]）。
+
+---
+
+## 🔗 知识网络与双链导航
+
+- **语法顶层导图**：[[英语语法综述 grammar Overview]] · [[词性 word class]]
+- **词法体系专题**：
+  - [[名词 noun]] · [[冠词 article]] · [[代词 pronoun]] · **[[数词 numeral]]** · [[形容词 adjective]]
+  - [[副词 adverb]] · [[介词 preposition]] · [[连词 conjunction]] · [[叹词 interjection]] · [[限定词 determiners]]
+- **进阶关联专题**：
+  - [[限定词 determiners]] · [[冠词 article]] · [[形容词 adjective]] · [[主谓一致 subject verb agreement]]

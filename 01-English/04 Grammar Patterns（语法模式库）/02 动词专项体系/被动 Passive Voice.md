@@ -1,342 +1,203 @@
-# 被动语态 Passive Voice
+---
+tags:
+  - grammar
+  - verb
+---
+# 被动语态（Passive Voice）
 
 ## 什么是被动语态
 
-语态表示主语与谓语动词之间的关系。
+语态（Voice）表示句子的主语与谓语动词之间的执行与承受关系（参见 [[动词分类 verb Classification]] 与 [[英语语法综述 grammar Overview]]）。
 
-- **主动语态**：强调动作的执行者。
-- **被动语态**：强调动作的承受者。
-
-```text
-主动：The rabbit ate the carrot.
-兔子吃了胡萝卜。
-
-被动：The carrot was eaten by the rabbit.
-胡萝卜被兔子吃了。
-```
-
-被动语态的基本结构：
+英语中有两种基本语态：
+- **主动语态（Active Voice）**：主语是动作的**执行者**（施动者）；
+- **被动语态（Passive Voice）**：主语是动作的**承受者**（受动者）。
 
 ```text
-主语 + be动词 + 过去分词（done）+ by + 动作执行者
-```
-
-```text
-The carrot was eaten by the rabbit.
-胡萝卜被兔子吃了。
-```
-
-- `The carrot`：动作的承受者。
-- `was`：be 动词，体现时态。
-- `eaten`：过去分词。
-- `by the rabbit`：动作执行者。
-
-当不需要强调动作执行者，或执行者未知时，`by + 动作执行者` 可以省略。
-
-```text
-A carrot was eaten.
-一根胡萝卜被吃了。
-```
-
----
-
-## 哪些句子能变被动
-
-通常只有带宾语的动词，也就是**及物动词**，才能变为被动语态。
-
-### 主语 + 谓语
-
-```text
-The rabbit slept.
-兔子睡觉了。
-```
-
-- `sleep` 是不及物动词，后面没有宾语。
-- 不及物动词一般不能用于被动语态。
-
-```text
-❌ The rabbit was slept.
-```
-
-### 主语 + 谓语 + 宾语
-
-```text
+主动语态：
 The rabbit ate the carrot.
-兔子吃了胡萝卜。
-```
+兔子吃了胡萝卜。（强调执行者是兔子）
 
-改为被动：
-
-```text
+被动语态：
 The carrot was eaten by the rabbit.
-胡萝卜被兔子吃了。
+胡萝卜被兔子吃了。（强调承受者是胡萝卜）
 ```
 
-- 主动句宾语 `the carrot` 变成被动句主语。
-- 动词 `ate` 变为 `was eaten`。
-- 主动句主语 `the rabbit` 变为 `by the rabbit`。
+- `The carrot`：主语（动作承受者，见 [[名词 noun]]）
+- `was`：助动词 `be`（体现时态为一般过去时，见 [[动词时态 verb tense]]）
+- `eaten`：实义动词的过去分词（表被动动作，见 [[非谓语动词 non-finite verb]]）
+- `by the rabbit`：介词短语，指出动作执行者（当执行者未知、不重要或显而易见时可省略，见 [[介词 preposition]]）
 
----
-
-## 主动句变被动的步骤
-
-```text
-主动：主语 + 谓语 + 宾语
-被动：宾语 + be + 过去分词 + by + 主语
-```
-
-示例：
+### 被动语态基本结构公式
 
 ```text
-The rabbit ate the carrot.
-↓
-The carrot was eaten by the rabbit.
-```
-
-转换时注意：
-
-1. 把主动句的宾语提前，作被动句的主语。
-2. 根据原句的时态、人称和数，确定 `be` 动词形式。
-3. 实义动词改为过去分词。
-4. 原主语前加 `by`，作为动作执行者；如果不重要或未知，可以省略。
-
----
-
-## 过去分词：被动与表语
-
-过去分词放在 `be` 动词后，不一定都是被动语态；它也可能表示主语的状态，作表语。
-
-> The rabbit was frightened.  
-> 兔子感到害怕。
-
-- `frightened` 更强调兔子的心理状态，可理解为表语。
-
-> The rabbit was frightened by the wolf.  
-> 兔子被狼吓到了。
-
-- `by the wolf` 说明动作执行者，明显是被动语态。
-
-> The rabbit was frightening.  
-> 兔子很吓人。
-
-- `frightening` 是现在分词作表语，表示“令人害怕的”。
-
----
-
-## 双宾语动词的被动
-
-有些动词可以带两个宾语：
-
-```text
-主语 + 谓语 + 间接宾语 + 直接宾语
-```
-
-```text
-The rabbit gave the wolf the carrot.
-兔子给了狼一根胡萝卜。
-```
-
-也可以写成：
-
-```text
-The rabbit gave the carrot to the wolf.
-兔子把胡萝卜给了狼。
-```
-
-- `the wolf`：间接宾语，表示“给谁”。
-- `the carrot`：直接宾语，表示“给什么”。
-
-## 间接宾语作主语
-
-强调“谁得到了某物”时，间接宾语可变为被动句主语：
-
-```text
-The wolf was given the carrot by the rabbit.
-狼被兔子给了一根胡萝卜。
-```
-
-结构：
-
-```text
-间接宾语 + be + 过去分词 + 直接宾语 + by + 动作执行者
-```
-
-## 直接宾语作主语
-
-强调“什么被给出”时，直接宾语可变为被动句主语：
-
-```text
-The carrot was given to the wolf by the rabbit.
-胡萝卜被兔子给了狼。
-```
-
-结构：
-
-```text
-直接宾语 + be + 过去分词 + to/for + 间接宾语 + by + 动作执行者
-```
-
-注意：当直接宾语变为被动句主语时，通常要保留介词 `to` 或 `for`。
-
-```text
-主动：The rabbit gave the carrot to the wolf.
-被动：The carrot was given to the wolf by the rabbit.
-```
-
-如果不强调动作执行者：
-
-```text
-The carrot was given to the wolf.
-胡萝卜被给了狼。
+主语（受动者） + be 动词（承担时态与人称） + 过去分词（done） (+ by + 施动者)
 ```
 
 ---
 
-## 宾语补足语的被动
+## 一、哪些句子能够变为被动语态
 
-### `invite sb to ...`
+只有**及物动词（vt.）**及其短语才有宾语，才能变为被动语态；**不及物动词（vi.）**和 [[系动词 linking verbs]] 不能用于被动语态（参见 [[动词分类 verb Classification]]）。
 
-```text
-The wolf invited the rabbit to her party.
-狼邀请兔子去她的聚会。
-```
-
-改为被动：
+### 1. 不及物动词无被动语态
 
 ```text
-The rabbit was invited to the party by the wolf.
-兔子被狼邀请去参加聚会。
+happen（发生）, take place（发生）, appear（出现）, disappear（消失）, arrive（到达）, die（死亡）
 ```
 
-- 主动句中的宾语 `the rabbit` 变为被动句主语。
-- 宾语补足语或相关成分 `to the party` 保留。
-
-### `make sb do sth`
+> An accident happened yesterday.  
+> 昨天发生了一起事故。
 
 ```text
-The rabbit made the wolf laugh.
-兔子把狼逗笑了。
+✅ An accident happened yesterday.
+❌ An accident was happened yesterday.
 ```
 
-主动语态中：
+### 2. 部分表示状态或所属的及物动词不用被动语态
 
 ```text
-make + 宾语 + 动词原形
+have（拥有）, fit（适合）, suit（适合）, lack（缺乏）, hold（容纳）
 ```
 
-改为被动语态后，动词原形前要恢复 `to`：
-
-```text
-The wolf was made to laugh by the rabbit.
-狼被兔子逗笑了。
-```
-
-```text
-主动：make sb do sth
-被动：sb be made to do sth
-```
+> The rabbit has a big carrot.  
+> 兔子有一根大胡萝卜。（不可改为 `A big carrot is had by the rabbit.`）
 
 ---
 
-## 被动语态与时态
-
-被动语态可以和各种时态、情态动词结合。
-
-核心规则：
+## 二、主动语态变被动语态的五步法
 
 ```text
-被动 = be + 过去分词
+主动句：The rabbit  ate       the carrot.
+          [主语]   [谓语动词]    [宾语]
+            ↓         ↓           ↓
+被动句：The carrot  was eaten  by the rabbit.
+          [主语]     [be+done]    [by+宾语]
 ```
 
-变化的主要是 `be` 动词的形式。
-
-| 时态或结构   | 主动语态                      | 被动语态                           |
-| ------- | ------------------------- | ------------------------------ |
-| 一般现在时   | `eat / eats`              | `am / is / are + eaten`        |
-| 一般过去时   | `ate`                     | `was / were + eaten`           |
-| 一般将来时   | `will eat`                | `will be eaten`                |
-| 现在进行时   | `is / are eating`         | `is / are being eaten`         |
-| 过去进行时   | `was / were eating`       | `was / were being eaten`       |
-| 现在完成时   | `has / have eaten`        | `has / have been eaten`        |
-| 过去完成时   | `had eaten`               | `had been eaten`               |
-| 将来完成时   | `will have eaten`         | `will have been eaten`         |
-| 情态动词    | `can / should / must eat` | `can / should / must be eaten` |
-| 情态动词完成式 | `might have eaten`        | `might have been eaten`        |
-
-示例：
-
-> The rabbit has eaten the carrot.  
-> 兔子已经吃了胡萝卜。
-
-> The carrot has been eaten by the rabbit.  
-> 胡萝卜已经被兔子吃掉了。
-
-> The rabbit would have eaten the carrot.  
-> 兔子本来会吃胡萝卜。
-
-> The carrot would have been eaten by the rabbit.  
-> 胡萝卜本来会被兔子吃掉。
-
-> The rabbit might eat the carrot.  
-> 兔子可能会吃胡萝卜。
-
-> The carrot might be eaten by the rabbit.  
-> 胡萝卜可能会被兔子吃掉。
+1. **宾变主**：将主动句的宾语变为被动句的主语；
+2. **定 be 动词**：根据原句的时态以及新主语的人称和单复数，确定 `be` 动词的形式（参见 [[主谓一致 subject verb agreement]] 与 [[动词时态 verb tense]]）；
+3. **变分词**：将主动句的谓语实义动词变为**过去分词（done）**；
+4. **主变介宾**：将原主动句的主语置于介词 `by` 之后，作为动作执行者（如不需要可省略）；
+5. **余成分顺延**：时间、地点状语等其他成分位置保持不变。
 
 ---
 
-## 否定句和疑问句
+## 三、各大时态中的被动语态结构
 
-被动语态的否定和疑问，主要通过 `be` 动词变化。
-
-### 否定句
-
-```text
-主语 + be + not + 过去分词
-```
-
-> The carrot has not been eaten by the rabbit.  
-> 胡萝卜还没有被兔子吃掉。
-
-> The carrot might not be eaten by the rabbit.  
-> 胡萝卜可能不会被兔子吃掉。
-
-### 一般疑问句
-
-把第一个 `be` 动词、助动词或情态动词提前。
-
-```text
-Has the carrot been eaten by the rabbit?
-胡萝卜已经被兔子吃掉了吗？
-
-Would the carrot have been eaten by the rabbit?
-胡萝卜本来会被兔子吃掉吗？
-
-Might the carrot be eaten by the rabbit?
-胡萝卜可能会被兔子吃掉吗？
-```
+| 时态名称 | 主动语态结构 | 被动语态结构（be + done） | 经典被动例句 |
+| --- | --- | --- | --- |
+| **一般现在时** | `do / does` | `am / is / are + done` | `Carrots are eaten by rabbits.` |
+| **一般过去时** | `did` | `was / were + done` | `The carrot was eaten yesterday.` |
+| **一般将来时** | `will do` | `will be + done` | `The room will be cleaned tomorrow.` |
+| **过去将来时** | `would do` | `would be + done` | `He said the room would be cleaned.` |
+| **现在进行时** | `am/is/are doing` | `am / is / are being + done` | `The carrot is being eaten now.` |
+| **过去进行时** | `was/were doing` | `was / were being + done` | `The house was being painted at that time.` |
+| **现在完成时** | `have/has done` | `have / has been + done` | `The project has been completed.` |
+| **过去完成时** | `had done` | `had been + done` | `The carrot had been eaten before 5:00.` |
+| **含情态动词** | `情态动词 + do` | `情态动词 + be + done` | `The work must be done at once.` |
 
 ---
 
-## 常见错误
+## 四、特殊句型的被动语态
+
+### 1. 双宾语句型的被动语态（人 / 物作主语）
+
+双及物动词（如 `give`, `send`, `show`, `buy`）有两个宾语：
+- **以间接宾语（人）作主语**：`The rabbit was given a carrot.`
+- **以直接宾语（物）作主语**：`A carrot was given to the rabbit.`（须借助介词 `to` 或 `for`，见 [[介词 preposition]]）
+
+> The wolf gave the rabbit a carrot. (主动)  
+> ↓  
+> The rabbit was given a carrot by the wolf. (间接宾语变主语)  
+> A carrot was given to the rabbit by the wolf. (直接宾语变主语)
+
+### 2. 复合宾语句型（省略 to 的不定式在被动中必须恢复 to）
+
+在主动语态中，感官动词（`see`, `hear`, `watch`, `notice`）和使役动词（`make`, `have`）接动词不定式作宾补时须**省略 to**；但在变被动语态后，**必须把 `to` 恢复出来**（详见 [[使役动词 Causative Verb]] 与 [[非谓语动词 non-finite verb]]）。
 
 ```text
-❌ The carrot was ate by the rabbit.
-✅ The carrot was eaten by the rabbit.
+主动语态：The teacher made the student clean the floor.
+被动语态：The student was made to clean the floor by the teacher.
 ```
-
-- 被动语态必须使用过去分词，`ate` 是过去式，`eaten` 才是过去分词。
 
 ```text
-❌ The wolf was made laugh by the rabbit.
-✅ The wolf was made to laugh by the rabbit.
+主动语态：I saw the rabbit run into the forest.
+被动语态：The rabbit was seen to run into the forest.
 ```
 
-- `make sb do sth` 变为被动时，要补回 `to`。
+### 3. 短语动词的被动语态（介词/副词不可遗漏）
+
+动词短语（如 `look after`, `take care of`, `laugh at`, `hand in`）是一个不可分割的整体，变为被动语态时，**后面的介词或副词绝对不能漏掉**：
+
+> The rabbit will take care of the baby. (主动)  
+> ↓  
+> The baby will be taken care of by the rabbit. (被动，`of` 不可丢)
+
+### 4. 形式主动而表示被动含义的特殊动词
+
+某些动词后接副词（如 `well`, `easily`, `smoothly`）时，用主动形式表达主语自身的固有特征或内在品质，含有被动意味：
 
 ```text
-❌ The rabbit was slept.
-✅ The rabbit slept.
+sell（畅销）, wash（耐洗）, write（好写）, read（好读）, wear（耐穿）
 ```
 
-- `sleep` 是不及物动词，通常不能变为被动语态。
+> This book sells well.  
+> 这本书很畅销。（不用 `is sold well`）
+
+> The cloth washes easily.  
+> 这种布料很好洗。
+
+> The pen writes smoothly.  
+> 这支笔写起来很流畅。
+
+---
+
+## 五、核心对比与总结
+
+| 被动语态特殊结构 | 核心规则 | 经典示例 |
+| --- | --- | --- |
+| 使役/感官动词被动 | 主动省略 `to`，被动必须恢复 `to` | `be made to do`, `be seen to do` |
+| 短语动词被动 | 介词/副词紧跟过去分词，不可丢失 | `be looked after`, `be laughed at` |
+| 双宾语被动（物作主语） | 动词后须补上介词 `to` 或 `for` | `A book was bought for me.` |
+| 不及物动词 | 绝对不可用于被动语态 | `happen`, `take place`, `die` |
+| 主动表被动动词 | 描述固有属性与副词搭配，用主动形式 | `sells well`, `washes easily` |
+
+---
+
+## 六、常见错误
+
+```text
+❌ The accident was happened on Monday.
+✅ The accident happened on Monday.
+```
+- `happen` 是不及物动词，不能使用被动语态。
+
+```text
+❌ The rabbit was made clean the room.
+✅ The rabbit was made to clean the room.
+```
+- `make sb do sth` 变为被动语态后，必须恢复不定式符号 `to`（参见 [[使役动词 Causative Verb]]）。
+
+```text
+❌ The baby was taken care by the rabbit.
+✅ The baby was taken care of by the rabbit.
+```
+- 短语动词 `take care of` 变被动时，介词 `of` 不能丢掉。
+
+```text
+❌ This book is sold well.
+✅ This book sells well.
+```
+- 动词 `sell` 与副词 `well` 连用表示“畅销”时，使用主动形式表达被动意义。
+
+---
+
+## 🔗 知识网络与双链导航
+
+- **语法顶层导图**：[[英语语法综述 grammar Overview]] · [[词性 word class]]
+- **动词专项体系**：
+  - [[动词分类 verb Classification]] · [[使役动词 Causative Verb]] · [[系动词 linking verbs]] · [[动词时态 verb tense]]
+  - **[[被动 Passive Voice]]** · [[助动词和情态动词 auxiliary verbs and modal verbs]] · [[非谓语动词 non-finite verb]] · [[虚拟语气 Subjunctive Mood]]
+- **句法联动**：
+  - [[使役动词 Causative Verb]] · [[非谓语动词 non-finite verb]] · [[主谓一致 subject verb agreement]] · [[介词 preposition]]

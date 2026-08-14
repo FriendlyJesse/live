@@ -161,20 +161,37 @@ ightarrow$ **状语从句**
   * **过去分词（-ed / done）**：*This is a half-eaten carrot.*（作定语）
 
 *(注：单词单独存在且脱离上下文时，无法仅凭形式断定 `-ing` 是现在分词还是动名词)*
-## 词类基础
+## 词类体系（01 词法）
 
 - [[词性 word class]]
 - [[名词 noun]]
-- [[代词 pronoun]]
-- [[形容词 adjective]]
-- [[数词 numeral]]
 - [[冠词 article]]
+- [[代词 pronoun]]
+- [[数词 numeral]]
+- [[形容词 adjective]]
+- [[副词 adverb]]
 - [[介词 preposition]]
+- [[连词 conjunction]]
+- [[叹词 interjection]]
+- [[限定词 determiners]]
 
-## 句法与表达
+## 动词专项体系（02 动词）
+
+- [[动词分类 verb Classification]]
+- [[使役动词 Causative Verb]]
+- [[系动词 linking verbs]]
+- [[动词时态 verb tense]]
+- [[被动 Passive Voice]]
+- [[助动词和情态动词 auxiliary verbs and modal verbs]]
+- [[非谓语动词 non-finite verb]]
+- [[虚拟语气 Subjunctive Mood]]
+
+## 句法与特殊句式（03 句法）
 
 - [[主谓一致 subject verb agreement]]
+- [[从句 clause]]
 - [[倒装 inversion]]
 - [[省略 ellipsis]]
 - [[强调 emphasize]]
+- [[独立主格 Absolute Construction]]
 - [[标点符号 punctuation]]

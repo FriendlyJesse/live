@@ -1,411 +1,265 @@
-# 虚拟语气 Subjunctive Mood
+---
+tags:
+  - grammar
+  - verb
+---
+# 虚拟语气（Subjunctive Mood）
 
 ## 什么是虚拟语气
 
-虚拟语气用于表达非现实、假设、愿望、建议、要求、命令或与事实相反的情况。
+语气（Mood）是动词的一种形式，用来表达说话人对某一行为或状态的态度、意图或假设（参见 [[动词分类 verb Classification]] 与 [[英语语法综述 grammar Overview]]）。
 
-它并不一定表示“过去”，而是通过动词的过去式、过去完成时或情态动词形式，表达“与现实有距离”的语气。
-
-```text
-陈述语气：描述事实
-If I see the rabbit tomorrow, I will bite him.
-如果我明天看到那只兔子，我会咬它。
-
-虚拟语气：与现实相反或可能性很小
-If I saw the rabbit now, I would bite him.
-如果我现在看到那只兔子，我会咬它。
-```
-
-- `If I saw ...` 使用过去式，但不表示过去时间。
-- 它表示“现在事实上没有看到兔子”的假设。
-
-## 语气的基本类型
-
-| 语气 | 作用 | 示例 |
-| --- | --- | --- |
-| 陈述语气 | 陈述事实、客观情况 | `The rabbit ate the carrot.` |
-| 疑问语气 | 提出问题 | `Did the rabbit eat the carrot?` |
-| 祈使语气 | 命令、请求、建议 | `Eat the carrot!` |
-| 虚拟语气 | 假设、愿望、建议、命令等 | `If I were you, I would study.` |
-
-## 祈使语气
-
-祈使句常用于命令、请求、建议或劝告。
+英语中有三大基本语气：
+- **陈述语气**：陈述客观事实或真实情况；
+- **祈使语气**：表达命令、请求、警告或劝告；
+- **虚拟语气**：表达**非真实假设**、**与事实相反的情况**、**主观愿望**、**建议**或**不可能实现的情境**。
 
 ```text
-Rabbit, eat the carrot!
-兔子，吃掉这根胡萝卜！
+陈述语气（描述真实情况）：
+If I have time tomorrow, I will visit the rabbit.
+如果我明天有时间，我会去拜访兔子。（有可能发生）
 
-Please, give me a thumbs-up!
-请给我点个赞！
+虚拟语气（与客观事实相反）：
+If I were a rabbit, I would eat carrots every day.
+如果我是一只兔子，我每天都会吃胡萝卜。（非真实假设，我不可能是兔子）
 ```
 
-祈使句的构成通常是：
+- `were`：虚拟语气动词形式（虚拟语气中 be 动词在条件从句中通常统一使用 `were`，见 [[主谓一致 subject verb agreement]]）
+- `would eat`：主句使用“情态动词过去式 + 动词原形”（参见 [[助动词和情态动词 auxiliary verbs and modal verbs]]）
 
-```text
-动词原形 + 其他成分
-```
+### 虚拟语气核心类型总览
 
-```text
-Eat the carrot!
-吃掉胡萝卜！
-
-Don't eat it!
-别吃它！
-
-Be quiet!
-安静！
-
-Never give up!
-永远不要放弃！
-```
-
-祈使句的主语通常是第二人称 `you`，但一般省略。
-
-```text
-You eat the carrot.
-↓
-Eat the carrot!
-```
-
-## 虚拟条件句
-
-虚拟条件句用于表达与现在、将来或过去事实相反的假设。
-
-### 与现在事实相反
-
-```text
-If + 主语 + 动词过去式, 主语 + would + 动词原形
-```
-
-```text
-If I were you, I would give this video a thumbs-up.
-如果我是你，我会给这个视频点赞。
-```
-
-言下之意：
-
-```text
-I am not you.
-我不是你。
-```
-
-`be` 动词在正式或考试语法中，通常使用 `were`，不论主语是 `I`、`he`、`she` 还是 `it`。
-
-```text
-If I were you, ...
-If he were here, ...
-If she were a teacher, ...
-```
-
-```text
-✅ If I were a rabbit, I would eat a carrot.
-❌ If I am a rabbit, I would eat a carrot.
-```
-
-### 与将来事实相反或可能性很小
-
-```text
-If + 主语 + should + 动词原形, 主语 + would + 动词原形
-```
-
-```text
-If I should meet thee after long years, how should I greet thee?
-如果多年后我能再遇见你，我又该如何面对你？
-```
-
-```text
-If I should see the rabbit tomorrow, I would bite him.
-万一我明天看到那只兔子，我会咬它。
-```
-
-也可使用：
-
-```text
-If + 主语 + were to + 动词原形, 主语 + would + 动词原形
-```
-
-```text
-If it were to snow tomorrow, we would stay at home.
-如果明天真的下雪，我们会待在家里。
-```
-
-常见形式变化：
-
-```text
-shall → should
-will → would
-can → could
-may → might
-```
-
-### 与过去事实相反
-
-```text
-If + 主语 + had + 过去分词, 主语 + would have + 过去分词
-```
-
-```text
-If I had watched this video before, I would have aced my test.
-如果我以前看过这个视频，我本来会考得很好。
-```
-
-言下之意：
-
-```text
-I did not watch the video before.
-I did not ace my test.
-```
-
-```text
-If I had seen the rabbit a few days ago, I would have bitten him.
-如果我几天前看到那只兔子，我就会咬它。
-```
-
-## 虚拟条件句总结
-
-| 与什么事实相反 | If 从句 | 主句 | 示例 |
+| 虚拟类型 | 核心场景 | 典型标志词 / 句型 | 关联章节 |
 | --- | --- | --- | --- |
-| 与现在事实相反 | 一般过去时 | `would + 动词原形` | `If I were you, I would go.` |
-| 与将来事实相反或可能性很小 | `should do` / `were to do` | `would + 动词原形` | `If it should rain, I would stay home.` |
-| 与过去事实相反 | `had done` | `would have done` | `If I had known, I would have helped.` |
+| **条件虚拟** | 与现在、过去、将来相反的假设 | `if条件从句` | [[连词 conjunction]] |
+| **省略倒装** | 省略 `if` 后的条件倒装 | `Were I...`, `Had I...`, `Should I...` | [[倒装 inversion]] |
+| **名词性从句虚拟** | 表达建议、命令、要求、坚持 | `(should) + 动词原形` | [[从句 clause]] |
+| **特殊句型虚拟** | 愿望、好像、该是……的时候 | `wish`, `as if`, `It is high time...` | [[从句 clause]] |
+| **含蓄虚拟** | 无 if 引导的隐性假设 | `without`, `but for`, `otherwise` | [[介词 preposition]] |
 
-## 虚拟语气与真实条件句
+---
 
-真实条件句表示未来可能发生的事情，不使用虚拟语气。
+## 一、If 条件句中的虚拟语气
+
+条件虚拟根据所假设的**时间维度**（现在、过去、将来），从句与主句的谓语动词形式有固定搭配规律：
+
+| 假设时间 | If 从句谓语动词 | 主句谓语动词 |
+| --- | --- | --- |
+| **与现在事实相反** | 动词过去式（`did`，be 动词用 `were`） | `would / should / could / might + 动词原形` |
+| **与过去事实相反** | 过去完成时（`had + done`） | `would / should / could / might + have + 过去分词` |
+| **与将来事实相反** | 1. 动词过去式（`did`）<br>2. `should + 动词原形`<br>3. `were to + 动词原形` | `would / should / could / might + 动词原形` |
+
+### 1. 与现在事实相反的假设
+
+> If the rabbit had wings, he would fly in the sky.  
+> 如果兔子有翅膀，他就会在天上飞。（事实上兔子没有翅膀）
+
+> If I were you, I would take the advice.  
+> 如果我是你，我就会接受这个建议。
+
+### 2. 与过去事实相反的假设
+
+> If the rabbit had got up earlier yesterday, he would have caught the bus.  
+> 如果兔子昨天起得更早一些，他就已经赶上公交车了。（事实上起晚了，没赶上）
+
+> If you had told me the truth, I could have helped you.  
+> 如果你当时告诉了我真相，我本可以帮你的。
+
+### 3. 与将来事实相反的假设（极小可能发生的假设）
+
+> If it were to snow tomorrow, the meeting would be canceled.  
+> 如果明天下雪（极不可能），会议将被取消。
+
+> If the wolf should come tomorrow, we would hide in the cave.  
+> 如果狼明天真的来了，我们就会躲进洞穴里。
+
+---
+
+## 二、错综时间条件句中的虚拟语气
+
+当条件从句的动作与主句动作**发生的具体时间不一致**时，各部分谓语动词形式须根据各自所对应的时间维度分别确定：
+
+> If the rabbit had eaten the carrot yesterday (过去), he would not be hungry now (现在).  
+> 如果兔子昨天吃了胡萝卜，他现在就不会饿了。
+
+- 从句假设过去：用 `had eaten`（与过去相反）；
+- 主句假设现在：用 `would not be`（与现在相反）。
+
+---
+
+## 三、条件句中 if 的省略与倒装（参见 [[倒装 inversion]]）
+
+当虚拟条件从句中含有 `were`, `had` 或 `should` 时，可以**省略从属连词 `if`**，并将 `were / had / should` 直接**提到主语之前**构成部分倒装：
 
 ```text
-If I see the rabbit tomorrow, I will bite him.
-如果我明天看到兔子，我会咬它。
+If I were you → Were I you
+If he had seen the rabbit → Had he seen the rabbit
+If it should rain tomorrow → Should it rain tomorrow
 ```
 
-- 明天看到兔子是有可能发生的。
-- `if` 从句用一般现在时表示将来。
-- 主句通常用 `will + 动词原形`。
+> Were I you, I would not trust the wolf.  
+> 如果我是你，我就不会信任那只狼。
 
-虚拟条件句表示不符合现实、可能性很小或纯想象的情况。
+> Had the rabbit known the plan, he would have prepared earlier.  
+> 如果兔子早就知道了计划，他本会准备得更早。
+
+> Should you need help, please call me anytime.  
+> 万一你需要帮助，请随时给我打电话。
+
+---
+
+## 四、名词性从句中的虚拟语气（`(should) + do`）
+
+在表示“建议、命令、要求、主张”等主观意愿的词汇后，从句谓语动词须使用“`should + 动词原形`”，且 `should` 在美式英语和现代英语中通常**可以省略**（详见 [[从句 clause]]）。
+
+### 1. 宾语从句口诀（一坚持、二命令、三建议、四要求）
+
+- **一坚持**：`insist`
+- **二命令**：`order`, `command`
+- **三建议**：`suggest`, `advise`, `recommend`
+- **四要求**：`demand`, `require`, `request`, `ask`
+
+> The doctor suggested that the rabbit (should) eat more carrots.  
+> 医生建议兔子多吃胡萝卜。（`should` 省略后仍用动词原形 `eat`）
+
+> The teacher ordered that the students (should) finish the homework today.  
+> 老师命令学生们今天必须完成作业。
+
+### 2. 主语从句中的虚拟语气
+
+用于“`It is + 形容词/过去分词 + that + 主语 + (should) + 动词原形`”结构中：
+- 常见形容词：`important`, `necessary`, `natural`, `essential`, `strange`, `urgent`
+- 常见过去分词：`suggested`, `ordered`, `demanded`, `required`
+
+> It is necessary that the rabbit (should) practice English every day.  
+> 兔子每天练习英语是很有必要的。
+
+> It is suggested that we (should) start the meeting at 9:00.  
+> 有人建议我们在 9 点开始开会。
+
+### 3. 表语从句与同位语从句中的虚拟语气
+
+在 `suggestion`, `proposal`, `advice`, `order`, `requirement` 等名词后的表语从句或同位语从句中，同样使用“`(should) + 动词原形`”：
+
+> His suggestion that we (should) buy more carrots is great.  
+> 他关于我们多买些胡萝卜的建议很棒。（同位语从句）
+
+---
+
+## 五、其他常见句型中的虚拟语气
+
+### 1. `wish` 引导的宾语从句
+
+表示难以实现的愿望（“但愿……就好了”）：
 
 ```text
-If I should see the rabbit tomorrow, I would bite him.
-万一我明天看到兔子，我会咬它。
+对现在的愿望：动词过去式（did / were）
+对过去的遗憾：过去完成时（had done / could have done）
+对将来的期许：would / could / might + 动词原形
 ```
 
-- 说话人认为明天见到兔子的可能性很小。
+> I wish I were as smart as the rabbit.  
+> 但愿我和兔子一样聪明。（与现在相反）
+
+> I wish I had not eaten that bad carrot yesterday.  
+> 但愿我昨天没有吃那根坏胡萝卜。（与过去相反）
+
+> I wish it would stop raining soon.  
+> 但愿雨能快点停。（对将来的期许）
+
+### 2. `as if` / `as though` 引导的方式或表语从句
+
+当从句内容与事实相反或极不可能时使用虚拟语气（参见 [[连词 conjunction]]）：
+
+> The rabbit talks as if he knew everything.  
+> 兔子说话好像他什么都知道似的。（事实上并不知道全部，用 `knew`）
+
+> He looks as though he had seen a ghost.  
+> 他看起来好像见到了鬼一样。（对过去的虚拟）
+
+### 3. `would rather + 从句`
+
+表示“宁愿”（从句谓语用过去式表示现在/将来；用过去完成时表示过去）：
+
+> I would rather you stayed here with me.  
+> 我宁愿你留在这里陪我。（与现在事实相反，用 `stayed`）
+
+> I would rather you had not told him the secret.  
+> 我真希望你当时没有把秘密告诉他。（与过去相反）
+
+### 4. `It is (high / about) time that + 从句`
+
+表示“该是做某事的时候了”（从句谓语用**动词过去式**或 `should + 动词原形`，`should` 不可省略）：
+
+> It is high time that the rabbit went to bed.  
+> = It is high time that the rabbit should go to bed.  
+> 兔子该去睡觉了。
+
+### 5. 含蓄条件句（无 if 的虚拟语气）
+
+通过 [[介词 preposition|介词短语]] 或连词隐含假设条件：
 
 ```text
-If I saw the rabbit now, I would bite him.
-如果我现在看见兔子，我会咬它。
+without（没有）       but for（要不是因为）
+otherwise（否则）     or / or else（否则）
 ```
 
-- 说话人现在没有看到兔子。
+> Without your help, the rabbit would have failed.  
+> 如果没有你的帮助，兔子早就失败了。（= If we hadn't had your help...）
 
-## `wish` 引导的虚拟语气
+> But for the rain, we would have gone for a picnic.  
+> 要不是因为下雨，我们当时就去野餐了。
 
-`wish` 往往表示愿望难以实现，常带有遗憾、惋惜或与现实相反的意味。
+---
 
-```text
-hope：希望有可能实现。
-wish：希望实现的可能性较小，或表示遗憾。
-```
+## 六、核心对比与总结
 
-### 对现在的愿望
+| 虚拟句型 | 从句谓语形式 | 主句 / 核心特征 |
+| --- | --- | --- |
+| 条件句（对现在） | `did / were` | `would / could + do` |
+| 条件句（对过去） | `had done` | `would / could + have done` |
+| 条件句（对将来） | `did / should do / were to do` | `would / could + do` |
+| if 省略倒装 | `Were / Had / Should + 主语...` | 句首倒装 |
+| 命令建议从句 | `(should) + 动词原形` | `should` 可省略，恒用原形 |
+| `wish` 从句 | `did`（现）/ `had done`（过）/ `would do`（将） | 表达主观愿望 |
+| `It is high time...` | `did` / `should do`（should 不省） | 表示该做某事了 |
 
-```text
-wish + 主语 + 一般过去时
-```
+---
 
-```text
-I wish that I were a rabbit.
-我希望我是只兔子。
-```
-
-言下之意：
-
-```text
-I am not a rabbit.
-我不是兔子。
-```
+## 七、常见错误
 
 ```text
-I wish you were here.
-我希望你现在在这里。
-```
-
-- 这里表示“希望你现在就在这里”，不是“希望你曾经来过这里”。
-
-正式语法中，`be` 动词常用 `were`：
-
-```text
-I wish I were ...
-I wish he were ...
-I wish she were ...
-```
-
-### 对过去的愿望
-
-```text
-wish + 主语 + had + 过去分词
-```
-
-```text
-I wish that I had eaten the carrot.
-我希望我当时吃了那根胡萝卜。
-```
-
-言下之意：我当时没有吃。
-
-```text
-I wish I had studied harder.
-我希望我当时更努力学习了。
-```
-
-### 对将来的愿望
-
-```text
-wish + 主语 + would / could / might + 动词原形
-```
-
-```text
-I wish that I could eat the carrot.
-我希望我能够吃那根胡萝卜。
-```
-
-```text
-I wish it would stop raining.
-我希望雨能停下来。
-```
-
-`could` 常强调能力或可能性，`would` 常表示希望某事或某人发生改变。
-
-## `would rather` 引导的虚拟语气
-
-`would rather` 表示“宁愿、更希望”。
-
-当后面的从句主语不是主句主语时，常用虚拟语气。
-
-### 对现在或将来的偏好
-
-```text
-would rather + 主语 + 一般过去时
-```
-
-```text
-I would rather that you didn't eat the carrot.
-我宁愿你现在或以后不要吃那根胡萝卜。
-```
-
-### 对过去的遗憾或偏好
-
-```text
-would rather + 主语 + 过去完成时
-```
-
-```text
-I would rather that you hadn't eaten the carrot.
-我宁愿你当时没有吃那根胡萝卜。
-```
-
-言下之意：你已经吃掉了那根胡萝卜。
-
-## 建议、要求、命令类虚拟语气
-
-在表示建议、要求、命令、坚持、必要性等意义的动词、名词或形容词后，`that` 从句常使用：
-
-```text
-(should) + 动词原形
-```
-
-其中 `should` 可以省略。
-
-### 常见动词
-
-```text
-suggest, demand, insist, order, request, require, recommend
-```
-
-```text
-I suggest that you (should) eat a carrot.
-我建议你吃一根胡萝卜。
-
-They demanded that he (should) apologize.
-他们要求他道歉。
-
-The teacher insisted that we (should) finish the work.
-老师坚持要求我们完成这项工作。
-```
-
-注意：主句即使使用过去式，从句仍用：
-
-```text
-(should) + 动词原形
-```
-
-```text
-I suggested that he (should) go at once.
-我建议他马上去。
-```
-
-### 常见句型
-
-```text
-It is suggested that you (should) eat a carrot.
-有人建议你吃一根胡萝卜。
-
-The suggestion is that you (should) eat a carrot.
-建议是你应该吃一根胡萝卜。
-
-It is important that you (should) eat a carrot.
-你吃一根胡萝卜很重要。
-```
-
-常见形容词：
-
-```text
-important, essential, necessary, vital, urgent
-```
-
-常见名词：
-
-```text
-suggestion, proposal, advice, order, request, demand
-```
-
-### `It's time` 句型
-
-```text
-It is (high) time that + 主语 + 一般过去时
-```
-
-```text
-It is time that you ate a carrot.
-你该吃一根胡萝卜了。
-```
-
-这里的过去式不表示过去时间，而是表示“现在早该做了”。
-
-## 常见错误
-
-```text
-❌ If I am you, I would study harder.
+❌ If I was you, I would study harder.
 ✅ If I were you, I would study harder.
 ```
+- 在虚拟语气条件从句中，be 动词一律使用 `were`（口语中有时用 was，但标准语法与考试中必须用 `were`）。
 
 ```text
-❌ If I had known, I would help you.
-✅ If I had known, I would have helped you.
+❌ The teacher suggested that he eats more carrots.
+✅ The teacher suggested that he (should) eat more carrots.
 ```
+- `suggest` 后的宾语从句必须用 `(should) + 动词原形`，不能用第三人称单数 `eats`。
 
 ```text
-❌ I wish I am taller.
-✅ I wish I were taller.
+❌ If you came yesterday, you would see him.
+✅ If you had come yesterday, you would have seen him.
 ```
+- 对过去事实的虚拟，从句用 `had come`，主句用 `would have seen`（参见 [[动词时态 verb tense]]）。
 
 ```text
-❌ I suggest that he goes now.
-✅ I suggest that he (should) go now.
+❌ It is high time that we go home.
+✅ It is high time that we went home.
+✅ It is high time that we should go home.
 ```
+- `It is high time that...` 从句中动词用过去式或 `should do`（`should` 不可省略）。
 
-```text
-❌ It is time that you eat dinner.
-✅ It is time that you ate dinner.
-```
+---
+
+## 🔗 知识网络与双链导航
+
+- **语法顶层导图**：[[英语语法综述 grammar Overview]] · [[词性 word class]]
+- **动词专项体系**：
+  - [[动词分类 verb Classification]] · [[使役动词 Causative Verb]] · [[系动词 linking verbs]] · [[动词时态 verb tense]]
+  - [[被动 Passive Voice]] · [[助动词和情态动词 auxiliary verbs and modal verbs]] · [[非谓语动词 non-finite verb]] · **[[虚拟语气 Subjunctive Mood]]**
+- **句法联动**：
+  - [[倒装 inversion]] · [[从句 clause]] · [[连词 conjunction]] · [[强调 emphasize]]

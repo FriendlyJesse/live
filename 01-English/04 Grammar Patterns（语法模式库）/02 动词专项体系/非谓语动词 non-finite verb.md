@@ -1,8 +1,13 @@
-# 非谓语动词 non-finite verb
+---
+tags:
+  - grammar
+  - verb
+---
+# 非谓语动词（Non-finite Verbs）
 
 ## 什么是非谓语动词
 
-非谓语动词是不能独立充当句子谓语的动词形式。它不随主语的人称和数变化，也通常不直接表示句子的时态。
+非谓语动词是不能独立充当句子谓语的动词形式（参见 [[动词分类 verb Classification]] 与 [[英语语法综述 grammar Overview]]）。它不随主语的人称和数变化，也通常不直接表示句子的时态。
 
 英语的非谓语动词主要有三类：
 
@@ -657,16 +662,16 @@ The weather permitting, the rabbit will go out.
 If the weather permits, the rabbit will go out.
 ```
 
-`The work finished` 和 `The weather permitting` 都属于独立主格结构：它们有自己的逻辑主语，整体作状语。
+`The work finished` 和 `The weather permitting` 都属于独立主格结构（详见 [[独立主格 Absolute Construction]]）：它们有自己的逻辑主语，整体作状语。
 
 ## 非谓语动词快速判断
 
-| 形式 | 优先判断 | 常见含义 |
-| --- | --- | --- |
-| `to do` | 不定式 | 目的、将来、具体动作 |
-| `doing` 像名词 | 动名词 | 动作、习惯、用途 |
-| `doing` 像形容词或状语 | 现在分词 | 主动、进行、伴随 |
-| `done` | 过去分词 | 被动、完成、状态 |
+| 形式 | 优先判断 | 常见含义 | 关联专题 |
+| --- | --- | --- | --- |
+| `to do` | 不定式 | 目的、将来、具体动作 | [[使役动词 Causative Verb]] |
+| `doing` 像名词 | 动名词 | 动作、习惯、用途 | [[名词 noun]] |
+| `doing` 像形容词或状语 | 现在分词 | 主动、进行、伴随 | [[形容词 adjective]] · [[副词 adverb]] |
+| `done` | 过去分词 | 被动、完成、状态 | [[被动 Passive Voice]] |
 
 ## 常见错误
 
@@ -679,18 +684,32 @@ If the weather permits, the rabbit will go out.
 ❌ The rabbit made the wolf to laugh.
 ✅ The rabbit made the wolf laugh.
 ```
+- `make` 属于使役动词，接动词原形（参见 [[使役动词 Causative Verb]]）。
 
 ```text
 ❌ I look forward to see you.
 ✅ I look forward to seeing you.
 ```
+- `look forward to` 中的 `to` 是介词，后面接动名词（参见 [[介词 preposition]]）。
 
 ```text
 ❌ Seeing from the hill, the carrot field looks beautiful.
 ✅ Seen from the hill, the carrot field looks beautiful.
 ```
+- 分词作状语时，逻辑主语是 `the carrot field`，表被动须用过去分词（参见 [[被动 Passive Voice]]）。
 
 ```text
 ❌ The rabbit has many carrots eating.
 ✅ The rabbit has many carrots to eat.
 ```
+
+---
+
+## 🔗 知识网络与双链导航
+
+- **语法顶层导图**：[[英语语法综述 grammar Overview]] · [[词性 word class]]
+- **动词专项体系**：
+  - [[动词分类 verb Classification]] · [[使役动词 Causative Verb]] · [[系动词 linking verbs]] · [[动词时态 verb tense]]
+  - [[被动 Passive Voice]] · [[助动词和情态动词 auxiliary verbs and modal verbs]] · **[[非谓语动词 non-finite verb]]** · [[虚拟语气 Subjunctive Mood]]
+- **句法与特殊句式联动**：
+  - [[独立主格 Absolute Construction]] · [[从句 clause]] · [[省略 ellipsis]] · [[主谓一致 subject verb agreement]]

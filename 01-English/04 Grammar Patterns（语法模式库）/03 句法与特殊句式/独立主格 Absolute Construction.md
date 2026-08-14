@@ -1,8 +1,13 @@
-# 独立主格 Absolute Construction
+---
+tags:
+  - grammar
+  - syntax
+---
+# 独立主格（Absolute Construction）
 
 ## 什么是独立主格
 
-独立主格结构是由“**名词 / 代词 + 非谓语动词或其他成分**”构成的短语结构。
+独立主格结构是由“**名词 / 代词 + 非谓语动词或其他成分**”构成的独立短语结构（参见 [[非谓语动词 non-finite verb]] 与 [[英语语法综述 grammar Overview]]）。
 
 它在句中通常作状语，表示时间、原因、条件、伴随情况、方式等。它本身不能独立构成完整句子，但拥有自己的逻辑主语，因此称为“独立主格”。
 
@@ -351,5 +356,16 @@ The work finished, the rabbit went home.
 ✅ The wolf inviting him, the rabbit went to the party.
 ```
 
-- `the rabbit` 是被邀请者，用 `invited`。
-- `the wolf` 是邀请者，用 `inviting`。
+- `the rabbit` 是被邀请者，用过去分词 `invited`（分词作状语，见 [[非谓语动词 non-finite verb]]）。
+- `the wolf` 是主动邀请者，用现在分词 `inviting`（独立主格）。
+
+---
+
+## 🔗 知识网络与双链导航
+
+- **语法顶层导图**：[[英语语法综述 grammar Overview]] · [[词性 word class]]
+- **句法与特殊句式**：
+  - [[主谓一致 subject verb agreement]] · [[从句 clause]] · [[倒装 inversion]] · [[强调 emphasize]]
+  - **[[独立主格 Absolute Construction]]** · [[省略 ellipsis]] · [[标点符号 punctuation]]
+- **词法与动词专项联动**：
+  - [[非谓语动词 non-finite verb]] · [[介词 preposition]] · [[形容词 adjective]] · [[副词 adverb]] · [[连词 conjunction]]

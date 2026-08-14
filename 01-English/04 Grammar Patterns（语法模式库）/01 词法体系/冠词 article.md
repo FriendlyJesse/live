@@ -1,10 +1,15 @@
+---
+tags:
+  - grammar
+  - morphology
+---
 # 冠词（Articles）
 
 ## 什么是冠词
 
-冠词是虚词，本身不能单独充当句子成分，通常置于名词之前，用来限定名词的意义，帮助说明该名词是特指还是泛指。
+冠词（Article，简写为 `art.`）是虚词，本身不能单独充当句子成分，通常置于 [[名词 noun]] 之前，用来限定名词的意义，帮助说明该名词是特指还是泛指。
 
-英语中的冠词主要分为三大类：
+在整个修饰体系中，冠词属于中位 [[限定词 determiners]]。英语中的冠词主要分为三大类：
 
 ```text
 不定冠词（Indefinite Article）：a / an
@@ -23,11 +28,11 @@ A rabbit found the carrot in water.
 
 ### 冠词核心分类与功能
 
-| 冠词类型 | 形式 | 核心功能 | 示例 |
-| --- | --- | --- | --- |
-| 不定冠词 | `a / an` | 泛指某一人或事物，或表示数量“一” | `a rabbit`, `an apple` |
-| 定冠词 | `the` | 特指特定的人或事物，或双方熟知的事物 | `the carrot`, `the sun` |
-| 零冠词 | 不加冠词 | 泛指复数概念、抽象/物质概念、专有名词等 | `rabbits`, `water`, `China` |
+| 冠词类型 | 形式 | 核心功能 | 示例 | 关联专题 |
+| --- | --- | --- | --- | --- |
+| 不定冠词 | `a / an` | 泛指某一人或事物，或表示数量“一” | `a rabbit`, `an apple` | [[数词 numeral]] |
+| 定冠词 | `the` | 特指特定的人或事物，或双方熟知的事物 | `the carrot`, `the sun` | [[形容词 adjective]] |
+| 零冠词 | 不加冠词 | 泛指复数概念、抽象/物质概念、专有名词等 | `rabbits`, `water`, `China` | [[名词 noun]] |
 
 ---
 
@@ -35,7 +40,7 @@ A rabbit found the carrot in water.
 
 ### 1. `a` 与 `an` 的选择标准
 
-不定冠词用于**单数可数名词**前。选择 `a` 还是 `an` 取决于紧跟其后的单词的**发音音素**，而不是拼写首字母。
+不定冠词用于**单数可数名词**前（参见 [[名词 noun]]）。选择 `a` 还是 `an` 取决于紧跟其后的单词的**发音音素**，而不是拼写首字母。
 
 ```text
 辅音音素开头：用 a
@@ -65,7 +70,7 @@ A rabbit found the carrot in water.
 #### 表示数量“一”
 
 > I gave you a hundred carrots.  
-> 我给了你一百根胡萝卜。（`a hundred` = 100）
+> 我给了你一百根胡萝卜。（`a hundred` = 100，详见 [[数词 numeral]]）
 
 #### 表示“每一”（相当于 every / each）
 
@@ -77,6 +82,7 @@ A rabbit found the carrot in water.
 
 #### 在主谓一致中区分单一人还是多个人
 
+在 [[主谓一致 subject verb agreement]] 中：
 - 一个 `a`：指同一个人身兼两职，谓语动词用单数。
 - 两个 `a`：指两个不同的人，谓语动词用复数。
 
@@ -131,6 +137,8 @@ the sun, the moon, the earth, the sky, the world, the universe
 
 #### 序数词与形容词最高级前
 
+通常与 [[数词 numeral|序数词]] 和 [[形容词 adjective|形容词最高级]] 搭配使用：
+
 > the first rabbit      第一只兔子
 > the biggest carrot    最大的胡萝卜
 > the second lesson     第二课
@@ -151,7 +159,7 @@ the sun, the moon, the earth, the sky, the world, the universe
 
 #### `the + 形容词` 表示一类人或抽象概念
 
-当 `the + 形容词` 表示一类人时，通常视为**复数**，谓语动词用复数形式。
+当 [[形容词 adjective|the + 形容词]] 表示一类人时，通常视为**复数**，谓语动词用复数形式（参见 [[主谓一致 subject verb agreement]]）。
 
 ```text
 the rich（富人）, the poor（穷人）, the elderly（老年人）, the wounded（伤员）
@@ -185,7 +193,7 @@ out of the question   不可能的；办不到的
 #### 复数可数名词泛指整类事物
 
 > Rabbits are smart animals.  
-> 兔子是聪明的动物。（泛指所有兔子）
+> 兔子是聪明的动物。（泛指所有兔子，详见 [[名词 noun]]）
 
 > Computers have changed the world.  
 > 计算机改变了世界。
@@ -235,7 +243,7 @@ play chess            下国际象棋
 
 ### 4. 常见固定搭配与场所对比
 
-#### 常见介词短语
+#### 常见介词短语（参见 [[介词 preposition]]）
 
 ```text
 face to face          面对面地
@@ -248,7 +256,7 @@ out of question       毫无疑问的
 
 #### 有无冠词的含义对比（去场所的目的性）
 
-不加 `the` 强调进行该场所的**常规活动**；加 `the` 强调到达该**具体建筑物/地点**。
+不加 `the` 强调进行该场所的**常规功能活动**；加 `the` 强调到达该**具体建筑物/地点**。
 
 | 无冠词（常规功能） | 含义 | 加 `the`（具体地点） | 含义 |
 | --- | --- | --- | --- |
@@ -261,11 +269,11 @@ out of question       毫无疑问的
 
 ## 四、冠词用法核心对比
 
-| 类别 | 适用对象 | 核心语义 | 典型例句 |
-| --- | --- | --- | --- |
-| 不定冠词 `a/an` | 单数可数名词 | 泛指个体、数量“一”、某一类别 | `A rabbit came in.` |
-| 定冠词 `the` | 可数/不可数名词 | 特指、独一无二、最高级、乐器、类指 | `The rabbit ran fast.` |
-| 零冠词 `/` | 复数名词/不可数名词/专有名词 | 泛指总体、概念、学科、球类、三餐 | `Rabbits love carrots.` |
+| 类别 | 适用对象 | 核心语义 | 典型例句 | 语法定位 |
+| --- | --- | --- | --- | --- |
+| 不定冠词 `a/an` | 单数可数名词 | 泛指个体、数量“一”、某一类别 | `A rabbit came in.` | [[限定词 determiners]] |
+| 定冠词 `the` | 可数/不可数名词 | 特指、独一无二、最高级、乐器、类指 | `The rabbit ran fast.` | [[限定词 determiners]] |
+| 零冠词 `/` | 复数名词/不可数名词/专有名词 | 泛指总体、概念、学科、球类、三餐 | `Rabbits love carrots.` | [[名词 noun]] |
 
 ---
 
@@ -299,7 +307,7 @@ out of question       毫无疑问的
 ❌ The water is important for humans.（泛指水这种物质）
 ✅ Water is important for humans.
 ```
-- 不可数名词表示总体泛指时不用冠词。
+- 不可数名词表示总体泛指时不用冠词（参考 [[名词 noun]]）。
 
 ```text
 ❌ My father is teacher.
@@ -312,3 +320,14 @@ out of question       毫无疑问的
 ✅ His success is out of question.
 ```
 - `out of question` 意为“毫无疑问”；`out of the question` 意为“不可能的/办不到的”。
+
+---
+
+## 🔗 知识网络与双链导航
+
+- **语法顶层导图**：[[英语语法综述 grammar Overview]] · [[词性 word class]]
+- **词法体系专题**：
+  - [[名词 noun]] · **[[冠词 article]]** · [[代词 pronoun]] · [[数词 numeral]] · [[形容词 adjective]]
+  - [[副词 adverb]] · [[介词 preposition]] · [[连词 conjunction]] · [[叹词 interjection]] · [[限定词 determiners]]
+- **进阶关联专题**：
+  - [[限定词 determiners]] · [[数词 numeral]] · [[形容词 adjective]] · [[主谓一致 subject verb agreement]]

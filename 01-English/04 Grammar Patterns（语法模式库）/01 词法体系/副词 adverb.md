@@ -1,10 +1,15 @@
+---
+tags:
+  - grammar
+  - morphology
+---
 # 副词（Adverbs）
 
 ## 什么是副词
 
-副词是用来修饰动词、形容词、其他副词或整个句子，用以说明时间、地点、方式、程度、频度、原因或态度的词。
+副词（Adverb，简写为 `adv.`）是用来修饰动词、[[形容词 adjective]]、其他副词或整个句子，用以说明时间、地点、方式、程度、频度、原因或态度的词。
 
-在句中，副词最核心的句法功能是充当**状语**，有时也可充当表语、宾语补足语或后置定语。
+在句中，副词最核心的句法功能是充当**状语**，有时也可充当表语、宾语补足语或后置定语。框架导图可参考 [[词性 word class]] 与 [[英语语法综述 grammar Overview]]。
 
 ```text
 Obviously, the rabbit here runs very fast.
@@ -12,20 +17,20 @@ Obviously, the rabbit here runs very fast.
 ```
 
 - `Obviously`：修饰整个句子（句子评注状语）
-- `here`：修饰名词 `rabbit`（后置定语）
+- `here`：修饰名词 `rabbit`（后置定语，参见 [[名词 noun]]）
 - `very`：修饰副词 `fast`（程度状语）
-- `fast`：修饰动词 `runs`（方式状语）
+- `fast`：修饰动词 `runs`（方式状语，参见 [[动词分类 verb Classification]]）
 
 ### 副词核心分类
 
-| 分类 | 常见词汇 | 核心作用 | 示例 |
-| --- | --- | --- | --- |
-| 方式副词 | `quickly`, `carefully`, `happily`, `fast` | 说明动作进行的方式 | `runs quickly` |
-| 程度副词 | `very`, `quite`, `too`, `extremely`, `enough` | 说明程度的深浅 | `very hot`, `fast enough` |
-| 时间副词 | `now`, `then`, `soon`, `yesterday`, `already` | 说明动作发生的时间 | `arrive soon` |
-| 地点副词 | `here`, `there`, `abroad`, `everywhere` | 说明动作发生的地点 | `live abroad` |
-| 频度副词 | `always`, `usually`, `often`, `seldom`, `never` | 说明动作发生的频率 | `always smile` |
-| 疑问 / 连接副词 | `when`, `where`, `why`, `how` | 引导疑问句或从句 | `Where do you live?` |
+| 分类 | 常见词汇 | 核心作用 | 示例 | 关联专题 |
+| --- | --- | --- | --- | --- |
+| 方式副词 | `quickly`, `carefully`, `happily`, `fast` | 说明动作进行的方式 | `runs quickly` | [[动词分类 verb Classification]] |
+| 程度副词 | `very`, `quite`, `too`, `extremely`, `enough` | 说明程度的深浅 | `very hot`, `fast enough` | [[形容词 adjective]] |
+| 时间副词 | `now`, `then`, `soon`, `yesterday`, `already` | 说明动作发生的时间 | `arrive soon` | [[动词时态 verb tense]] |
+| 地点副词 | `here`, `there`, `abroad`, `everywhere` | 说明动作发生的地点 | `live abroad` | [[介词 preposition]] |
+| 频度副词 | `always`, `usually`, `often`, `seldom`, `never` | 说明动作发生的频率 | `always smile` | [[主谓一致 subject verb agreement]] |
+| 疑问 / 连接副词 | `when`, `where`, `why`, `how` | 引导疑问句或从句 | `Where do you live?` | [[从句 clause]] |
 
 ---
 
@@ -33,7 +38,7 @@ Obviously, the rabbit here runs very fast.
 
 ### 1. 形容词与副词同形
 
-有些单词既可作形容词，也可作副词，其词形完全相同。其具体词性须通过在句中所修饰的对象来判断。
+有些单词既可作 [[形容词 adjective]]，也可作副词，其词形完全相同。其具体词性须通过在句中所修饰的对象来判断。
 
 ```text
 fast, hard, late, early, straight, high, low, long, near, deep
@@ -53,7 +58,7 @@ fast, hard, late, early, straight, high, low, long, near, deep
 
 ### 2. 形容词 + `-ly` 构成副词
 
-大多数方式副词和程度副词由“形容词 + `-ly`”规则派生而成。
+大多数方式副词和程度副词由“形容词 + `-ly`”规则派生而成（参见 [[形容词 adjective]]）。
 
 | 构词规律 | 形容词原形 | 副词形式 | 含义 |
 | --- | --- | --- | --- |
@@ -65,7 +70,7 @@ fast, hard, late, early, straight, high, low, long, near, deep
 
 ### 3. 以 `-ly` 结尾但属于形容词的词汇
 
-英语中有部分单词虽然以 `-ly` 结尾，但它们是**形容词**，不能直接作副词修饰动词。若要作状语，须使用“`in a ... way / manner`”短语。
+英语中有部分单词虽然以 `-ly` 结尾，但它们是 **[[形容词 adjective|形容词]]**，不能直接作副词修饰动词。若要作状语，须使用“`in a ... way / manner`”介词短语（参见 [[介词 preposition]]）。
 
 ```text
 friendly（友好的）, lovely（可爱的）, lively（活泼的）
@@ -120,14 +125,14 @@ lonely（孤独的）, brotherly（兄弟般的）, daily（日常的）
 #### 修饰形容词或副词：通常置于被修饰词之前
 
 > This carrot is very sweet.  
-> 这根胡萝卜非常甜。（`very` 修饰形容词 `sweet`）
+> 这根胡萝卜非常甜。（`very` 修饰形容词 `sweet`，见 [[形容词 adjective]]）
 
 > The rabbit runs quite well.  
 > 兔子跑得相当好。（`quite` 修饰副词 `well`）
 
 #### 程度副词 `enough` 的特殊后置规则
 
-`enough` 修饰形容词或副词时，**必须放在被修饰词之后**。
+`enough` 修饰形容词或副词时，**必须放在被修饰词之后**（与修饰名词时前置相反，参见 [[限定词 determiners]]）。
 
 ```text
 形容词 / 副词 + enough
@@ -154,7 +159,7 @@ be 动词 / 助动词 / 情态动词之后，实义动词之前
 > 兔子总是在早晨吃胡萝卜。（在实义动词 `eats` 之前）
 
 > I will never forget this day.  
-> 我将永远不会忘记这一天。（在助动词 `will` 之后）
+> 我将永远不会忘记这一天。（在助动词 `will` 之后，参见 [[助动词和情态动词 auxiliary verbs and modal verbs]]）
 
 #### 修饰整个句子：通常置于句首，并用逗号隔开
 
@@ -163,7 +168,7 @@ be 动词 / 助动词 / 情态动词之后，实义动词之前
 
 ### 2. 作表语
 
-部分表示地点、方向、状态的副词可置于系动词（主要是 `be`）后作表语。
+部分表示地点、方向、状态的副词可置于 [[系动词 linking verbs]]（主要是 `be`）后作表语。
 
 > The wolf is abroad.  
 > 狼在国外。
@@ -176,7 +181,7 @@ be 动词 / 助动词 / 情态动词之后，实义动词之前
 
 ### 3. 作宾语补足语
 
-部分表示方向、位置的副词可在“动词 + 宾语”后补充说明宾语的方向与状态。
+部分表示方向、位置的副词可在“动词 + 宾语”后补充说明宾语的方向与状态（参见 [[使役动词 Causative Verb]]）。
 
 > Let me in!  
 > 让我进来！
@@ -189,7 +194,7 @@ be 动词 / 助动词 / 情态动词之后，实义动词之前
 
 ### 4. 作后置定语
 
-部分表示地点或时间的副词可置于名词之后作后置定语。
+部分表示地点或时间的副词可置于 [[名词 noun]] 之后作后置定语。
 
 > The rabbit here is very smart.  
 > 这里的这只兔子非常聪明。（`here` 修饰 `The rabbit`）
@@ -201,13 +206,13 @@ be 动词 / 助动词 / 情态动词之后，实义动词之前
 
 ## 三、副词的比较级与最高级
 
-副词比较级与最高级的构成规则与形容词基本一致：
+副词比较级与最高级的构成规则与 [[形容词 adjective]] 基本一致：
 - 单音节副词（`fast`, `hard`, `late`, `early` 等）加 `-er / -est`；
 - 以 `-ly` 结尾的双音节与多音节副词前加 `more / most`；
-- 副词最高级前的定冠词 `the` 通常可以省略。
+- 副词最高级前的定冠词 [[冠词 article|the]] 通常可以省略。
 
 > The rabbit runs faster than the wolf.  
-> 兔子跑得比狼快。
+> 兔子跑得比狼快。（结合连词 `than`，见 [[连词 conjunction]]）
 
 > She speaks English more fluently than before.  
 > 她英语说得比以前更流利了。
@@ -219,14 +224,14 @@ be 动词 / 助动词 / 情态动词之后，实义动词之前
 
 ## 四、核心对比与总结
 
-| 易混词对 | 形式 1 含义与用法 | 形式 2 含义与用法 |
-| --- | --- | --- |
-| `hard` vs `hardly` | 努力地 / 猛烈地（`work hard`） | 几乎不（`hardly work`） |
-| `late` vs `lately` | 迟 / 晚（`arrive late`） | 最近 / 近来（`lately`） |
-| `high` vs `highly` | 高高地（物理高度 `fly high`） | 高度地（抽象评价 `speak highly of`） |
-| `near` vs `nearly` | 靠近（距离近 `draw near`） | 几乎 / 差不多（`nearly finished`） |
-| `friendly` | 形容词（`a friendly person`） | 状语短语（`in a friendly way`） |
-| `enough` 位置 | 名词前（`enough carrots`） | 形容词 / 副词后（`fast enough`） |
+| 易混词对 | 形式 1 含义与用法 | 形式 2 含义与用法 | 关联专题 |
+| --- | --- | --- | --- |
+| `hard` vs `hardly` | 努力地 / 猛烈地（`work hard`） | 几乎不（`hardly work`） | [[动词分类 verb Classification]] |
+| `late` vs `lately` | 迟 / 晚（`arrive late`） | 最近 / 近来（`lately`） | [[动词时态 verb tense]] |
+| `high` vs `highly` | 高高地（物理高度 `fly high`） | 高度地（抽象评价 `speak highly of`） | [[形容词 adjective]] |
+| `near` vs `nearly` | 靠近（距离近 `draw near`） | 几乎 / 差不多（`nearly finished`） | [[介词 preposition]] |
+| `friendly` | 形容词（`a friendly person`） | 状语短语（`in a friendly way`） | [[形容词 adjective]] |
+| `enough` 位置 | 名词前（`enough carrots`） | 形容词 / 副词后（`fast enough`） | [[限定词 determiners]] |
 
 ---
 
@@ -254,10 +259,21 @@ be 动词 / 助动词 / 情态动词之后，实义动词之前
 ❌ The soup smells deliciously.
 ✅ The soup smells delicious.
 ```
-- `smell` 作感官系动词时，后面必须接形容词作表语，不能接副词。
+- `smell` 作感官系动词时，后面必须接形容词作表语，不能接副词（参见 [[系动词 linking verbs]]）。
 
 ```text
 ❌ The rabbit always is happy.
 ✅ The rabbit is always happy.
 ```
 - 频度副词应置于 be 动词之后。
+
+---
+
+## 🔗 知识网络与双链导航
+
+- **语法顶层导图**：[[英语语法综述 grammar Overview]] · [[词性 word class]]
+- **词法体系专题**：
+  - [[名词 noun]] · [[冠词 article]] · [[代词 pronoun]] · [[数词 numeral]] · [[形容词 adjective]]
+  - **[[副词 adverb]]** · [[介词 preposition]] · [[连词 conjunction]] · [[叹词 interjection]] · [[限定词 determiners]]
+- **进阶关联专题**：
+  - [[形容词 adjective]] · [[系动词 linking verbs]] · [[动词分类 verb Classification]] · [[从句 clause]]

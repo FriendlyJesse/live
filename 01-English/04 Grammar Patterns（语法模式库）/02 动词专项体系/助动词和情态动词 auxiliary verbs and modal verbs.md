@@ -1,637 +1,193 @@
-# 助动词与情态动词
+---
+tags:
+  - grammar
+  - verb
+---
+# 助动词与情态动词（Auxiliary & Modal Verbs）
 
-## 什么是助动词
+## 什么是助动词与情态动词
 
-助动词（Auxiliary Verbs）不能单独表达完整意思，通常与实义动词一起构成谓语，用来表示时态、语态、否定、疑问或强调等语法意义。
+助动词与情态动词是一类**不能单独充当谓语**的特殊动词，它们必须与实义动词（原形或分词）连用，共同构成复合谓语（参见 [[动词分类 verb Classification]] 与 [[英语语法综述 grammar Overview]]）。
 
 ```text
 The rabbit ate a carrot.
-兔子吃了一根胡萝卜。
+兔子吃了一根胡萝卜。（单独实义动词）
 
 The rabbit will eat a carrot.
-兔子将吃一根胡萝卜。
+兔子将吃一根胡萝卜。（助动词 will + 实义动词原形 eat）
 ```
 
-- `eat` 表示“吃”这一实际动作，是实义动词。
-- `will` 不能单独表达完整动作，需要与 `eat` 连用，是助动词。
+- `eat`：实义动词，表达具体的动作行为；
+- `will`：助动词，辅助表达一般将来时态（参见 [[动词时态 verb tense]]）。
 
-## 助动词的分类
+### 核心分类总览
 
-| 类型 | 常见词 | 作用 |
-| --- | --- | --- |
-| 基本助动词 | `be`, `do`, `have` | 构成时态、语态、否定、疑问、强调等 |
-| 情态动词 | `can`, `could`, `may`, `might`, `must` 等 | 表示能力、许可、可能、义务、推测、意愿等 |
-| 半助动词 | `be able to`, `be going to`, `be about to`, `be to`, `had better` 等 | 表示接近情态动词的意义 |
+| 类别 | 代表词汇 | 核心语法功能 | 关联专项 |
+| --- | --- | --- | --- |
+| **基本助动词** | `be`, `do`, `have` | 协助构成时态、语态、否定、疑问或强调 | [[动词时态 verb tense]] · [[被动 Passive Voice]] · [[强调 emphasize]] |
+| **情态动词** | `can`, `may`, `must`, `should`, `will` 等 | 表达能力、许可、推测、意愿、义务或假设语气 | [[虚拟语气 Subjunctive Mood]] |
+| **半助动词 / 准情态词** | `be able to`, `had better`, `used to`, `be going to` | 具有情态动词或助动词意义的固定词组 | [[动词分类 verb Classification]] |
 
-## 基本助动词
+---
 
-### `be`
+## 一、基本助动词（Primary Auxiliary Verbs）
 
-`be` 作助动词时，用于构成进行时或被动语态。
+基本助动词本身没有独立的词汇含义，主要承担语法标记功能。
 
-```text
-The rabbit is eating a carrot.
-兔子正在吃一根胡萝卜。
-```
+### 1. `be`（am / is / are / was / were / been / being）
 
-```text
-be + 现在分词
-```
+#### 构成进行时态（`be + 现在分词`）
+> The rabbit is eating a carrot.  
+> 兔子正在吃胡萝卜。（现在进行时，见 [[动词时态 verb tense]]）
 
-- `is eating` 是现在进行时。
+#### 构成被动语态（`be + 过去分词`）
+> The carrot was eaten by the rabbit.  
+> 胡萝卜被兔子吃了。（一般过去时被动语态，见 [[被动 Passive Voice]]）
 
-```text
-The carrot was eaten by the rabbit.
-胡萝卜被兔子吃了。
-```
+### 2. `have`（have / has / had / having）
 
-```text
-be + 过去分词
-```
+用于构成完成时态（`have / has / had + 过去分词`，参见 [[动词时态 verb tense]]）：
 
-- `was eaten` 是一般过去时的被动语态。
+> The rabbit has eaten three carrots.  
+> 兔子已经吃了三根胡萝卜。（现在完成时）
 
-### `have`
+> The train had left before we arrived.  
+> 在我们到达之前，火车就已经开走了。（过去完成时）
 
-`have` 作助动词时，用于构成完成时。
+### 3. `do`（do / does / did）
 
-```text
-The rabbit has eaten a carrot.
-兔子已经吃了一根胡萝卜。
-```
+用于一般现在时或一般过去时中，协助构成否定句、疑问句、倒装句或强调句（必须接**动词原形**）：
 
-```text
-have / has + 过去分词
-```
+#### 构成否定句与疑问句
+> The rabbit does not like wolves.  
+> 兔子不喜欢狼。
 
-- `has eaten` 是现在完成时。
+> Did the rabbit finish his homework?  
+> 兔子完成作业了吗？
 
-### `do`
+#### 构成强调句（参见 [[强调 emphasize]]）
+> The rabbit does like sweet carrots!  
+> 兔子的确很喜欢甜胡萝卜！
 
-`do` 作助动词时，主要用于一般现在时或一般过去时的否定句、疑问句和强调句。
+#### 构成倒装句（参见 [[倒装 inversion]]）
+> Never did I see such a clever rabbit.  
+> 我从未见过如此聪明的兔子。
 
-```text
-The rabbit does not like freeloaders.
-兔子不喜欢吃白食的人。
-```
+---
 
-```text
-Does the rabbit like carrots?
-兔子喜欢胡萝卜吗？
-```
+## 二、情态动词的核心用法与语气色彩
 
-```text
-The rabbit does like coins!
-兔子确实喜欢硬币！
-```
-
-注意：`do` 作助动词时通常没有实际含义。
-
-```text
-do / does / did + 动词原形
-```
-
-```text
-✅ The rabbit does like coins.
-❌ The rabbit does likes coins.
-```
-
-## 情态动词概览
-
-情态动词是助动词的一种，用来表达说话人的态度和判断，如能力、许可、可能性、义务、必要性、建议、意愿和推测等。
-
-常见情态动词：
-
-```text
-can, could, may, might, must, will, would,
-shall, should, ought to, dare, need, used to
-```
-
-基本规则：
+情态动词无人称和数的变化（第三人称单数不加 `-s`），后面必须接**动词原形**。
 
 ```text
 情态动词 + 动词原形
 ```
 
-```text
-The rabbit can eat a carrot.
-兔子能吃一根胡萝卜。
+### 1. `can` 与 `could`
 
-The rabbit will eat a carrot.
-兔子将吃一根胡萝卜。
-```
-
-一般特点：
-
-- 情态动词后通常接动词原形。
-- 情态动词一般不随主语变化而加 `-s`。
-- 情态动词构成否定句时，直接在后面加 `not`。
-- 情态动词构成疑问句时，直接把情态动词提前。
-- 多数情态动词不能单独作谓语。
-
-```text
-✅ She can swim.
-❌ She can swims.
-
-✅ She cannot swim.
-❌ She does not can swim.
-
-✅ Can she swim?
-❌ Does she can swim?
-```
-
-## `can` 与 `could`
-
-### 基本用法
-
-`can` 和 `could` 可表示能力、许可或可能性。
-
-| 用法 | `can` | `could` |
+| 语气功能 | 示例 | 说明 |
 | --- | --- | --- |
-| 能力 | 现在的能力 | 过去的能力 |
-| 许可 | 可以；较直接 | 可以；更礼貌 |
-| 可能性 | 有可能 | 可能性较弱；有时表示过去可能 |
-| 假设 | 一般较少使用 | 常用于假设或委婉表达 |
+| **能力（能、会）** | `The rabbit can jump very high.` | 表达自身具有的能力（过去能力用 `could`） |
+| **请求与许可（可以）** | `Could I borrow your carrot, please?` | `could` 比 `can` 语气更委婉客气 |
+| **理论可能性 / 否定推测** | `That cannot be the wolf.` | 否定推测“不可能”必须用 `cannot / can't` |
+
+### 2. `may` 与 `might`
+
+- **许可（可以）**：`May I come in?`（我可以进来吗？）
+- **可能性推测（也许、可能）**：`The rabbit may be in the garden.`（兔子可能在花园里，`might` 可能性比 `may` 更弱）。
+
+### 3. `must` 与 `have to`
+
+- **必须、命令**：`You must finish your homework now.`（说话人主观认为“必须”）。
+- **客观不得不（have to）**：`It is raining, so I have to take an umbrella.`（受客观条件限制“不得不”）。
+- **肯定强烈推测（一定、肯定）**：`The rabbit looks happy; he must have won the prize.`（他一定获奖了）。
+
+#### 否定辨析：`mustn't` vs `needn't`
 
 ```text
-I can kill a wolf.
-我能杀死一只狼。
+mustn't: 绝对禁止；千万不可
+needn't / don't have to: 不必；没有必要
 ```
 
-```text
-I could kill a wolf last year.
-我去年能杀死一只狼。
-```
+> — Must I clean the room now?（我现在必须打扫房间吗？）  
+> — No, you needn't. / No, you don't have to.（不，你不必打扫。）
 
-```text
-Can I borrow your book?
-我可以借一下你的书吗？
-```
+### 4. `shall` 与 `should`
 
-```text
-Could I borrow your book?
-我可以借一下你的书吗？
-```
+- **`shall`**：用于第一人称征求对方意见（`Shall we go for a walk?`）或正式条约、法律中表达必须。
+- **`should`**：表达责任、义务或建议（“应该”，`You should eat more vegetables.`）；用于虚拟语气中（参见 [[虚拟语气 Subjunctive Mood]]）。
 
-- `Could I ...?` 通常比 `Can I ...?` 更委婉。
+### 5. `will` 与 `would`
 
-### 表示可能性
+- **意愿 / 决心**：`I will help you.`（我愿意帮助你）。
+- **委婉请求**：`Would you please open the door?`（请您把门打开好吗？）。
+- **过去习惯性动作**：`In the afternoon, the rabbit would sit under the tree.`（过去兔子常坐在树下）。
 
-```text
-Anything can happen.
-任何事情都可能发生。
-```
+---
 
-```text
-Anything could happen.
-任何事情都可能发生。
-```
+## 三、情态动词对过去的推测体系（情态动词 + have done）
 
-- `could` 表示的可能性通常比 `can` 更不确定或更弱。
+当说话人对**过去已经发生的事情**进行推测、评价、遗憾或责备时，使用“`情态动词 + have + 过去分词`”结构：
 
-### `could have done`
-
-```text
-The rabbit could have gone home earlier, but he didn't finish work on time.
-兔子本来可以早点回家，但他没有及时完成工作。
-```
-
-```text
-could have + 过去分词
-```
-
-表示过去本来有能力、机会或可能做某事，但实际未必发生。
-
-## `may` 与 `might`
-
-`may` 和 `might` 可表示许可、可能性或祝愿。
-
-| 用法 | `may` | `might` |
-| --- | --- | ---|
-| 许可 | 可以，较正式 | 可以，较少用于现代口语许可 |
-| 可能性 | 可能 | 可能性更小、更不确定 |
-| 祝愿 | 常用 | 一般不用 |
-
-```text
-May I borrow your book?
-我可以借一下你的书吗？
-```
-
-```text
-The rabbit isn't here. He may be at home.
-兔子不在这里。他可能在家。
-```
-
-```text
-The rabbit isn't here. He might be at home.
-兔子不在这里。他或许在家。
-```
-
-```text
-May you succeed!
-祝你成功！
-```
-
-## `must`
-
-`must` 可表示必须、禁止或非常有把握的推测。
-
-### 表示必须
-
-```text
-You must finish your homework first.
-你必须先完成作业。
-```
-
-### 表示禁止
-
-```text
-You must not smoke here.
-这里禁止吸烟。
-```
-
-```text
-must not = mustn't
-```
-
-注意：`mustn't` 表示“禁止”，不是“不必”。
-
-```text
-You mustn't smoke here.
-你不准在这里吸烟。
-```
-
-### 表示推测
-
-```text
-The light is on. The rabbit must be at home.
-灯亮着，兔子一定在家。
-```
-
-`must` 表示肯定推测时，否定形式不用 `mustn't`，通常用 `can't`。
-
-```text
-The light is off. The rabbit can't be at home.
-灯没有亮，兔子不可能在家。
-```
-
-### `must` 的一般疑问句
-
-```text
-Must I give you a thumbs-up?
-我必须给你点赞吗？
-
-No, you needn't give me a thumbs-up.
-不，你不必给我点赞。
-```
-
-回答 `Must I ...?` 时：
-
-```text
-Yes, you must.
-No, you needn't. / No, you don't have to.
-```
-
-```text
-❌ No, you mustn't.
-```
-
-- `mustn't` 表示“禁止”，不能表示“不必”。
-
-## `will` 与 `would`
-
-### 构成将来时
-
-```text
-The rabbit will eat a carrot.
-兔子将吃一根胡萝卜。
-```
-
-```text
-The rabbit would eat a carrot.
-兔子在过去某个时间看来将会吃一根胡萝卜。
-```
-
-- `will`：一般将来时。
-- `would`：过去将来时，常表示“过去预计将会”。
-
-### 表示请求
-
-```text
-Will you lend me that book?
-你愿意把那本书借给我吗？
-```
-
-```text
-Would you please lend me that book?
-请问你愿意把那本书借给我吗？
-```
-
-- `would` 的语气通常更委婉。
-
-### 表示推测或假设
-
-```text
-Ask him. He will know.
-问问他吧，他会知道的。
-```
-
-```text
-Ask him. He would know.
-问问他吧，他可能会知道。
-```
-
-```text
-What would the rabbit eat for dinner?
-兔子晚餐可能会吃什么？
-
-He would eat a carrot.
-他可能会吃一根胡萝卜。
-```
-
-`would` 的具体含义需要结合语境判断，常见为过去将来、假设、委婉请求、推测或过去习惯。
-
-## `shall`
-
-`shall` 主要用于较正式的表达，现代英语中不如 `will` 常见。
-
-### 表示将来
-
-```text
-I shall be there at 9 AM.
-= I will be there at 9 AM.
-我早上九点会在那里。
-```
-
-### 征求意见
-
-```text
-Shall we meet at 9 AM?
-我们九点见面好吗？
-```
-
-```text
-Shall I open the window?
-我来开窗好吗？
-```
-
-### 警告、命令或规定
-
-```text
-You shall not murder.
-You shall not steal.
-You shall not covet.
-你不可杀人。你不可偷窃。你不可贪恋。
-```
-
-## `should` 与 `ought to`
-
-### `should`
-
-`should` 可表示建议、义务、推测或虚拟语气。
-
-```text
-We should treat the rabbit well.
-我们应该善待兔子。
-```
-
-```text
-It should rain tomorrow.
-明天应该会下雨。
-```
-
-```text
-The bus is late. It should be here soon.
-公交车晚点了，它应该很快到。
-```
-
-在虚拟语气中：
-
-```text
-If it should rain tomorrow, I wouldn't go.
-万一明天下雨，我就不去了。
-
-You should have eaten the carrot.
-你本应该吃掉胡萝卜。
-```
-
-### `ought to`
-
-`ought to` 与 `should` 都可表示“应该”，但 `ought to` 语气通常更强，且后面必须接 `to`。
-
-```text
-You ought to treat the rabbit well.
-你应当好好对待兔子。
-```
-
-```text
-should + 动词原形
-ought to + 动词原形
-```
-
-## `need`
-
-`need` 可作实义动词，也可作情态动词。
-
-### 作情态动词
-
-`need` 作情态动词时，多用于否定句和疑问句，后接动词原形。
-
-```text
-The rabbit need wait.
-兔子需要等。
-
-The rabbit need not wait.
-兔子不必等。
-```
-
-```text
-Need the rabbit wait?
-兔子有必要等吗？
-```
-
-### 作实义动词
-
-`need` 作实义动词时，形式随主语和时态变化，后面通常接 `to do`。
-
-```text
-The rabbit needs to wait.
-兔子需要等待。
-
-The rabbit does not need to wait.
-兔子不需要等待。
-```
-
-```text
-Does the rabbit need to wait?
-兔子需要等待吗？
-```
-
-## `dare`
-
-`dare` 既可作实义动词，也可作情态动词。
-
-```text
-The rabbit dare not tell the truth to the wolf.
-兔子不敢对狼说真话。
-```
-
-```text
-How dare you!
-你竟敢这样！
-```
-
-作实义动词时，常用结构：
-
-```text
-dare to do sth
-```
-
-```text
-He doesn't dare to speak.
-他不敢说话。
-```
-
-## `used to`
-
-```text
-used to + 动词原形
-```
-
-表示过去经常发生或过去存在、但现在已经不再如此的情况。
-
-```text
-The rabbit used to eat apples. Now he only eats carrots.
-兔子过去常吃苹果，现在只吃胡萝卜。
-```
-
-注意区分：
-
-| 结构 | 含义 | 示例 |
+| 句型结构 | 语气含义 | 经典例句 |
 | --- | --- | --- |
-| `used to do` | 过去常常做，现在不再做 | `I used to live here.` |
-| `be used to do` | 被用来做…… | `Wood is used to make paper.` |
-| `be used to doing` | 习惯于做…… | `I am used to getting up early.` |
+| `must have done` | 过去**一定**做了某事（高把握肯定推测） | `The ground is wet; it must have rained last night.` |
+| `can't / couldn't have done` | 过去**不可能**做了某事（高把握否定推测） | `He was in Beijing yesterday; he couldn't have stolen the carrot.` |
+| `may / might have done` | 过去**可能**做了某事（低把握推测） | `The rabbit may have forgotten the appointment.` |
+| `should have done` | 过去**本应该做而实际上未做**（自责/遗憾） | `You should have arrived earlier.`（你本该早点到的） |
+| `shouldn't have done` | 过去**本不该做而实际上做了**（批评/自责） | `You shouldn't have eaten all the carrots.`（你本不该吃光的） |
+| `could have done` | 过去**本来能够做而实际未做** | `The rabbit could have escaped, but he stayed.` |
+| `needn't have done` | 过去**本来不必做而实际做了** | `You needn't have brought an umbrella; it didn't rain.` |
 
-## 半助动词
+---
 
-半助动词在意义和功能上接近情态动词，但形式上不像典型情态动词那样固定。
+## 四、核心对比与总结
 
-| 结构 | 含义 | 示例 |
+| 情态推测句型 | 推测时间点 | 把握程度 / 情感色彩 |
 | --- | --- | --- |
-| `be able to` | 能够 | `I am able to swim.` |
-| `be going to` | 打算；将要 | `I am going to eat dinner.` |
-| `be about to` | 正要；马上要 | `The train is about to leave.` |
-| `be to` | 按计划、命令或安排要做 | `You are to finish your homework.` |
-| `had better` | 最好 | `You had better leave now.` |
+| `must do / be` | 对现在 / 将来 | 极高把握肯定（“一定是……”） |
+| `can't do / be` | 对现在 / 将来 | 极高把握否定（“不可能是……”） |
+| `must have done` | 对过去 | 极高把握肯定（“当时一定做了……”） |
+| `can't have done` | 对过去 | 极高把握否定（“当时不可能做了……”） |
+| `should have done` | 对过去 | 虚拟遗憾 / 批评（“本该做却没有做”） |
+| `needn't have done` | 对过去 | 多余行为（“本没有必要做却做了”） |
 
-### `be able to`
+---
 
-`be able to` 和 `can` 都表示“能够”，但 `be able to` 可以用于更多时态。
-
-```text
-I can swim.
-我会游泳。
-
-I will be able to reach school on time if I leave now.
-如果我现在出发，我将能够准时到学校。
-
-I was able to reach school on time because I left home early.
-因为我早出门，所以我能够准时到学校。
-```
-
-### `be going to`、`be about to`、`will`
+## 五、常见错误
 
 ```text
-I'm going to eat dinner at 6 PM today.
-我打算今天六点吃晚饭。
-
-I will eat dinner at 6 PM today.
-我今天六点会吃晚饭。
-
-I am about to eat dinner.
-我正要吃晚饭。
+❌ The rabbit can jumps high.
+✅ The rabbit can jump high.
 ```
-
-- `be going to`：已有计划或迹象，表示将要发生。
-- `will`：普通的将来表达、临时决定、预测或意愿。
-- `be about to`：马上就要发生，时间非常近。
-
-### `be to`
-
-`be to + 动词原形` 常表示计划、安排、命令、义务或注定发生的事。
+- 情态动词后必须接动词原形。
 
 ```text
-You are to finish your homework first.
-你要先完成作业。
+❌ — Must I finish the task right now?
+   — No, you mustn't.
+✅ — No, you needn't. / No, you don't have to.
 ```
+- `Must I...?` 提问的否定回答是“不必”，应用 `needn't` 或 `don't have to`；`mustn't` 表示“绝不能/禁止”。
 
 ```text
-I think they are to fall in love with each other.
-我认为他们注定会相爱。
+❌ The rabbit does loves carrots.
+✅ The rabbit does love carrots.
 ```
-
-### `had better`
+- 助动词 `does` 后面的实义动词必须恢复原形（参见 [[强调 emphasize]]）。
 
 ```text
-had better + 动词原形
+❌ The ground is wet. It should have rained last night.（本意：昨晚一定下雨了）
+✅ The ground is wet. It must have rained last night.
 ```
+- 表达对过去事实的肯定推测应使用 `must have done`；`should have done` 表示“本该发生却没发生”。
 
-表示强烈建议、劝告或警告。
+---
 
-```text
-You had better follow my orders.
-你最好听从我的命令。
-```
+## 🔗 知识网络与双链导航
 
-常见缩写：
-
-```text
-I'd better = I had better
-You'd better = You had better
-```
-
-否定形式：
-
-```text
-had better not + 动词原形
-```
-
-```text
-You'd better not be late.
-你最好不要迟到。
-```
-
-## 常见错误
-
-```text
-❌ She can swims.
-✅ She can swim.
-```
-
-```text
-❌ He doesn't can drive.
-✅ He can't drive.
-```
-
-```text
-❌ You mustn't come if you are busy.
-✅ You don't have to come if you are busy.
-```
-
-- `mustn't` 是“禁止”，`don't have to` 是“不必”。
-
-```text
-❌ I am used to get up early.
-✅ I am used to getting up early.
-```
-
-```text
-❌ He had better to leave now.
-✅ He had better leave now.
-```
-
-```text
-❌ I got him clean the room.
-✅ I got him to clean the room.
-```
+- **语法顶层导图**：[[英语语法综述 grammar Overview]] · [[词性 word class]]
+- **动词专项体系**：
+  - [[动词分类 verb Classification]] · [[使役动词 Causative Verb]] · [[系动词 linking verbs]] · [[动词时态 verb tense]]
+  - [[被动 Passive Voice]] · **[[助动词和情态动词 auxiliary verbs and modal verbs]]** · [[非谓语动词 non-finite verb]] · [[虚拟语气 Subjunctive Mood]]
+- **句法联动**：
+  - [[虚拟语气 Subjunctive Mood]] · [[强调 emphasize]] · [[倒装 inversion]] · [[被动 Passive Voice]]

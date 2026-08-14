@@ -1,10 +1,15 @@
+---
+tags:
+  - grammar
+  - morphology
+---
 # 介词（Prepositions）
 
 ## 什么是介词
 
-介词（Preposition，简称 prep.）是一种虚词，不能单独充当句子成分。
+介词（Preposition，简写为 `prep.`）是一种虚词，不能单独充当句子成分。
 
-介词通常置于名词、代词或动名词之前，与其构成**介词短语**，用以表示其与句子其他成分之间的空间、时间、方式、原因、对象、所属等逻辑关系。
+介词通常置于 [[名词 noun]]、[[代词 pronoun]] 或动名词（见 [[非谓语动词 non-finite verb]]）之前，与其构成**介词短语**，用以表示其与句子其他成分之间的空间、时间、方式、原因、对象、所属等逻辑关系。
 
 ```text
 介词 + 介词宾语（名词 / 代词 / 动名词） = 介词短语
@@ -16,16 +21,16 @@ The rabbit is eating a carrot under the tree in the morning.
 ```
 
 - `under the tree`：地点状语（介词 `under` + 名词短语 `the tree`）
-- `in the morning`：时间状语（介词 `in` + 名词短语 `the morning`）
+- `in the morning`：时间状语（介词 `in` + 名词短语 `the morning`，参见 [[冠词 article]]）
 
 ### 介词核心分类
 
-| 分类 | 构词形式 | 典型示例 |
-| --- | --- | --- |
-| 简单介词 | 单个独立单词 | `in`, `on`, `at`, `to`, `for`, `with`, `by`, `from`, `under` |
-| 合成介词 | 两个词合并为一个词 | `into`, `onto`, `within`, `without`, `throughout`, `inside` |
-| 短语介词 | 由两个或多个词构成的固定词组 | `because of`, `in front of`, `according to`, `along with` |
-| 分词介词 | 由动词分词演变而来的介词 | `including`, `regarding`, `considering`, `given` |
+| 分类 | 构词形式 | 典型示例 | 关联章节 |
+| --- | --- | --- | --- |
+| 简单介词 | 单个独立单词 | `in`, `on`, `at`, `to`, `for`, `with`, `by`, `from`, `under` | [[词性 word class]] |
+| 合成介词 | 两个词合并为一个词 | `into`, `onto`, `within`, `without`, `throughout`, `inside` | [[副词 adverb]] |
+| 短语介词 | 由两个或多个词构成的固定词组 | `because of`, `in front of`, `according to`, `along with` | [[连词 conjunction]] |
+| 分词介词 | 由动词分词演变而来的介词 | `including`, `regarding`, `considering`, `given` | [[非谓语动词 non-finite verb]] |
 
 ---
 
@@ -84,7 +89,7 @@ The rabbit is eating a carrot under the tree in the morning.
 
 - `near`：在……附近（通常有一定物理距离）。
 - `by / beside`：在……旁边（距离较近，两者常可互换）。
-- `next to`：紧挨着；紧邻（强调紧贴或紧接顺序）。
+- `next to`：紧挨着；紧邻（强调紧贴或紧接顺序，参见 [[限定词 determiners]]）。
 
 > There is a hotel near the airport.  
 > 机场附近有一家酒店。
@@ -119,19 +124,19 @@ on + 具体某一天（具体日期、星期、特定某一天的早午晚）
 in + 较长的时间段（年份、月份、季节、世纪、泛指的早中晚）
 ```
 
-| 介词 | 搭配规则 | 典型示例 |
-| --- | --- | --- |
-| `at` | 具体时刻、正午、黎明、节日期间 | `at 8:00`, `at noon`, `at night`, `at Christmas` |
-| `on` | 星期、具体日期、特定节日、修饰的早午晚 | `on Monday`, `on April 1st`, `on Children's Day`, `on a cold morning` |
-| `in` | 年份、月份、季节、世纪、常规早午晚 | `in 2030`, `in August`, `in summer`, `in the 21st century`, `in the morning` |
+| 介词 | 搭配规则 | 典型示例 | 关联专题 |
+| --- | --- | --- | --- |
+| `at` | 具体时刻、正午、黎明、节日期间 | `at 8:00`, `at noon`, `at night`, `at Christmas` | [[数词 numeral]] |
+| `on` | 星期、具体日期、特定节日、修饰的早午晚 | `on Monday`, `on April 1st`, `on Children's Day`, `on a cold morning` | [[冠词 article]] |
+| `in` | 年份、月份、季节、世纪、常规早午晚 | `in 2030`, `in August`, `in summer`, `in the 21st century`, `in the morning` | [[数词 numeral]] |
 
 > The meeting starts at 9:00 on Monday morning in August.  
 > 会议在八月份周一早晨 9 点开始。
 
 ### 2. `for`、`since` 与 `during`
 
-- `for + 时间段`：表示动作或状态持续了多久（常与完成时或一般时连用）。
-- `since + 过去时间点 / 过去从句`：表示“自从……以来”（主句通常用现在完成时）。
+- `for + 时间段`：表示动作或状态持续了多久（常与完成时或一般时连用，参见 [[动词时态 verb tense]]）。
+- `since + 过去时间点 / 过去从句`：表示“自从……以来”（主句通常用现在完成时，可作连词，见 [[连词 conjunction]]）。
 - `during + 特定时段 / 事件名词`：表示在某段时期或事件进行期间。
 
 > I have studied English for three years.  
@@ -147,7 +152,7 @@ in + 较长的时间段（年份、月份、季节、世纪、泛指的早中晚
 
 - `by + 时间点`：表示“不迟于……；在……之前为止”（强调截止时间）。
 - `until + 时间点`：表示“直到……为止”（肯定句动词须为延续性动词；否定句 `not...until` 表示“直到……才”）。
-- `before` 与 `after`：表示“在……之前”与“在……之后”。
+- `before` 与 `after`：表示“在……之前”与“在……之后”（兼作从属连词，见 [[连词 conjunction]]）。
 
 > Please finish the homework by 5:00.  
 > 请在 5 点前完成作业。
@@ -160,7 +165,7 @@ in + 较长的时间段（年份、月份、季节、世纪、泛指的早中晚
 
 ### 4. `in + 一段时间`
 
-在一般将来时中，“`in + 一段时间`”表示“……之后”（提问用 `How soon`）。
+在一般将来时中，“`in + 一段时间`”表示“……之后”（提问用 `How soon`，参见 [[动词时态 verb tense]]）。
 
 > The train will arrive in ten minutes.  
 > 火车将在十分钟后到达。
@@ -188,7 +193,7 @@ in + 较长的时间段（年份、月份、季节、世纪、泛指的早中晚
 
 - `for`：因为……（常与名誉、奖励、感谢连用：`famous for`, `thank you for`）。
 - `with`：由于伴随的身体/心理反应（`shake with cold` 冷得发抖, `cry with joy` 喜极而泣）。
-- `because of` / `due to` / `owing to`：因为……（后接名词或代词）。
+- `because of` / `due to` / `owing to`：因为……（后接名词或代词，对比连词 `because`，见 [[连词 conjunction]]）。
 
 > The rabbit is famous for his smart videos.  
 > 兔子因其机智的视频而出名。
@@ -220,24 +225,24 @@ in + 较长的时间段（年份、月份、季节、世纪、泛指的早中晚
 
 ## 四、介词短语的句法功能
 
-| 句法成分 | 示例 | 说明 |
-| --- | --- | --- |
-| 状语 | `The rabbit ran into the forest.` | 介词短语作地点状语 |
-| 定语 | `The rabbit with long ears is smart.` | 介词短语作后置定语修饰 `The rabbit` |
-| 表语 | `The book is on the desk.` | 放在系动词 `is` 之后作表语 |
-| 宾语补足语 | `I found the carrot in good condition.` | 补充说明宾语 `the carrot` 的状态 |
-| 主语 | `Between 10:00 and 11:00 is suitable for me.` | 介词短语作主语（较少见） |
+| 句法成分 | 示例 | 说明 | 关联章节 |
+| --- | --- | --- | --- |
+| 状语 | `The rabbit ran into the forest.` | 介词短语作地点状语 | [[副词 adverb]] |
+| 定语 | `The rabbit with long ears is smart.` | 介词短语作后置定语修饰 `The rabbit` | [[形容词 adjective]] |
+| 表语 | `The book is on the desk.` | 放在系动词 `is` 之后作表语 | [[系动词 linking verbs]] |
+| 宾语补足语 | `I found the carrot in good condition.` | 补充说明宾语 `the carrot` 的状态 | [[使役动词 Causative Verb]] |
+| 主语 | `Between 10:00 and 11:00 is suitable for me.` | 介词短语作主语（较少见） | [[英语语法综述 grammar Overview]] |
 
 ---
 
 ## 五、核心对比与总结
 
-| 介词考点 | 核心规则记忆口诀 | 经典例句 |
-| --- | --- | --- |
-| 时间 `at/on/in` | 小点 at，具体某天 on，大段时间 in | `at 8:00`, `on Friday`, `in 2030` |
-| 树上 `on/in` | 自身长出用 on，外来飞入用 in | `apples on the tree`, `birds in the tree` |
-| 排除 `besides/except` | `besides` 是加法（还包括），`except` 是减法（排除掉） | `besides English`, `except Tom` |
-| 工具 `with/by/in` | `with` 接工具，`by` 接方式，`in` 接语言与材料 | `with a pen`, `by bus`, `in English` |
+| 介词考点 | 核心规则记忆口诀 | 经典例句 | 关联章节 |
+| --- | --- | --- | --- |
+| 时间 `at/on/in` | 小点 at，具体某天 on，大段时间 in | `at 8:00`, `on Friday`, `in 2030` | [[数词 numeral]] |
+| 树上 `on/in` | 自身长出用 on，外来飞入用 in | `apples on the tree`, `birds in the tree` | [[名词 noun]] |
+| 排除 `besides/except` | `besides` 是加法（还包括），`except` 是减法（排除掉） | `besides English`, `except Tom` | [[连词 conjunction]] |
+| 工具 `with/by/in` | `with` 接工具，`by` 接方式，`in` 接语言与材料 | `with a pen`, `by bus`, `in English` | [[英语语法综述 grammar Overview]] |
 
 ---
 
@@ -247,7 +252,7 @@ in + 较长的时间段（年份、月份、季节、世纪、泛指的早中晚
 ❌ We will meet on 8:00.
 ✅ We will meet at 8:00.
 ```
-- 具体时刻必须使用介词 `at`。
+- 具体时刻必须使用介词 `at`（参见 [[数词 numeral]]）。
 
 ```text
 ❌ I saw him in Monday morning.
@@ -278,3 +283,14 @@ in + 较长的时间段（年份、月份、季节、世纪、泛指的早中晚
 ✅ The rabbit jumped into the river.
 ```
 - 表达从外部进入内部的动态方向应使用合成介词 `into`。
+
+---
+
+## 🔗 知识网络与双链导航
+
+- **语法顶层导图**：[[英语语法综述 grammar Overview]] · [[词性 word class]]
+- **词法体系专题**：
+  - [[名词 noun]] · [[冠词 article]] · [[代词 pronoun]] · [[数词 numeral]] · [[形容词 adjective]]
+  - [[副词 adverb]] · **[[介词 preposition]]** · [[连词 conjunction]] · [[叹词 interjection]] · [[限定词 determiners]]
+- **进阶关联专题**：
+  - [[非谓语动词 non-finite verb]] · [[动词时态 verb tense]] · [[系动词 linking verbs]] · [[连词 conjunction]]

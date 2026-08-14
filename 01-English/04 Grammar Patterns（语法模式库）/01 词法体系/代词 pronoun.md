@@ -1,8 +1,13 @@
+---
+tags:
+  - grammar
+  - morphology
+---
 # 代词（Pronouns）
 
 ## 什么是代词
 
-代词是代替名词或名词短语的词。使用代词可以避免语言重复，使句子更加简洁、流畅。
+代词（Pronoun，简写为 `pron.`）是代替 [[名词 noun]] 或名词短语的词。使用代词可以避免语言重复，使句子更加简洁、流畅。
 
 ```text
 There is a rabbit. The rabbit is white. The rabbit is eating a carrot.
@@ -14,18 +19,18 @@ There is a rabbit. It is white. It is eating a carrot. It looks happy.
 
 ### 代词的核心分类
 
-| 分类 | 代表词汇 | 核心作用 |
-| --- | --- | --- |
-| 人称代词 | `I`, `you`, `he`, `she`, `it`, `we`, `they` | 指代特定的人或事物 |
-| 物主代词 | `my / mine`, `your / yours`, `their / theirs` | 表示所有所属关系（“谁的”） |
-| 反身代词 | `myself`, `yourself`, `themselves` | 表示动作回到主语自身（“某人自己”） |
-| 强调代词 | `himself`, `herself`, `itself` | 作同位语或状语，起强调作用（“亲自”） |
-| 相互代词 | `each other`, `one another` | 表示相互之间的关系（“互相”） |
-| 指示代词 | `this`, `that`, `these`, `those` | 指示远近不同的人或事物 |
-| 不定代词 | `some`, `any`, `each`, `both`, `all`, `many` | 不指明特定对象或数量 |
-| 疑问代词 | `who`, `whom`, `whose`, `what`, `which` | 用于构成特殊疑问句 |
-| 连接代词 | `who`, `what`, `which`, `whatever` | 引导名词性从句 |
-| 关系代词 | `who`, `whom`, `whose`, `which`, `that`, `as` | 引导定语从句 |
+| 分类 | 代表词汇 | 核心作用 | 关联章节 |
+| --- | --- | --- | --- |
+| 人称代词 | `I`, `you`, `he`, `she`, `it`, `we`, `they` | 指代特定的人或事物 | [[主谓一致 subject verb agreement]] |
+| 物主代词 | `my / mine`, `your / yours`, `their / theirs` | 表示所属关系（“谁的”） | [[限定词 determiners]] |
+| 反身代词 | `myself`, `yourself`, `themselves` | 表示动作回到主语自身（“某人自己”） | [[动词分类 verb Classification]] |
+| 强调代词 | `himself`, `herself`, `itself` | 作同位语或状语，起强调作用（“亲自”） | [[强调 emphasize]] |
+| 相互代词 | `each other`, `one another` | 表示相互之间的关系（“互相”） | [[英语语法综述 grammar Overview]] |
+| 指示代词 | `this`, `that`, `these`, `those` | 指示远近不同的人或事物 | [[限定词 determiners]] |
+| 不定代词 | `some`, `any`, `each`, `both`, `all`, `many` | 不指明特定对象或数量 | [[限定词 determiners]] |
+| 疑问代词 | `who`, `whom`, `whose`, `what`, `which` | 用于构成特殊疑问句 | [[从句 clause]] |
+| 连接代词 | `who`, `what`, `which`, `whatever` | 引导名词性从句 | [[从句 clause]] |
+| 关系代词 | `who`, `whom`, `whose`, `which`, `that`, `as` | 引导定语从句 | [[从句 clause]] |
 
 ---
 
@@ -33,7 +38,7 @@ There is a rabbit. It is white. It is eating a carrot. It looks happy.
 
 ### 1. 主格与宾格
 
-人称代词根据在句中充当的句子成分分为**主格**（作主语）和**宾格**（作动词或介词的宾语）。
+人称代词根据在句中充当的句子成分分为**主格**（作主语）和**宾格**（作动词或 [[介词 preposition|介词]] 的宾语）。
 
 | 人称 | 单数主格 | 单数宾格 | 复数主格 | 复数宾格 |
 | --- | --- | --- | --- | --- |
@@ -87,7 +92,7 @@ There is a rabbit. It is white. It is eating a carrot. It looks happy.
 
 ### 1. 形容词性物主代词
 
-相当于形容词，**后面必须紧跟名词**，作前置定语。
+在语法功能上属于中位 [[限定词 determiners]]，**后面必须紧跟 [[名词 noun]]**，作前置定语。
 
 ```text
 形容词性物主代词 + 名词
@@ -101,7 +106,7 @@ There is a rabbit. It is white. It is eating a carrot. It looks happy.
 
 ### 2. 名词性物主代词
 
-相当于“形容词性物主代词 + 名词”，**后面不能再接名词**，可独立作主语、宾语或表语。
+相当于“形容词性物主代词 + 名词”，**后面不能再接名词**，可独立作主语、宾语或表语（参见 [[名词 noun|双重所有格]]）。
 
 ```text
 名词性物主代词 = 形容词性物主代词 + 名词
@@ -127,7 +132,7 @@ There is a rabbit. It is white. It is eating a carrot. It looks happy.
 
 ### 1. 作反身代词（动作作用于自身）
 
-在句中作动词或介词的宾语，表示动作的发出者和承受者是同一个人。
+在句中作动词或 [[介词 preposition|介词]] 的宾语，表示动作的发出者和承受者是同一个人。
 
 > The rabbit washed himself.  
 > 兔子把自己洗干净了。
@@ -137,7 +142,7 @@ There is a rabbit. It is white. It is eating a carrot. It looks happy.
 
 ### 2. 作强调代词（强调“亲自、本人”）
 
-在句中作主语或宾语的同位语，表示强调，去掉后句子结构依然完整。
+在句中作主语或宾语的同位语，起强调作用（参见 [[强调 emphasize]]），去掉后句子结构依然完整。
 
 > The rabbit washed the carrots himself.  
 > 兔子亲自洗了胡萝卜。
@@ -161,7 +166,7 @@ dress oneself          自己穿衣服
 
 ### 1. 指示代词（Demonstrative Pronouns）
 
-指示代词包括 `this`（这）、`that`（那）、`these`（这些）、`those`（那些）。
+指示代词包括 `this`（这）、`that`（那）、`these`（这些）、`those`（那些），可兼作 [[限定词 determiners]]。
 
 | 距离 / 关系 | 单数 | 复数 |
 | --- | --- | --- |
@@ -200,9 +205,11 @@ dress oneself          自己穿衣服
 
 ## 五、不定代词（Indefinite Pronouns）
 
+不定代词在限定名词时充当 [[限定词 determiners]]，在句中作主语时须特别注意 [[主谓一致 subject verb agreement]]。
+
 ### 1. `many` 与 `much`
 
-- `many`：修饰/代替可数名词复数。
+- `many`：修饰/代替可数名词复数（参见 [[名词 noun]]）。
 - `much`：修饰/代替不可数名词。
 
 > Many rabbits are playing in the garden.  
@@ -250,7 +257,7 @@ dress oneself          自己穿衣服
 ### 4. `each` 与 `every`
 
 - `each`：可作代词或限定词，强调个体，指两者或两者以上中的“每一个”，可单独作主语。
-- `every`：仅作限定词，强调全体，指三者或三者以上中的“每一个”，**后面必须接单数名词**，不能单独作主语。
+- `every`：仅作限定词（参见 [[限定词 determiners]]），强调全体，指三者或三者以上中的“每一个”，**后面必须接单数名词**，不能单独作主语。
 
 > There are many carrots. Each is big.  
 > 这里有很多胡萝卜。每一个都很大。（`Each` 独立作主语）
@@ -260,7 +267,7 @@ dress oneself          自己穿衣服
 
 ### 5. `either`、`neither` 与 `both`（两者范围）
 
-- `both`：两者都（作主语谓语用复数）。
+- `both`：两者都（作主语谓语用复数，与 `and` 构成并列连词，详见 [[连词 conjunction]]）。
 - `either`：两者中的任何一个（作主语谓语用单数）。
 - `neither`：两者中哪一个都不（作主语谓语用单数）。
 
@@ -324,8 +331,8 @@ no one / nobody / nothing            没有人 / 没有事
 
 #### 核心规则
 
-1. **修饰语后置**：形容词或不定式修饰复合不定代词时，必须**放在其后**。
-2. **单数谓语**：复合不定代词作主语时，谓语动词一律用**单数**。
+1. **修饰语后置**：[[形容词 adjective]] 或不定式修饰复合不定代词时，必须**放在其后**。
+2. **单数谓语**：复合不定代词作主语时，谓语动词一律用**单数**（参见 [[主谓一致 subject verb agreement]]）。
 
 > The rabbit needs something important.  
 > 兔子需要一些重要的东西。（形容词 `important` 后置）
@@ -342,7 +349,7 @@ no one / nobody / nothing            没有人 / 没有事
 
 ### 1. 疑问代词
 
-用于构成疑问句，对句子成分进行提问：`who`, `whom`, `whose`, `what`, `which`。
+用于构成特殊疑问句，对句子成分进行提问：`who`, `whom`, `whose`, `what`, `which`。
 
 > Who saw the rabbit?  
 > 谁看见了兔子？（作主语）
@@ -355,7 +362,7 @@ no one / nobody / nothing            没有人 / 没有事
 
 ### 2. 连接代词
 
-用于引导名词性从句（主语从句、宾语从句、表语从句、同位语从句）：`who`, `whom`, `whose`, `what`, `which`, `whoever`, `whatever`, `whichever`。
+用于引导名词性从句（主语从句、宾语从句、表语从句、同位语从句，详见 [[从句 clause]]）：`who`, `whom`, `whose`, `what`, `which`, `whoever`, `whatever`, `whichever`。
 
 > I don't know who you are.  
 > 我不知道你是谁。（引导宾语从句）
@@ -368,7 +375,7 @@ no one / nobody / nothing            没有人 / 没有事
 
 ### 3. 关系代词
 
-用于引导定语从句，并在从句中充当主语、宾语、定语等成分：`who`, `whom`, `whose`, `which`, `that`, `as`。
+用于引导定语从句，并在从句中充当主语、宾语、定语等成分（详见 [[从句 clause]]）：`who`, `whom`, `whose`, `which`, `that`, `as`。
 
 > The rabbit who is eating a carrot looks happy.  
 > 正在吃胡萝卜的那只兔子看起来很开心。（`who` 指人/拟人动物，作从句主语）
@@ -405,7 +412,7 @@ no one / nobody / nothing            没有人 / 没有事
 ❌ There are many rabbits. Every is cute.
 ✅ There are many rabbits. Each is cute.
 ```
-- `every` 不能单独作主语，应使用 `each`。
+- `every` 不能单独作主语，应使用 `each`（参考 [[限定词 determiners]]）。
 
 ```text
 ❌ I have two carrots. Another is big.
@@ -417,10 +424,21 @@ no one / nobody / nothing            没有人 / 没有事
 ❌ The rabbit wants important something to do.
 ✅ The rabbit wants something important to do.
 ```
-- 修饰复合不定代词的形容词必须后置。
+- 修饰复合不定代词的形容词必须后置（参见 [[形容词 adjective]]）。
 
 ```text
 ❌ Everyone are ready.
 ✅ Everyone is ready.
 ```
-- 复合不定代词作主语，谓语动词必须用单数形式 `is`。
+- 复合不定代词作主语，谓语动词必须用单数形式 `is`（参见 [[主谓一致 subject verb agreement]]）。
+
+---
+
+## 🔗 知识网络与双链导航
+
+- **语法顶层导图**：[[英语语法综述 grammar Overview]] · [[词性 word class]]
+- **词法体系专题**：
+  - [[名词 noun]] · [[冠词 article]] · **[[代词 pronoun]]** · [[数词 numeral]] · [[形容词 adjective]]
+  - [[副词 adverb]] · [[介词 preposition]] · [[连词 conjunction]] · [[叹词 interjection]] · [[限定词 determiners]]
+- **进阶关联专题**：
+  - [[限定词 determiners]] · [[主谓一致 subject verb agreement]] · [[从句 clause]] · [[强调 emphasize]]
