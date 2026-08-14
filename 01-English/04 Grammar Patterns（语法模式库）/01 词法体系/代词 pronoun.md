@@ -1,311 +1,426 @@
----
-tags:
-  - grammar
----
-# 代词 pronoun
+# 代词（Pronouns）
 
-代词就是代替名词的词，为了避免啰嗦而指代。
+## 什么是代词
 
-## 人称代词
+代词是代替名词或名词短语的词。使用代词可以避免语言重复，使句子更加简洁、流畅。
 
-There is a rabbit. The rabbit is white. The rabbit is eating a carrot. The rabbit looks happy.
-可替换为：
+```text
+There is a rabbit. The rabbit is white. The rabbit is eating a carrot.
+可简化为：
 There is a rabbit. It is white. It is eating a carrot. It looks happy.
+```
 
-人称代词：
-
-| 主格   | 宾格   | 解释       |
-| ---- | ---- | -------- |
-| I    | me   | 我        |
-| we   | us   | 我们       |
-| you  | you  | 你/你们     |
-| he   | him  | 他        |
-| she  | her  | 她        |
-| it   | it   | 它        |
-| they | them | 他们/她们/它们 |
-
-### 人称代词的“格”
-
-在英语中人称代词作主语和宾语需要区分开来
-
-I saw him. He also saw me.
-我看见了他，他也看见了我。
-
-You and I saw him.
-你和我看见了他。
-解析：You and I 是主格。
-
-He saw you and me.
-他看见了你和我。
-解析：you and me 是宾格。
+- `It`：代词（代替前面出现过的 `The rabbit`）
 
-## 物主代词
-
-### 什么是属格？
+### 代词的核心分类
 
-It is my carrot.
-The carrot is mine.
-解析：
-- 这里的 my 就是属格 “我的” 的意思。
-- my 是形容词性
-- mine 这里是名词性
+| 分类 | 代表词汇 | 核心作用 |
+| --- | --- | --- |
+| 人称代词 | `I`, `you`, `he`, `she`, `it`, `we`, `they` | 指代特定的人或事物 |
+| 物主代词 | `my / mine`, `your / yours`, `their / theirs` | 表示所有所属关系（“谁的”） |
+| 反身代词 | `myself`, `yourself`, `themselves` | 表示动作回到主语自身（“某人自己”） |
+| 强调代词 | `himself`, `herself`, `itself` | 作同位语或状语，起强调作用（“亲自”） |
+| 相互代词 | `each other`, `one another` | 表示相互之间的关系（“互相”） |
+| 指示代词 | `this`, `that`, `these`, `those` | 指示远近不同的人或事物 |
+| 不定代词 | `some`, `any`, `each`, `both`, `all`, `many` | 不指明特定对象或数量 |
+| 疑问代词 | `who`, `whom`, `whose`, `what`, `which` | 用于构成特殊疑问句 |
+| 连接代词 | `who`, `what`, `which`, `whatever` | 引导名词性从句 |
+| 关系代词 | `who`, `whom`, `whose`, `which`, `that`, `as` | 引导定语从句 |
 
-| 形容词性  | 名词性   | 解释     |
-| ----- | ----- | ------ |
-| my    | mine  | 我的     |
-| our   | ours  | 我们的    |
-| your  | yours | 你的/你们的 |
-| his   | his   | 他的     |
-| her   | hers  | 她的     |
-| its   | its   | 它的     |
-| their | their | 它们的    |
+---
 
-## 反身代词
+## 一、人称代词（Personal Pronouns）
 
-I say myself.
-我看见了我自己。
+### 1. 主格与宾格
 
-| 反身代词       | 解释             |
-| ---------- | -------------- |
-| myself     | 我自己            |
-| ourselves  | 我们自己           |
-| yourself   | 你自己            |
-| yourselves | 你们自己           |
-| himself    | 他自己            |
-| herself    | 她自己            |
-| itsself    | 它自己            |
-| themselves | 他们自己/她们自己/它们自己 |
+人称代词根据在句中充当的句子成分分为**主格**（作主语）和**宾格**（作动词或介词的宾语）。
 
-## 强调代词
+| 人称 | 单数主格 | 单数宾格 | 复数主格 | 复数宾格 |
+| --- | --- | --- | --- | --- |
+| 第一人称 | `I`（我） | `me`（我） | `we`（我们） | `us`（我们） |
+| 第二人称 | `you`（你） | `you`（你） | `you`（你们） | `you`（你们） |
+| 第三人称（阳性） | `he`（他） | `him`（他） | `they`（他们/她们/它们） | `them`（他们/她们/它们） |
+| 第三人称（阴性） | `she`（她） | `her`（她） | `they` | `them` |
+| 第三人称（中性） | `it`（它） | `it`（它） | `they` | `them` |
 
-The rabbit washed himself.
-兔子把自己洗白白。
+> I saw him. He also saw me.  
+> 我看见了他，他也看见了我。
 
-The rabbit washed the carrots **himself**.
-兔子自己洗了胡萝卜。
-解析：himself 是 强调代词；作状语。
+- `I`：主格，作主语
+- `him`：宾格，作动词 `saw` 的宾语
+- `He`：主格，作主语
+- `me`：宾格，作动词 `saw` 的宾语
 
-The rabbit will do it himself.
-兔子将亲自去做一件事。
+> You and I saw him.  
+> 你和我看见了他。（`You and I` 作并列主语，用主格）
 
-## 相互代词
+> He saw you and me.  
+> 他看见了你和我。（`you and me` 作并列宾语，用宾格）
 
-We should help each other / one another.
-我们要互相帮助
-解析：
-- each other / one another 是相互代词。
-- 两者之间用 each other；三者及以上用 one another。
+### 2. 人称代词并列时的排列顺序
 
-## 指示代词
+- **单数并列**：遵循“第二人称 → 第三人称 → 第一人称”（2 → 3 → 1）的礼貌原则。
+- **复数并列**：遵循“第一人称 → 第二人称 → 第三人称”（1 → 2 → 3）的顺序。
+- **承担责任/承认错误**：第一人称放在最前面。
 
-This is a rabbit.
-这是一只兔子
-These are carrots.
-这些是胡萝卜
-That is a wolf.
-那是一只狼
-Those are apples.
-那些是苹果
+```text
+单数礼貌顺序：You, he and I are good friends.
+复数并列顺序：We, you and they should cooperate.
+承担责任顺序：I and Tom made the mistake.
+```
 
-this rabbit
-这只兔子
-that rabbit
-那只兔子
-these rabbits
-这些兔子
-those rabbits
-那些兔子
+---
 
-## 不定代词
+## 二、物主代词（Possessive Pronouns）
 
-**many（用于代替/修饰可数名词的复数）; much（用于代替/修饰不可数名词）**
+物主代词表示所有关系，分为**形容词性物主代词**和**名词性物主代词**。
 
-many rabbits
-许多兔子
+| 人称 | 形容词性物主代词 | 名词性物主代词 | 含义 |
+| --- | --- | --- | --- |
+| 第一人称单数 | `my` | `mine` | 我的 |
+| 第一人称复数 | `our` | `ours` | 我们的 |
+| 第二人称单/复数 | `your` | `yours` | 你的 / 你们的 |
+| 第三人称单数（阳） | `his` | `his` | 他的 |
+| 第三人称单数（阴） | `her` | `hers` | 她的 |
+| 第三人称单数（中） | `its` | `its` | 它的 |
+| 第三人称复数 | `their` | `theirs` | 他（她、它）们的 |
 
-much water
-许多水
+### 1. 形容词性物主代词
 
-**a few（肯定意义）一些; few（否定意义）几乎没有**
-后接可数名词复数
+相当于形容词，**后面必须紧跟名词**，作前置定语。
 
-a few carrots
-一些胡萝卜
+```text
+形容词性物主代词 + 名词
+```
 
-few carrots
-很少（几个）胡萝卜
+> This is my carrot.  
+> 这是我的胡萝卜。
 
-a little（肯定意义）一些; little（否定意义）几乎没有
-后接不可数名词
+> Her rabbit is very cute.  
+> 她的兔子很可爱。
 
-a little water
-一点水
+### 2. 名词性物主代词
 
-little water
-很少水
+相当于“形容词性物主代词 + 名词”，**后面不能再接名词**，可独立作主语、宾语或表语。
 
-**some 一些（一般用在肯定句中）；any 一些（一般用在否定句/疑问句中）**
+```text
+名词性物主代词 = 形容词性物主代词 + 名词
+```
 
-The rabbit needs some carrots.
-兔子需要一些胡萝卜。
+> The carrot is mine.  
+> 这根胡萝卜是我的。（`mine` = `my carrot`，作表语）
 
-Does the rabbit need any carrots?
-兔子需要一些胡萝卜吗？
+> My carrot is small, but hers is big.  
+> 我的胡萝卜小，但她的大。（`hers` = `her carrot`，作主语）
 
-The rabbit doesn't need any carrots.
-兔子不需要一些胡萝卜。
+---
 
-如果想要一些证明的回答时也能用 some：
-Would you like some coffee?
-你想要一些咖啡吗？
+## 三、反身代词与强调代词（Reflexive & Emphatic Pronouns）
 
-而当 any 表示任何一个时，可以用在肯定句中，比如：
-The rabbit can eat any carrot.
-兔子可以吃任何一根胡萝卜
+反身代词表示“某人自己”。
 
-**each （可作代词, 单独作主语；2个/2个以上）; every（+名词，不可以单独作主语；3个/3个以上）**
-每, 后接单数
+| 单数 | 复数 | 含义 |
+| --- | --- | --- |
+| `myself` | `ourselves` | 我自己 / 我们自己 |
+| `yourself` | `yourselves` | 你自己 / 你们自己 |
+| `himself` / `herself` / `itself` | `themselves` | 他自己 / 她自己 / 它自己 / 他们（她们/它们）自己 |
 
-each carrot / every carrot
-每一根胡萝卜
+### 1. 作反身代词（动作作用于自身）
 
-There are many carrots. **Each** is big.
-这里有很多胡萝卜。每个都很大。
-解析：这里可以用 each，但是绝对不能用 every。
+在句中作动词或介词的宾语，表示动作的发出者和承受者是同一个人。
 
-There are many carrots on each side of the street.
-街道两旁有很多胡萝卜。
-解析：这里可以用 each，不能用 every。
+> The rabbit washed himself.  
+> 兔子把自己洗干净了。
 
-**either 两者中的每一个; neither 两者中每一个都不**
-either/neither作主语，谓语要用单数形式
+> Take care of yourself.  
+> 照顾好你自己。
 
-Give the rabbit this or that carrot. Either is good.
-给兔子这个或那个胡萝卜。(两者中)哪一个都很棒。
+### 2. 作强调代词（强调“亲自、本人”）
 
-Don't give the rabbit this or that carrot. Neither is good.
-别给兔子这个或那个胡萝卜。（两者中）每一个都不好。
+在句中作主语或宾语的同位语，表示强调，去掉后句子结构依然完整。
 
-Either of the carrots is good.
-（两个）胡萝卜哪一个都很好。
+> The rabbit washed the carrots himself.  
+> 兔子亲自洗了胡萝卜。
 
-Neither of the carrots is good.
-（两个）胡萝卜哪一个都不好。
+> The manager himself answered the phone.  
+> 经理本人亲自接听了电话。
 
-**both （两者）都;全部; all （三者及以上）都;全部** 
-**当它们作主语时，谓语要用复数形式。**
+### 3. 常见固定短语
 
-Both of the two rabbits are cute.
-两只兔子都很可爱。
+```text
+help yourself to...    请自便；随便吃……
+enjoy oneself          玩得开心
+by oneself             独自；独立地
+teach oneself          自学
+dress oneself          自己穿衣服
+```
 
-All of the rabbits are cute.
-所有兔子都很可爱。
+---
 
-**other 另外的；其他的（+名词）; the other 特质两者中的另一个; another** 泛指三个及以上的另一个（不知道哪一个）
+## 四、指示代词与相互代词
 
-I like this carrot. I don't like other carrots.
-我喜欢这根胡萝卜。我不喜欢其他的胡萝卜。
+### 1. 指示代词（Demonstrative Pronouns）
 
-This carrot is bigger than the other carrot.
-这根胡萝卜比另一根胡萝卜大。
+指示代词包括 `this`（这）、`that`（那）、`these`（这些）、`those`（那些）。
 
-The rabbit doesn't like this carrot. Give him another carrot.
-兔子不喜欢这根胡萝卜。给他另一个根胡萝卜。
+| 距离 / 关系 | 单数 | 复数 |
+| --- | --- | --- |
+| 近指（空间、时间或下文） | `this` | `these` |
+| 远指（空间、时间或上文） | `that` | `those` |
 
-**one; it**
+> This is a carrot and that is an apple.  
+> 这是胡萝卜，那是苹果。
 
-The rabbit doesn't like this carrot. Give him another one.
-兔子不喜欢这根胡萝卜。给他另一个。
+> These carrots are fresh, but those are old.  
+> 这些胡萝卜是新鲜的，但那些不新鲜。
 
-### 复合不定代词
+#### 代替上文出现的名词以避免重复
 
-- every-
-	- everyone 每人 / everybody 人人
-	- everything 每件事；一切事
-- some- 
-	- someone / somebody 某人
-	- something 某事
-- any- 
-	- anyone / anybody 任何人
-	- anything 任何事
-- no-
-	- no one / nobody 没人
-	- nothing 没有事
+- 代替单数可数名词或不可数名词：用 `that`。
+- 代替复数可数名词：用 `those`。
 
-Every is here.
-每个人都到了。
+> The climate of Beijing is colder than that of Guangzhou.  
+> 北京的气候比广州的气候冷。（`that` 代替不可数名词 `the climate`）
 
-The rabbit needs something to eat.
-兔子需要一些东西吃。
+> The carrots in this basket are bigger than those in that basket.  
+> 这个篮子里的胡萝卜比那个篮子里的胡萝卜大。（`those` 代替复数名词 `the carrots`）
 
-Nothing can stop the rabbit from eating carrots.
-没有什么能阻止兔子去吃胡萝卜。
+### 2. 相互代词（Reciprocal Pronouns）
 
-The rabbit has something important to do.
-兔子有一些重要的事要去做。
+- `each other`：通常用于两者之间相互。
+- `one another`：通常用于三者或三者以上之间相互。
 
-The rabbit has nothing important to do.
-兔子没有重要的事要去做。
+> The rabbit and the wolf looked at each other.  
+> 兔子和狼互相看着对方。
 
-## 疑问代词
+> We should help one another.  
+> 我们应当互相帮助。
 
-**Who** saw the rabbit?
-谁看见了兔子？
-解析：这里的 who 就是疑问代词；作主语
+---
 
-**Whom** did the rabbit see?
-兔子看见谁了？
-解析：这里的 whom 就是疑问代词；作宾语
+## 五、不定代词（Indefinite Pronouns）
 
-From whom did the rabbit get the carrots?
-兔子从谁那得到了胡萝卜？
+### 1. `many` 与 `much`
 
-What
-**What** did the rabbit see?
-兔子看到了什么？
+- `many`：修饰/代替可数名词复数。
+- `much`：修饰/代替不可数名词。
 
-Which
-**Which** is the best carrot?
-最好的萝卜是哪一个？
+> Many rabbits are playing in the garden.  
+> 许多兔子正在花园里玩耍。
 
-Whose
-**Whose** is the carrot?
-这是谁的胡萝卜？
+> We don't have much water left.  
+> 我们剩下的水不多了。
 
-## 连接代词
+### 2. `few / a few` 与 `little / a little`
 
-引导主语从句，宾语从句和表语从句（以后链接从句），它们有：
-who, whom, whose, what, which, whoever, whomever, whatever, whichever
+| 含义 | 修饰可数名词复数 | 修饰不可数名词 |
+| --- | --- | --- |
+| 肯定意义（“有一些、还有点”） | `a few` | `a little` |
+| 否定意义（“几乎没有、很少”） | `few` | `little` |
 
-I don't know who you are.
-我不知道你是谁。
+> I have a few carrots; we can share them.  
+> 我有几个胡萝卜，我们可以一起分着吃。（肯定）
 
-What he said isn't true.
-他说的话不是真的。
+> I have few carrots; I need to buy more.  
+> 我几乎没有胡萝卜了，我得去多买点。（否定）
 
-The important thing is which rabbit is smarter.
-重要的事是哪只兔子是更聪明的。
+> There is a little water in the glass.  
+> 杯子里还有一点水。（肯定）
 
-The rabbit wants to eat whatever he likes.
-兔子想要吃他喜欢的任何东西。
-解析：+"ever"，表示强调
+> There is little water left; the bottle is almost empty.  
+> 几乎没剩什么水了，瓶子差不多空了。（否定）
 
-## 关系代词
+### 3. `some` 与 `any`
 
-关系代词用于定语从句，它们有：
-who, whom, whose, which, that, as
+- `some`：通常用于肯定句；用于疑问句时表示**希望得到肯定回答**或提出建议/请求。
+- `any`：通常用于否定句和疑问句；用于肯定句时表示**“任何一个”**。
 
-The rabbit who became hungry ate a carrot.
-饿了的兔子吃了一根胡萝卜
+> The rabbit needs some carrots.  
+> 兔子需要一些胡萝卜。（肯定句）
 
-The rabbit whom I saw ate a carrot.
-我看见那只兔子吃了一根胡萝卜。
+> Would you like some coffee?  
+> 你想来点咖啡吗？（表示客气邀请，希望肯定回答）
 
-The rabbit whose ears are long ate a carrot.
-那只耳朵很长的兔子吃了一根胡萝卜。
+> The rabbit doesn't need any carrots.  
+> 兔子不需要任何胡萝卜。（否定句）
 
-The rabbit ate the carrot which/that I bought.
-兔子吃了我买的胡萝卜。
+> The rabbit can eat any carrot here.  
+> 兔子可以吃这里的任何一根胡萝卜。（肯定句中表示“任意一个”）
 
-The rabbit ate the carrot, as was expected.
-在意料中，兔子吃了胡萝卜。
+### 4. `each` 与 `every`
+
+- `each`：可作代词或限定词，强调个体，指两者或两者以上中的“每一个”，可单独作主语。
+- `every`：仅作限定词，强调全体，指三者或三者以上中的“每一个”，**后面必须接单数名词**，不能单独作主语。
+
+> There are many carrots. Each is big.  
+> 这里有很多胡萝卜。每一个都很大。（`Each` 独立作主语）
+
+> Every carrot is fresh.  
+> 每一根胡萝卜都很新鲜。（`every + 单数名词`）
+
+### 5. `either`、`neither` 与 `both`（两者范围）
+
+- `both`：两者都（作主语谓语用复数）。
+- `either`：两者中的任何一个（作主语谓语用单数）。
+- `neither`：两者中哪一个都不（作主语谓语用单数）。
+
+> Both rabbits are cute.  
+> 两只兔子都很可爱。
+
+> Either carrot is good.  
+> 两个胡萝卜中哪一个都行。
+
+> Neither of the carrots is fresh.  
+> 两个胡萝卜中哪一个都不新鲜。
+
+### 6. `all` 与 `none`（三者及以上范围）
+
+- `all`：三者及以上全都。
+- `none`：三者及以上全都不（强调数量为零）。
+
+> All of the rabbits love carrots.  
+> 所有的兔子都爱吃胡萝卜。
+
+> None of the carrots were / was eaten.  
+> 没有一根胡萝卜被吃掉。
+
+### 7. `other` 系列词汇辨析
+
+| 形式 | 语法功能 | 含义与用法 | 示例 |
+| --- | --- | --- | --- |
+| `other` | 限定词 / 形容词 | 另外的，后接名词复数 | `other carrots` |
+| `the other` | 代词 / 限定词 | （两者中的）另一个 | `one... the other...` |
+| `others` | 代词 | 泛指其他的人或物（不包含全部） | `Some like carrots, others like apples.` |
+| `the others` | 代词 | 特指特定范围内的其余全部 | `Two rabbits stayed; the others left.` |
+| `another` | 代词 / 限定词 | 泛指三者或以上的另一个 | `Give me another carrot.` |
+
+> I have two carrots. One is big, and the other is small.  
+> 我有两根胡萝卜。一根大，另一根小。
+
+> This carrot is bad. Please give me another one.  
+> 这根胡萝卜坏了。请再给我一根。
+
+### 8. `one` 与 `it`
+
+- `it`：指代**上文提到的同一事物**（同名同物）。
+- `one`：指代**同类事物中的另一个**（同名异物），复数为 `ones`。
+
+> I lost my pen, and I can't find it.  
+> 我把钢笔弄丢了，找不到了。（`it` = 丢的那支钢笔）
+
+> I lost my pen, so I bought a new one.  
+> 我把钢笔弄丢了，所以我买了一支新的。（`one` = 另一支新钢笔）
+
+### 9. 复合不定代词
+
+由 `some-`, `any-`, `every-`, `no-` 与 `-one`, `-body`, `-thing` 组合而成。
+
+```text
+someone / somebody / something      某人 / 某事
+anyone / anybody / anything          任何人 / 任何事
+everyone / everybody / everything    每个人 / 每件事
+no one / nobody / nothing            没有人 / 没有事
+```
+
+#### 核心规则
+
+1. **修饰语后置**：形容词或不定式修饰复合不定代词时，必须**放在其后**。
+2. **单数谓语**：复合不定代词作主语时，谓语动词一律用**单数**。
+
+> The rabbit needs something important.  
+> 兔子需要一些重要的东西。（形容词 `important` 后置）
+
+> Everyone is here.  
+> 每个人都在这里。（谓语动词用单数 `is`）
+
+> Nothing is impossible.  
+> 一切皆有可能。
+
+---
+
+## 六、疑问代词、连接代词与关系代词
+
+### 1. 疑问代词
+
+用于构成疑问句，对句子成分进行提问：`who`, `whom`, `whose`, `what`, `which`。
+
+> Who saw the rabbit?  
+> 谁看见了兔子？（作主语）
+
+> Whom did the rabbit see?  
+> 兔子看见了谁？（作宾语）
+
+> Whose carrot is this?  
+> 这是谁的胡萝卜？（作定语）
+
+### 2. 连接代词
+
+用于引导名词性从句（主语从句、宾语从句、表语从句、同位语从句）：`who`, `whom`, `whose`, `what`, `which`, `whoever`, `whatever`, `whichever`。
+
+> I don't know who you are.  
+> 我不知道你是谁。（引导宾语从句）
+
+> What he said is true.  
+> 他所说的是真的。（引导主语从句）
+
+> Eat whatever you like.  
+> 吃任何你喜欢的东西。（`-ever` 表示“无论……”）
+
+### 3. 关系代词
+
+用于引导定语从句，并在从句中充当主语、宾语、定语等成分：`who`, `whom`, `whose`, `which`, `that`, `as`。
+
+> The rabbit who is eating a carrot looks happy.  
+> 正在吃胡萝卜的那只兔子看起来很开心。（`who` 指人/拟人动物，作从句主语）
+
+> The carrot which I bought is sweet.  
+> 我买的那根胡萝卜很甜。（`which` 指物，作从句宾语）
+
+---
+
+## 七、核心对比与总结
+
+| 范围 | 全部肯定 | 局部肯定 | 全部否定 | 任意一个 |
+| --- | --- | --- | --- | --- |
+| 两者范围 | `both`（都） | —— | `neither`（都不） | `either`（任一） |
+| 三者及以上 | `all`（都） | `some / a few / a little` | `none`（都不） | `any`（任一） |
+
+---
+
+## 八、常见错误
+
+```text
+❌ He saw you and I.
+✅ He saw you and me.
+```
+- 作动词宾语必须用人称代词宾格 `me`。
+
+```text
+❌ The carrot is my.
+✅ The carrot is mine.
+```
+- 单独充当表语应使用名词性物主代词 `mine`。
+
+```text
+❌ There are many rabbits. Every is cute.
+✅ There are many rabbits. Each is cute.
+```
+- `every` 不能单独作主语，应使用 `each`。
+
+```text
+❌ I have two carrots. Another is big.
+✅ I have two carrots. The other is big.
+```
+- 两者中的“另一个”必须用 `the other`。
+
+```text
+❌ The rabbit wants important something to do.
+✅ The rabbit wants something important to do.
+```
+- 修饰复合不定代词的形容词必须后置。
+
+```text
+❌ Everyone are ready.
+✅ Everyone is ready.
+```
+- 复合不定代词作主语，谓语动词必须用单数形式 `is`。
