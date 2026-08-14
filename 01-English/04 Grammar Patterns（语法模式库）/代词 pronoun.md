@@ -1,4 +1,8 @@
-# 代词
+---
+tags:
+  - grammar
+---
+# 代词 pronoun
 
 代词就是代替名词的词，为了避免啰嗦而指代。
 
@@ -7,7 +11,6 @@
 There is a rabbit. The rabbit is white. The rabbit is eating a carrot. The rabbit looks happy.
 可替换为：
 There is a rabbit. It is white. It is eating a carrot. It looks happy.
-
 
 人称代词：
 
@@ -20,6 +23,7 @@ There is a rabbit. It is white. It is eating a carrot. It looks happy.
 | she  | her  | 她        |
 | it   | it   | 它        |
 | they | them | 他们/她们/它们 |
+
 ### 人称代词的“格”
 
 在英语中人称代词作主语和宾语需要区分开来
@@ -269,6 +273,7 @@ Whose
 这是谁的胡萝卜？
 
 ## 连接代词
+
 引导主语从句，宾语从句和表语从句（以后链接从句），它们有：
 who, whom, whose, what, which, whoever, whomever, whatever, whichever
 
@@ -286,6 +291,7 @@ The rabbit wants to eat whatever he likes.
 解析：+"ever"，表示强调
 
 ## 关系代词
+
 关系代词用于定语从句，它们有：
 who, whom, whose, which, that, as
 

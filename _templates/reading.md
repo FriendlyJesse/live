@@ -4,9 +4,22 @@ tags:
 state: study
 passage: 真题
 difficulty: ⭐️⭐️⭐️⭐️
-date: 2026-06-29
+date: {{date}}
 ---
-# 2026-08-12
+# {{title}}
+
+<!-- 在这里粘贴阅读原文。 -->
+
+## Questions
+
+**1.** 题目 ==答案==
+
+- A.
+- B.
+- C.
+- D.
+
+**解析：**
 
 ## 📘 Parse
 
@@ -14,12 +27,22 @@ date: 2026-06-29
 
 ### Paragraph Idea
 
-1. 
+1.
 
 ### Answer Base On
 
-- Q1: 
+- Q1:
 
 ## 📘 Sentence Breakdown
 
-### 🌟 Sentence 1
+### 🌟 Sentence 1（原句）
+
+>
+
+#### Structure（结构）
+
+#### Translate（译文）
+
+#### Key Points（要点）
+
+#### Rewrite（改写）

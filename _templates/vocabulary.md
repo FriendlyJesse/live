@@ -1,18 +1,23 @@
-> 核心问题： 
+---
+tags:
+  - vocabulary-bank
+date: {{date}}
+---
+# {{title}}
+
+> 核心问题：
 > 这一组词/短语的共同点和主要区别是什么？
 
-
-### Core map
+## Core map
 
 | Phrase | Core idea | Typical use | examples |
 | ------ | --------- | ----------- | -------- |
 |        |           |             |          |
 
-### Key contrasts
+## Key contrasts
 
 - 
 
-### My memory summary
+## My memory summary
 
 - 
-

@@ -1,4 +1,8 @@
-# 📚 名词
+---
+tags:
+  - grammar
+---
+# 名词 noun
 
 ## 普通名词
 
@@ -42,6 +46,7 @@ team
 - Michael（人名）
 
 ### 可数名词
+
 一般来说专有名词是不可数的，但是在某些语境下不可数的特性会推举其次：
 There's a Michael downstairs looking for you. 楼下有一个叫麦克的人在找你。
 解析：这世界上有很多叫麦克的人，其中一个在楼下找你。
@@ -61,6 +66,7 @@ international waters 国际水域
 
 名词的主格和宾格都很简单，都是名词本身 + "s"：
 Rabbits(名词主格) love carrots(名词宾格). 兔子爱吃胡萝卜。
+
 ## 名词的所有格
 
 ### 's 所有格

@@ -1,15 +1,18 @@
-## Pattern: 定语从句
+---
+tags:
+  - grammar
+  - pattern
+---
+# {{title}}
 
-### Structure
-N + who/which/that + V
+## Pattern
 
-### Example
-People who exercise regularly live longer.
+## Structure
 
-### Breakdown
-People live longer
-They exercise regularly
+## Example
 
-### My Notes
-✔ 修饰名词
-✔ 可以拆成两个句子
+## Breakdown
+
+## My Notes
+
+- 

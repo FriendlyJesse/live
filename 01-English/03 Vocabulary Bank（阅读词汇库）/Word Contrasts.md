@@ -56,6 +56,7 @@ date: 2026-07-15
 - **terrific** 是一种**情绪能量极强**的口语化赞美，用来表达对某人表现、能力或成果的极度认可，赞赏力度通常强于 _great_。
 - **incredible** 虽然字面意思是“不可信”，但在现代英语中 **90% 以上都用于正面赞美**，形容事物极为出色、非凡，令人由衷赞叹。
 - **unbelievable** 则是**完全中性且极度夸张**的词。它既可以形容好得过分（如 _unbelievable price_ 指价格便宜得不可思议），也可以形容坏得离谱（如 _unbelievable rudeness_ 极其无礼）。
+
 #### 视觉美感与场景宏大度的差异
 
 - **splendid** 侧重于描述**视觉上的壮丽、华贵或品质上的完美无瑕**，常用于形容风景、建筑、演出、礼仪等带有客观美感的事物。相比 _fantastic_ 和 _terrific_，它的语境更为正式、庄重。
@@ -90,7 +91,7 @@ date: 2026-07-15
 
 ### Key contrasts
 
-### 静态行为态度 VS 动态突发避险
+#### 静态行为态度 VS 动态突发避险
 
 - **be careful** 描述的是一种**状态（State）**。你可以对某人说 "_Always be careful when crossing the street_"（过马路要总是保持小心，属于长期叮嘱）。
 - **look out / watch out** 描述的是一种**动作（Action）**。你只会在车子快撞上他时大喊 "_Watch out!_"，而不会在那个瞬间慢条斯理地说 "_Please be careful_"。
@@ -112,19 +113,19 @@ date: 2026-07-15
 
 ### Key contrasts
 
-### 语法词性不同（介词短语 vs. 连接副词）
+#### 语法词性不同（介词短语 vs. 连接副词）
 
 - **in spite of** 是**介词短语**。它不能单独存在，后面**必须**直接跟名词、代词或动名词（$v\text{-ing}$）。它负责直接引出“障碍物”或“不利条件”。
 - **nevertheless** 是**连接副词**。它用来连接两个完整的、独立的句子（主谓宾俱全）。它通常放在第二句的句首，后面必须加上逗号。
 
-### 在句子中的位置不同
+#### 在句子中的位置不同
 
 - **in spite of** 的位置非常灵活，可以放在句首，也可以放在句中（例如：_In spite of the rain, we went out._ 或 _We went out in spite of the rain._）。
 - **nevertheless** 几乎总是放在第二句的开头，用来引出逻辑的转折。
 
 ### My memory summary
 
-- - **in spite of** = **“尽管（后面直接加名词）”**。它就像一根**粘合剂**，把后面的困难名词（如 rain, illness）直接粘在主句上。
+- **in spite of** = **“尽管（后面直接加名词）”**。它就像一根**粘合剂**，把后面的困难名词（如 rain, illness）直接粘在主句上。
 - **nevertheless** = **“然而 / 尽管如此（后面加完整句子）”**。它相当于高配版的 **however**。你必须先完整地把第一件事说完，点上句号或分号，然后再用它来开启第二句，表示“虽然前面说了这么多，但接下来……”
 
 ## 碰到
@@ -139,12 +140,12 @@ date: 2026-07-15
 
 ### Key contrasts
 
-### 偶然遇见人 vs. 偶然发现物
+#### 偶然遇见人 vs. 偶然发现物
 
 - **run into** 的“碰到”多用于**人**（在街上肉体碰撞或无意遇见），如果用于物，通常是指“猛烈撞上”（如 _run into a tree_）。
 - **come across** 的“碰到”多用于**物或人（尤其是书、资料、新奇小店）**，侧重于“无意中视线扫到”或“淘到、发现”的过程。
 
-### 遭遇抽象困境的区别（run into vs. meet with）
+#### 遭遇抽象困境的区别（run into vs. meet with）
 
 - **run into** 侧重于“**陷入 / 卷入**”某种持续性的不良状态（如 _run into debt_ 欠债、_run into trouble_ 陷入麻烦）。
 - **meet with** 侧重于“**遭受到 / 迎头撞上**”某种具体的反作用力或突发事件（如 _meet with an accident_ 出车祸、_meet with refusal_ 遭到拒绝）。

@@ -1,4 +1,8 @@
-# 主谓一致
+---
+tags:
+  - grammar
+---
+# 主谓一致 subject verb agreement
 
 ## 语法一致
 
@@ -69,6 +73,7 @@ Neither of them is/are afraid of the wolf.
 ## 意义一致
 
 ### 同一个主语不同身份
+
 The teacher and video creator is a rabbit.
 这位老师兼视频创作者是只兔子。
 
@@ -144,6 +149,7 @@ All the furniture here is expensive.
 **the + 形容词：**
 The young are expected to learn from the old.
 年轻人被期望向老年人学习。（年轻人应该向老年人学习。）
+
 ## 就近一致
 
 谓语跟随最近的主语走。

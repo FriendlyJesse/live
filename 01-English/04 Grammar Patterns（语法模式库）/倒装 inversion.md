@@ -1,4 +1,8 @@
-# 倒装
+---
+tags:
+  - grammar
+---
+# 倒装 inversion
 
 倒装的意思就是把谓语提前
 
@@ -46,6 +50,7 @@ English you must learn.
 ## 部分倒装
 
 仅助动词提前
+
 ### 句首有否定意义的倒装
 
 I have never eaten such a delicious carrot.

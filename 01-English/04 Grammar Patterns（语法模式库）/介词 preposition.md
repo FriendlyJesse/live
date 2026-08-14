@@ -1,8 +1,13 @@
-# 📚 介词 preposition
+---
+tags:
+  - grammar
+---
+# 介词 preposition
 
 ## 介词原理
 
 ![[Pasted image 20260806164114.png]]
+
 ## 介词的构成形式
 
 介词分为：
@@ -41,6 +46,7 @@
 要解决介词的意义太多，我们需要从它的本义和引申义入手。
 
 ### 介词多含义
+
 #### about
 
 关于（外围；有涉及，非核心）：
@@ -109,7 +115,6 @@ There is some trash on the street.
 街上有些垃圾
 Tips：如果仅仅表示在街上用 on。
 
-
 at：在很明确的一点上；范围最小
 ![[Pasted image 20260806210201.png|106]]
 - at corner
@@ -153,7 +158,6 @@ Tip：如果表示模糊的时间，用 on
 - at noon: 在中午（英语中，12:00 才是中午）
 
 Tip：如果表示绝对明确的时间，用 at
-
 
 ## 常见的介词用法
 
@@ -252,10 +256,6 @@ Tip：如果表示绝对明确的时间，用 at
 	- roll down the hill. 从山上滚下去。
 - off: 离...有一定距离
 	- New Zealand lies off the eastern coast of Australia. 新西兰离澳大利亚的东海岸有一定距离。
-
-
-
-
 
 ### 表示时间的介词
 

@@ -1,4 +1,8 @@
-# 省略
+---
+tags:
+  - grammar
+---
+# 省略 ellipsis
 
 英语中为了避免重复、使表达更加简洁，会省略一些已经明确的信息。
 
@@ -24,6 +28,7 @@ The wolf served as (the) head of our team.
 - become president
 - serve as chairman
 - act as manager
+
 #### 并列名词中冠词省略
 
 如果两个名词属于同一类别，并且不会产生歧义，第二个冠词可以省略。
@@ -55,6 +60,7 @@ a teacher and a video creator
 - shoulder to shoulder 肩并肩
 
 ### 介词省略
+
 #### 时间表达中的介词省略
 
 表示时间时，某些介词可以省略。
@@ -79,6 +85,7 @@ There's no use (in) crying over spilled milk.
 
 He wanted to stay here and (to) read.
 他想待在这里读书。
+
 #### 感官、使役动词后的裸不定式
 
 部分动词后，to 可以省略：

@@ -5,6 +5,7 @@ tags:
 date: 2026-07-15
 ---
 # Verb Phrases
+
 ## Get Phrases
 
 > 核心问题：
@@ -22,6 +23,7 @@ date: 2026-07-15
 | get on with sth | 继续做某事     | - get on with your work<br>- get on with your a task<br>- get on with your life | Get on with your work.                                                  |
 | get in          | 到达        | - I just got in                                                                 | Uh, my flight gets in at 7:00                                           |
 | get across      | 解释；传达     |                                                                                 |                                                                         |
+
 ### Key contrasts
 
 - get through 完成或熬过一件难事；go through 经历一件事
@@ -35,9 +37,8 @@ date: 2026-07-15
 
 ## Give Phrases
 
-> 核心问题： 
+> 核心问题：
 > 这一组词/短语的共同点和主要区别是什么？
-
 
 ### Core map
 
@@ -47,14 +48,16 @@ date: 2026-07-15
 | give up     | 放弃；停止尝试            | - give up a habit / smoking<br>- give up on some one                     | - You should never give up your dreams no matter what happens.<br>- I refuse to give up on this project at this stage. |
 | give away   | 赠送；泄露              | - give away prizes / tickets<br>- give away a secret / the ending        | - The company is giving away free samples of their new product.<br>- Please don't give away the plot of the movie.     |
 | give way to | 被...代替；屈服，退让，让步    |                                                                          | - To him, the bitterness of life has given way to sweetness. 在他看来，生活已经苦尽甘来。                                            |
+
 ### My memory summary
 
 - out（向外传/耗尽）: 像发传单一样向外分发，直至库存彻底用尽。
 - up（举手投降）：双手举起，心理防线崩溃，彻底放弃。
 - away（送走/漏掉）：把东西打包送走，或者把秘密漏掉。
+
 ## Take Phrases
 
-> 核心问题： 
+> 核心问题：
 > 这一组词/短语的共同点和主要区别是什么？
 > 有些是“take + 动词小品词”的动词短语，有些是整块固定表达
 
@@ -70,12 +73,14 @@ date: 2026-07-15
 | take ... for granted | 认为...是理所当然的        | - take your parents' support for granted<br>- take help for granted<br>- take good health for granted<br>- take freedom for granted | - Don't take your parents‘ support for granted<br>- I took it for granted that he would agree. |
 | take one's place     | 替代，代替              |                                                                                                                                     | - You were so brave to take your father's place in  the army.                                  |
 |                      |                    |                                                                                                                                     |                                                                                                |
+
 ### My memory summary
 
 - take over 接管，通常强调一个人或组织开始控制某项工作、职位或公司
 - take up 占用，通常是占用时间或空间
 - take on 雇佣，表示主动承担也可以表示招聘或主动承担
 - take down 记笔记
+
 ## Make Phrases
 
 ### Core map
@@ -86,12 +91,12 @@ date: 2026-07-15
 | make up for sth    | 弥补、补偿     | - make up for lost time<br>- make up for the deficit<br>- make up for a deficiency                      | - We have to work hard to make up for lost time.（我们必须加倍努力以弥补失去的时间。）<br>- Her enthusiasm makes up for her lack of experience.（她的热情弥补了经验的不足。）              |
 | make up one's mind | 做出决定；下定决心 | - make up my mind<br>- make up your mind                                                                | - I can't make up my mind about this job.<br>- He finally made up his mind to study abroad.                                                              |
 | make out           | 看清；看出     |                                                                                                         | - It was much too dark to make out his expression.                                                                                                       |
+
 ## Go Phrases
 
-> 核心问题： 
+> 核心问题：
 > 这一组词/短语的共同点和主要区别是什么？
 > go + 不同介词/副词后，表示“适用、经历”等不同概念。
-
 
 ### Core map
 
@@ -102,6 +107,7 @@ date: 2026-07-15
 | go through  | 经历；遭受         | - go through a difficult time<br>- go through difficulties<br>- go through changes | - She went through a difficult time last year. |
 | go with sth | 同义，接受（计划、报价等） |                                                                                    | - Mike. I'm going with Mike. 麦克，我同意麦克的观点。      |
 | go over     | 仔细检查；反复研究     |                                                                                    | - I wanted to go over the reports. 我想重新审阅一会报告。 |
+
 ### My memory summary
 
 - go for 是“适用到……”

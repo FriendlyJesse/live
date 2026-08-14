@@ -1,4 +1,8 @@
-# 数词
+---
+tags:
+  - grammar
+---
+# 数词 numeral
 
 ## 基数词
 
@@ -34,6 +38,7 @@
 | three hundred and sixty-five | 365 |
 | nine hundred and ninety-nine | 999 |
 | one hundred and one          | 101 |
+
 ### 上千到上亿的数字
 
 - thousand 千
@@ -52,6 +57,7 @@
 | one hundred million / one billion                                                                                                                                        | 1,000,000,000   |
 | four hundred and seventy-night **billion**<br>eight hundred and seventy-three **million**<br>four hundred and sixty-seven **thousand**<br>eight hundred and twenty-three | 478,873,467,823 |
 |                                                                                                                                                                          |                 |
+
 ### 基数词可充当的句子成分
 
 One and two（主语） is three（表语）.
@@ -132,7 +138,6 @@ This is my first book.
 这是我的第一本书。
 解析：在序数词前有其他代词修饰 book 了，这个名词已经被限定了，不能加 the。
 
-
 **有些基数词的表达跟序数词相近：**
 
 | 短句                | 意思        |
@@ -155,6 +160,7 @@ This is my first book.
 | one fourth / a quarter         | 1/4 |
 | three fourths / three quarters | 3/4 |
 | two and one third              | 2⅓  |
+
 ### 小数
 
 | 小数                          | 意思     |
@@ -162,6 +168,7 @@ This is my first book.
 | one point three four        | 1.34   |
 | zero point five seven       | 0.57   |
 | twelve point eight nine six | 12.896 |
+
 ### 百分数
 
 | 百分数                    | 意思   |
@@ -203,6 +210,7 @@ I have increased my income by three times.
 | 2 cubed is 8.                   | 2³=8   |
 | 4 is more than 3.               | 4>3    |
 | 2 is less than 3.               | 2<3    |
+
 ### 时间
 
 一般在时间中 15 分钟用 pass 表示，而过了 15 用 to 表达。
@@ -240,6 +248,7 @@ I have increased my income by three times.
 高：high, height
 
 #### 基数词 + 单位词（复数）+ 形容词（长宽高）
+
 The river is 1000 meters long.
 这条河有一千米长。
 
