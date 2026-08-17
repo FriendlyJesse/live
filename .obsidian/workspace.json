@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AGENTS.md",
+                "file": "01-English/04 Grammar Patterns（语法模式库）/02 动词专项体系/动词时态 verb tense.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AGENTS"
+              "title": "动词时态 verb tense"
             }
           }
         ]
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AGENTS.md",
+                "file": "01-English/04 Grammar Patterns（语法模式库）/02 动词专项体系/动词时态 verb tense.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -186,8 +186,8 @@
   },
   "active": "21f42341abdad566",
   "lastOpenFiles": [
-    "01-English/04 Grammar Patterns（语法模式库）/英语语法综述 grammar Overview.md",
     "AGENTS.md",
+    "01-English/04 Grammar Patterns（语法模式库）/英语语法综述 grammar Overview.md",
     "01-English/04 Grammar Patterns（语法模式库）/词性 word class.md",
     "01-English/04 Grammar Patterns（语法模式库）/03 句法与特殊句式/省略 ellipsis.md",
     "01-English/04 Grammar Patterns（语法模式库）/03 句法与特殊句式/独立主格 Absolute Construction.md",
