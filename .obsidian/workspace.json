@@ -4,21 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "d2c22b34ce71dacc",
+        "id": "d8d1f4b85a05d11f",
         "type": "tabs",
         "children": [
           {
-            "id": "21f42341abdad566",
+            "id": "e432641933408316",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-English/04 Grammar Patterns（语法模式库）/02 动词专项体系/动词时态 verb tense.md",
+                "file": "01-English/01 Reading Logs（阅读拆解）/2015年5月北京学位英语阅读理解·第1篇.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "动词时态 verb tense"
+              "title": "2015年5月北京学位英语阅读理解·第1篇"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b7e6ebee71d9294f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fca9cf139b16df22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-English/01 Reading Logs（阅读拆解）/2015年5月北京学位英语阅读理解·第1篇.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2015年5月北京学位英语阅读理解·第1篇"
             }
           }
         ]
@@ -80,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 315.5,
+    "collapsed": true
   },
   "right": {
     "id": "78f89275a6561506",
@@ -157,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-English/04 Grammar Patterns（语法模式库）/02 动词专项体系/动词时态 verb tense.md",
+                "file": "01-English/01 Reading Logs（阅读拆解）/2015年5月北京学位英语阅读理解·第1篇.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -184,8 +205,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "21f42341abdad566",
+  "active": "e432641933408316",
   "lastOpenFiles": [
+    "01-English/01 Reading Logs（阅读拆解）/2014年11月北京学位英语阅读理解·第3篇.md",
+    "01-English/01 Reading Logs（阅读拆解）/2015年5月北京学位英语阅读理解·第1篇.md",
+    "01-English/01 Reading Logs（阅读拆解）/2015年5月北京学位英语阅读理解·第3篇.md",
+    "01-English/01 Reading Logs（阅读拆解）/2015年5月北京学位英语阅读理解·第2篇.md",
+    "01-English/01 Reading Logs（阅读拆解）/2014年11月北京学位英语阅读理解·第2篇.md",
+    "01-English/01 Reading Logs（阅读拆解）/2014年11月北京学位英语阅读理解·第1篇.md",
+    "01-English/04 Grammar Patterns（语法模式库）/01 词法体系/副词 adverb.md",
+    "01-English/04 Grammar Patterns（语法模式库）/01 词法体系/数词 numeral.md",
+    "01-English/03 Vocabulary Bank（阅读词汇库）/Word Contrasts.md",
+    "01-English/03 Vocabulary Bank（阅读词汇库）/Verb Phrases.md",
+    "01-English/01 Reading Logs（阅读拆解）/2014年5月北京学位英语阅读理解·第3篇.md",
+    "01-English/01 Reading Logs（阅读拆解）/2014年5月北京学位英语阅读理解·第2篇.md",
+    "01-English/01 Reading Logs（阅读拆解）/2014年5月北京学位英语阅读理解·第1篇.md",
+    "01-English/04 Grammar Patterns（语法模式库）/02 动词专项体系/动词时态 verb tense.md",
     "AGENTS.md",
     "01-English/04 Grammar Patterns（语法模式库）/英语语法综述 grammar Overview.md",
     "01-English/04 Grammar Patterns（语法模式库）/词性 word class.md",
@@ -198,23 +233,9 @@
     "01-English/04 Grammar Patterns（语法模式库）/01 词法体系/介词 preposition.md",
     "01-English/04 Grammar Patterns（语法模式库）/标点符号 punctuation.md",
     "01-English/04 Grammar Patterns（语法模式库）/02 动词专项体系/非谓语动词 non-finite verb.md",
-    "01-English/04 Grammar Patterns（语法模式库）/02 动词专项体系/被动 Passive Voice.md",
-    "01-English/04 Grammar Patterns（语法模式库）/02 动词专项体系/系动词 linking verbs.md",
-    "01-English/04 Grammar Patterns（语法模式库）/02 动词专项体系/使役动词 Causative Verb.md",
-    "01-English/04 Grammar Patterns（语法模式库）/02 动词专项体系/动词分类 verb Classification.md",
-    "01-English/04 Grammar Patterns（语法模式库）/01 词法体系/名词 noun.md",
-    "01-English/04 Grammar Patterns（语法模式库）/02 动词专项体系/动词时态 verb tense.md",
     "01-English/04 Grammar Patterns（语法模式库）/03 句法与特殊句式",
-    "01-English/04 Grammar Patterns（语法模式库）/02 动词专项体系/虚拟语气 Subjunctive Mood.md",
     "01-English/04 Grammar Patterns（语法模式库）/02 动词专项体系",
     "01-English/04 Grammar Patterns（语法模式库）/01 词法体系",
-    "01-English/04 Grammar Patterns（语法模式库）/01 词法体系/叹词 interjection.md",
-    "01-English/04 Grammar Patterns（语法模式库）/01 词法体系/形容词 adjective.md",
-    "01-English/04 Grammar Patterns（语法模式库）/01 词法体系/代词 pronoun.md",
-    "01-English/04 Grammar Patterns（语法模式库）/02 动词专项体系/助动词和情态动词 auxiliary verbs and modal verbs.md",
-    "01-English/07- Root（词根）/构词法 word-building.md",
-    "01-English/04 Grammar Patterns（语法模式库）/01 词法体系/限定词 determiners.md",
-    "01-English/04 Grammar Patterns（语法模式库）/01 词法体系/连词 conjunction.md",
     "99-Other/RAG-在线问答流程图.canvas",
     "99-Other/RAG-在线问答实现流程图.canvas",
     "99-Other/RAG-总体架构图.canvas",

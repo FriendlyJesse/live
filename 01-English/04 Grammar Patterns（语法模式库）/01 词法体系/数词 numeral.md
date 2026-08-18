@@ -34,17 +34,17 @@ The three rabbits won the first prize.
 
 ### 1. 1–100 的构成与读写
 
-| 1–10 | 含义 | 11–19 | 含义 | 20–90（整十） | 含义 |
-| --- | --- | --- | --- | --- | --- |
-| `one` | 1 | `eleven` | 11 | `ten` | 10 |
-| `two` | 2 | `twelve` | 12 | `twenty` | 20 |
-| `three` | 3 | `thirteen` | 13 | `thirty` | 30 |
-| `four` | 4 | `fourteen` | 14 | `forty`（注意无 u） | 40 |
-| `five` | 5 | `fifteen` | 15 | `fifty` | 50 |
-| `six` | 6 | `sixteen` | 16 | `sixty` | 60 |
-| `seven` | 7 | `seventeen` | 17 | `seventy` | 70 |
-| `eight` | 8 | `eighteen` | 18 | `eighty` | 80 |
-| `nine` | 9 | `nineteen` | 19 | `ninety` | 90 |
+| 1–10    | 含义  | 11–19       | 含义  | 20–90（整十）      | 含义  |
+| ------- | --- | ----------- | --- | -------------- | --- |
+| `one`   | 1   | `eleven`    | 11  | `ten`          | 10  |
+| `two`   | 2   | `twelve`    | 12  | `twenty`       | 20  |
+| `three` | 3   | `thirteen`  | 13  | `thirty`       | 30  |
+| `four`  | 4   | `fourteen`  | 14  | `forty`（注意无 u） | 40  |
+| `five`  | 5   | `fifteen`   | 15  | `fifty`        | 50  |
+| `six`   | 6   | `sixteen`   | 16  | `sixty`        | 60  |
+| `seven` | 7   | `seventeen` | 17  | `seventy`      | 70  |
+| `eight` | 8   | `eighteen`  | 18  | `eighty`       | 80  |
+| `nine`  | 9   | `nineteen`  | 19  | `ninety`       | 90  |
 
 - 几十几的数字：十位数与个位数之间须加**连字符** `-`。
   - `twenty-one`（21）, `thirty-five`（35）, `ninety-seven`（97）
