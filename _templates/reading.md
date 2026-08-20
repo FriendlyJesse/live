@@ -12,14 +12,6 @@ date: {{date}}
 
 ## Questions
 
-**1.** 题目 ==答案==
-
-- A.
-- B.
-- C.
-- D.
-
-**解析：**
 
 ## 📘 Parse
 
@@ -27,22 +19,8 @@ date: {{date}}
 
 ### Paragraph Idea
 
-1.
-
-### Answer Base On
-
-- Q1:
+1. 
 
 ## 📘 Sentence Breakdown
 
-### 🌟 Sentence 1（原句）
-
->
-
-#### Structure（结构）
-
-#### Translate（译文）
-
-#### Key Points（要点）
-
-#### Rewrite（改写）
+### 🌟 Sentence 1
