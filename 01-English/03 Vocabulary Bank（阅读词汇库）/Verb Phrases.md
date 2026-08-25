@@ -122,11 +122,38 @@ date: 2026-07-15
 | by means of sth | 借助...手段，依靠...方法 |             | The information can be extracted by means of your suffering. 我可以用折磨你的方式来获取信息。 |
 | by chance       | 偶然，碰巧，意外        |             | I was picked purely by chance. 我被选中纯属偶然。                                      |
 
-### Key contrasts
 
-- 
+## 必备：核心词组
 
-### My memory summary
+|类别|词组|
+|---|---|
+|高频搭配|suffer from stage fright; prove a failure; make a decision; make an effort to; take part in; pay attention to; have difficulty (in) doing|
+|动词短语|bring about; bring out; put away; put off; put up with; give up; turn out; turn down; look after; look forward to; deal with|
+|介词搭配|be attributed to; be related to; be responsible for; be known as; be based on; be made up of; be faced with; be likely to; be good at|
+|阅读翻译|be no match for; be separated from; provide sb. with sth.; aim to do sth.; result in; lead to; in an effort to; be aware of; raise awareness of|
+|高频逻辑|whether … or not; not only … but also …; as a result; in spite of; in order to
 
-- 
+## 必备：语法结构
 
+| 结构                             | 记忆重点        |
+| ------------------------------ | ----------- |
+| remember doing / to do         | 记得做过 / 记得要做 |
+| forget doing / to do           | 忘记做过 / 忘记要做 |
+| stop doing / to do             | 停止做 / 停下来去做 |
+| try doing / to do              | 尝试做 / 努力做   |
+| be worth doing                 | 值得做         |
+| succeed in doing               | 成功做成        |
+| prevent sb. from doing         | 阻止某人做       |
+| spend time (in) doing          | 花时间做        |
+| used to do                     | 过去常常做       |
+| be used to doing               | 习惯做         |
+| had better do                  | 最好做         |
+| would rather do A than do B    | 宁愿 A 不愿 B   |
+| It takes sb. time to do        | 某人花时间做      |
+| It is + adj. + for sb. to do   | 做某事对某人而言……  |
+| If I were you, …               | 与现在事实相反的虚拟  |
+| If + had done, would have done | 与过去事实相反的虚拟  |
+| such … that …                  | 如此……以至于……   |
+| so … that …                    | 如此……以至于……   |
+| too … to do                    | 太……而不能……    |
+| adj. + as + 主语 + be            | 尽管……        |

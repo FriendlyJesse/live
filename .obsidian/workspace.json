@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7652e750ed3272ab",
+        "id": "73dc8bdd3d249963",
         "type": "tabs",
         "children": [
           {
-            "id": "0317920da92af4cd",
+            "id": "0cc197b3626743f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5,
-    "collapsed": true
+    "width": 315.5
   },
   "right": {
     "id": "78f89275a6561506",
@@ -172,8 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,10 +184,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "0317920da92af4cd",
+  "active": "0cc197b3626743f2",
   "lastOpenFiles": [
-    "_attachments/2016_Degree_English_Exam.pdf",
+    "01-English/03 Vocabulary Bank（阅读词汇库）/Verb Phrases.md",
     "01-English/08- Examination（试卷）/2016年真题.md",
+    "01-English/Untitled.canvas",
+    "01-English/Untitled.md",
+    "_attachments/2016_Degree_English_Exam.pdf",
     "01-English/04 Grammar Patterns（语法模式库）/02 动词专项体系/动词时态 verb tense.md",
     "_attachments/2021_Degree_English_Exam.pdf",
     "_attachments/2020_Degree_English_Exam.pdf",
@@ -222,7 +223,6 @@
     "01-English/01 Reading Logs（阅读拆解）/2017年全国学位英语阅读理解·第1篇.md",
     "01-English/01 Reading Logs（阅读拆解）/2015年5月北京学位英语阅读理解·第2篇.md",
     "01-English/01 Reading Logs（阅读拆解）/2014年11月北京学位英语阅读理解·第3篇.md",
-    "01-English/01 Reading Logs（阅读拆解）/2014年11月北京学位英语阅读理解·第2篇.md",
     "99-Other/RAG-在线问答流程图.canvas",
     "99-Other/RAG-在线问答实现流程图.canvas",
     "99-Other/RAG-总体架构图.canvas",

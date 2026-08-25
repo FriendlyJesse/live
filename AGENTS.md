@@ -171,10 +171,14 @@ c:\Users\Administrator\OneDrive\live\01-English\04 Grammar Patterns（语法模�
 
 ### 4. 试卷与真题模考录入（Examination）
 1. 引用 `_templates/examination.md` 模板；
-2. **试卷题目顺序与题量规范必须严格保持如下标准**：
+2. **答题与排版规范**：
+   - **无需粘贴原文**：直接利用底部 PDF 双链嵌入 `![[YYYY_Degree_English_Exam.pdf]]` 或分屏对照查阅；
+   - **标配判定栏**：所有客观题表格（Part I/II/III）均标配 `| 题号 | 我的答案 | 正确答案 | 判定 | ... | 错因/笔记 |`，支持快速勾选 `✅` / `❌`；
+   - **轻量错题记录**：日常/低频错题直接在表格内完成速记闭环；重难点语法/词汇错题使用 `> [!warning]` / `> [!tip]` Callout 卡片精析，避免繁琐冗余的列表。
+3. **试卷题目顺序与题量规范必须严格保持如下标准**：
    - **`## Part I Dialogue Completion`**（会话技能 / 对话完成，共 3 个对话，选择题）
    - **`## Part II Reading Comprehension`**（阅读理解，共 4 篇文章 Passage 1~4，选择题）
    - **`## Part III Vocabulary and Structure`**（词汇与结构，共 20 道选择题 1~20 题）
    - **`## Part IV Translation`**（英译汉，单题/段落翻译，主观题）
    - **`## Part V Writing`**（短文写作，单题，主观题）
-3. 试卷末尾统一设置 `## 复盘与总结` 与 `## 原卷`（PDF 双链嵌入）。
+4. 试卷末尾统一设置 `## 复盘与总结` 与 `## 原卷`（PDF 双链嵌入）。
