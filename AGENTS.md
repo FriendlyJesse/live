@@ -17,12 +17,14 @@ graph TD
   Root --> M5["05 Mistake Bank（错误库）"]
   Root --> M6["06 Review System（复习系统）"]
   Root --> M7["07- Root（词根）"]
+  Root --> M8["08- Examination（试卷）"]
 
   M1 -.->|"长难句沉淀"| M2
   M1 -.->|"生词提炼"| M3
   M1 -.->|"语法依据"| M4
   M5 -.->|"错因溯源"| M4
   M6 -.->|"定期巩固"| M1 & M3 & M5
+  M8 -.->|"错题归集"| M5
 ```
 
 ### 目录功能与定位
@@ -36,6 +38,7 @@ graph TD
 | **`05 Mistake Bank（错误库）`** | 错题归因与诊断诊所 | 真题与练习错题沉淀、错误选项干扰特征分析、知识点盲区定位 |
 | **`06 Review System（复习系统）`** | 艾宾浩斯与周期复习体系 | 周期性复习清单、遗忘曲线巩固卡片 |
 | **`07- Root（词根）`** | 构词法与词汇生成网络 | [[构词法 word-building]]（前缀、词根、后缀衍生体系） |
+| **`08- Examination（试卷）`** | 全真模考与历年真题演练 | 历年真题（2016-2022）、全真五大题型答题模版、复盘分析与原卷 PDF 归档 |
 
 ---
 
@@ -165,3 +168,13 @@ c:\Users\Administrator\OneDrive\live\01-English\04 Grammar Patterns（语法模�
 1. 严格保留现有的 `# 中文名称（English Name）` 与 Markdown 结构体系；
 2. 保持引用块例句与双链导航完整；
 3. 任何新建的语法小专题必须同步更新到 [英语语法综述 grammar Overview.md](file:///c:/Users/Administrator/OneDrive/live/01-English/04%20Grammar%20Patterns%EF%BC%88%E8%AF%AD%E6%B3%95%E6%A8%A1%E5%BC%8F%E5%BA%93%EF%BC%89/%E8%8B%B1%E8%AF%AD%E8%AF%AD%E6%B3%95%E7%BB%BC%E8%BF%B0%20grammar%20Overview.md) 与 [词性 word class.md](file:///c:/Users/Administrator/OneDrive/live/01-English/04%20Grammar%20Patterns%EF%BC%88%E8%AF%AD%E6%B3%95%E6%A8%A1%E5%BC%8F%E5%BA%93%EF%BC%89/%E8%AF%8D%E6%80%A7%20word%20class.md) 的索引中。
+
+### 4. 试卷与真题模考录入（Examination）
+1. 引用 `_templates/examination.md` 模板；
+2. **试卷题目顺序与题量规范必须严格保持如下标准**：
+   - **`## Part I Dialogue Completion`**（会话技能 / 对话完成，共 3 个对话，选择题）
+   - **`## Part II Reading Comprehension`**（阅读理解，共 4 篇文章 Passage 1~4，选择题）
+   - **`## Part III Vocabulary and Structure`**（词汇与结构，共 20 道选择题 1~20 题）
+   - **`## Part IV Translation`**（英译汉，单题/段落翻译，主观题）
+   - **`## Part V Writing`**（短文写作，单题，主观题）
+3. 试卷末尾统一设置 `## 复盘与总结` 与 `## 原卷`（PDF 双链嵌入）。

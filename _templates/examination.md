@@ -1,16 +1,16 @@
 ---
-date: 2026-08-22
-exam: 学位英语
-source: 2020年真题
-duration_min: 
-score: 
-correct_rate: 
 tags:
   - 英语/试卷
   - 学位英语
+date: {{date}}
+exam: 学位英语
+source: {{title}}
+duration_min: 120
+score: 
+correct_rate: 
 ---
 
-# 2020年学位英语真题
+# {{title}}
 
 > 开始时间：  
 > 结束时间：  
@@ -217,4 +217,4 @@ tags:
 
 ## 原卷
 
-![[2020_Degree_English_Exam.pdf]]
+![[{{title}}.pdf]]
