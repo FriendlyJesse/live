@@ -107,6 +107,14 @@ The rabbit has been eating carrots since morning.
 ```text
 主语 + 动词原形
 第三人称单数 + 动词原形-s / -es
+
+否定：
+主语 + do't (do not) + 动词原形
+第三人称单数 does't (does not)
+
+疑问句：
+Do + 主语 + 动词原形
+第三人称单数 does (does)
 ```
 
 ```text
@@ -386,6 +394,12 @@ The rabbit has been eating carrots.
 ```text
 主语 + 动词过去式
 主语 + was / were + 表语
+
+否定：
+主语 + didn't (did not) + 动词原形
+
+疑问句：
+Did + 主语 + 动词原形
 ```
 
 ```text
