@@ -4,23 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "019ebcd485d76a1d",
+        "id": "d0762f18e65b4b09",
         "type": "tabs",
+        "dimension": 99.99999999999999,
         "children": [
           {
-            "id": "35751939d340554d",
+            "id": "71da7016e07a17d6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "_attachments/2019_Degree_English_Exam.pdf"
+                "file": "01-English/09- Examination（试卷）/2019年真题-review_1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "2019_Degree_English_Exam"
+              "icon": "lucide-file",
+              "title": "2019年真题-review_1"
             }
           },
           {
-            "id": "eca151fa9f7e7953",
+            "id": "bde02889f9f67e5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,6 +34,20 @@
               },
               "icon": "lucide-file",
               "title": "2019年真题"
+            }
+          },
+          {
+            "id": "1025a15df54eb0ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-English/04 Grammar Patterns（语法模式库）/02 动词专项体系/动词时态 verb tense.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "动词时态 verb tense"
             }
           }
         ],
@@ -93,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 502.5
+    "width": 502.5,
+    "collapsed": true
   },
   "right": {
     "id": "78f89275a6561506",
@@ -170,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_attachments/2018_Degree_English_Exam.pdf",
+                "file": "01-English/09- Examination（试卷）/2019年真题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -184,8 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,11 +215,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "eca151fa9f7e7953",
+  "active": "bde02889f9f67e5b",
   "lastOpenFiles": [
-    "_attachments/2019_Degree_English_Exam.pdf",
-    "01-English/09- Examination（试卷）/2016年真题-review_1.md",
+    "01-English/04 Grammar Patterns（语法模式库）/02 动词专项体系/动词时态 verb tense.md",
     "01-English/09- Examination（试卷）/2019年真题.md",
+    "01-English/09- Examination（试卷）/2019年真题-review_1.md",
+    "_attachments/2019_Degree_English_Exam.pdf",
+    "01-English/09- Examination（试卷）/2018年真题-review_1.md",
+    "01-English/09- Examination（试卷）/2017年真题-review_1.md",
+    "01-English/09- Examination（试卷）/2016年真题-review_1.md",
     "_attachments/2020_Degree_English_Exam.pdf",
     "_attachments/2019.pdf",
     "01-English/09- Examination（试卷）/2018年真题.md",
@@ -225,7 +246,6 @@
     "01-English/Examination-Schedule.canvas",
     "_attachments/2017.pdf",
     "01-English/06 Review System（复习系统）/Kindergarten.md",
-    "01-English/04 Grammar Patterns（语法模式库）/02 动词专项体系/动词时态 verb tense.md",
     "01-English/08-Writing（写作）/02-Universal Sentence/01. 重要性与意义（Importance & Significance）.md",
     "01-English/08-Writing（写作）/03-Model Essay/03. My Hobby（我的爱好）.md",
     "01-English/08-Writing（写作）/02-Universal Sentence/08. 学习与自我提升（Learning & Self-Improvement）.md",
@@ -233,9 +253,6 @@
     "01-English/08-Writing（写作）/02-Universal Sentence/06. 环保与建议措施（Environment & Suggestions）.md",
     "01-English/08-Writing（写作）/02-Universal Sentence/05. 旅游与出行（Travel & Transportation）.md",
     "01-English/08-Writing（写作）/02-Universal Sentence/04. 运动与健康生活（Exercise, Sports & Health）.md",
-    "01-English/08-Writing（写作）/02-Universal Sentence/03. 社交与人际关系（Making Friends & Social Life）.md",
-    "01-English/08-Writing（写作）/Writing Map（写作导航图）.md",
-    "01-English/08-Writing（写作）/03-Model Essay/Model Essay.md",
     "99-Other/RAG-在线问答流程图.canvas",
     "99-Other/RAG-在线问答实现流程图.canvas",
     "99-Other/RAG-总体架构图.canvas",
