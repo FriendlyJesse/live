@@ -270,6 +270,12 @@ So do cars and so does the device invented by the Indian scientists to produce e
 | 19  |      |      |     |          |         |
 | 20  |      |      |     |          |         |
 
+1. B
+2. A
+3. B
+4. B
+5. A
+
 ### 重点难点深度剖析（选填）
 
 > [!warning] 题号 · 语法/词汇辨析

@@ -50,8 +50,7 @@
               "title": "动词时态 verb tense"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 502.5,
-    "collapsed": true
+    "width": 502.5
   },
   "right": {
     "id": "78f89275a6561506",
@@ -188,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-English/09- Examination（试卷）/2019年真题.md",
+                "file": "01-English/09- Examination（试卷）/2019年真题-review_1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -215,11 +213,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "bde02889f9f67e5b",
+  "active": "71da7016e07a17d6",
   "lastOpenFiles": [
-    "01-English/04 Grammar Patterns（语法模式库）/02 动词专项体系/动词时态 verb tense.md",
     "01-English/09- Examination（试卷）/2019年真题.md",
     "01-English/09- Examination（试卷）/2019年真题-review_1.md",
+    "01-English/04 Grammar Patterns（语法模式库）/02 动词专项体系/动词时态 verb tense.md",
     "_attachments/2019_Degree_English_Exam.pdf",
     "01-English/09- Examination（试卷）/2018年真题-review_1.md",
     "01-English/09- Examination（试卷）/2017年真题-review_1.md",
