@@ -168,3 +168,11 @@ date: 2026-07-15
 | rob    | 抢劫        | **rob sb / a bank**，后面不能直接接“钱”  |
 | rub    | 摩擦，揉      | rub your eyes 揉眼睛               |
 | rod    | 杆，棒       | fishing rod 钓鱼竿                 |
+
+# regard, regulate, regular
+
+| Phrase   | Core idea | 变形                 |
+| -------- | --------- | ------------------ |
+| regard   | 认为、看待     | regardless 不管、不论如何 |
+| regulate | 规章、制度、管理  | regulation 管理      |
+| regular  | 有规律的、频繁的  |                    |
