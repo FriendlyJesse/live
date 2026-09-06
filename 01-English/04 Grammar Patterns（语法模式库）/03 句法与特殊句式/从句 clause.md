@@ -276,16 +276,16 @@ The rabbit ate the carrot, which was not surprising.
 
 ### 1. 常见引导词
 
-| 信息类型 | 常见引导词 | 含义 |
-| --- | --- | --- |
-| 确定信息 | `that` | ……这一事实；无实际含义 |
-| 是否 | `whether`, `if` | 是否 |
-| 人 | `who` | 谁 |
-| 事物 | `what` | 什么 |
-| 地点 | `where` | 在哪里 |
-| 时间 | `when` | 何时 |
-| 原因 | `why` | 为什么 |
-| 方式 | `how` | 如何；怎样 |
+| 信息类型 | 常见引导词           | 含义           |
+| ---- | --------------- | ------------ |
+| 确定信息 | `that`          | ……这一事实；无实际含义 |
+| 是否   | `whether`, `if` | 是否           |
+| 人    | `who`           | 谁            |
+| 事物   | `what`          | 什么           |
+| 地点   | `where`         | 在哪里          |
+| 时间   | `when`          | 何时           |
+| 原因   | `why`           | 为什么          |
+| 方式   | `how`           | 如何；怎样        |
 
 名词性从句中，从句部分一般用**陈述语序**：
 
@@ -961,14 +961,14 @@ the + 比较级 ..., the + 比较级 ...
 
 ## 七、从句快速判断
 
-| 看到的结构 | 优先判断 | 关联专题 |
-| --- | --- | --- |
-| 名词后 + `that/who/which/where...` | 定语从句 | [[形容词 adjective]] |
-| 动词后 + `that/if/whether/疑问词` | 宾语从句 | [[代词 pronoun]] |
-| 句首的 `that/whether/疑问词` 整体作主语 | 主语从句 | [[主谓一致 subject verb agreement]] |
-| 系动词后 + 从句 | 表语从句 | [[系动词 linking verbs]] |
-| `fact/idea/news/question` 后 + 从句 | 同位语从句 | [[名词 noun]] |
-| `when/if/because/although/so that` 等连接主从句 | 状语从句 | [[连词 conjunction]] · [[副词 adverb]] |
+| 看到的结构                                     | 优先判断  | 关联专题                               |
+| ----------------------------------------- | ----- | ---------------------------------- |
+| 名词后 + `that/who/which/where...`           | 定语从句  | [[形容词 adjective]]                  |
+| 动词后 + `that/if/whether/疑问词`               | 宾语从句  | [[代词 pronoun]]                     |
+| 句首的 `that/whether/疑问词` 整体作主语              | 主语从句  | [[主谓一致 subject verb agreement]]    |
+| 系动词后 + 从句                                 | 表语从句  | [[系动词 linking verbs]]              |
+| `fact/idea/news/question` 后 + 从句          | 同位语从句 | [[名词 noun]]                        |
+| `when/if/because/although/so that` 等连接主从句 | 状语从句  | [[连词 conjunction]] · [[副词 adverb]] |
 
 ---
 
