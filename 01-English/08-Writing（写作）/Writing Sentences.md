@@ -218,8 +218,76 @@ Therefore, I try to read for a least thirty minutes every day.
 
 
 
+
 ## 范文
 
 ![[9.13南昌大学学位英语,作文范围已出!直接背_2_小盐向上记hh_来自小红书网页版.jpg]]
 
 ![[9.13南昌大学学位英语,作文范围已出!直接背_3_小盐向上记hh_来自小红书网页版.jpg]]
+
+
+### 利弊型
+
+AI 是帮手还是对手
+
+```text
+  Nowadays, __(主题) is becoming more and more important in our daily lives. As a matter of fact, __(主题) is useful to us in many ways. Some people worry that it will __(现象一) , while others believe that __(现象二) can improve our lives. In my opinion, __(主题) has both advantages and disadvantages. It depends on how we use it.
+
+  On the one hand, __(主题) helps us __(好处) . For example, __(好处的例子). On the other hand, if we __(坏处) , we may __(坏处的结果) .
+
+  As far as I am concerned, __(主题) can make our lives better. We should use it wisely and keep __(好的行为).
+```
+
+```text
+  Nowadays, artificial intelligence is becoming more and more important in our daily lives. As a matter of fact, AI has changed us lives in many ways. Some people worry that it will take away jobs and make us lazy, while others believe that AI can improve our lives. In my opinion, AI has both advantages and disadvantages. It depends on how we use it.
+
+  On the one hand, AI helps us study and work more efficiently. For example, translation apps and writing assistants can save us time. On the other hand, if we rely on AI too much, we may lose the ability to think independently.
+
+  As far as I am concerned, AI can make our lives better. We should use it wisely and keep thinking independently.
+```
+
+### 现象解释型
+
+食品安全
+
+```text
+  __(问题) has been bothering us, and now is becoming __(程度). What are the causes of this problem?
+  
+  # 或者
+  Nowdays more and more __(问题). To improve __ We must find effective way to __().
+  
+  In my opinion, There are two main causes. First, __(原因一). Second, __(原因二). To solve this problem, the government(主体) should __(对策一). In addition, the mass media(主体) can also __(对策二).
+  
+  Of course, there is still a long way to go before we solve this problem. We should continue to find new ways to solve it.
+```
+
+```text
+  Food safety problem has been bothering us, and now they have became a serious problem for many people. What are the causes of food safety problem?
+  
+  In my opinion, there are two main causes. First, some shops may sell old or bad food. If people eat this kind of food, they may become ill. Second, some shops care more about making money than food quality. To solve this problem, the government should make laws and regulate shops more carefully. In addition, the mass media should publicize food safety and let people know the importance of food safety.
+
+  Of course, there is still a long way to go before we solve this problem. We should continue to find new ways to solve it.
+```
+### 方法型
+
+如何保持健康
+
+```text
+  It is well known that health is very important in our lives. As a matter of fact, a healthy body and a clear mind can help us live a better life. In my opinion, everyone should try to keep healthy. There are many ways to do this.
+
+  First of all, we should eat healthy food, such as vegetables and fruit. Second, we should do more exercise. For example, we can run, walk or play basketball after work or study. A healthy body can give us enouth energy for work and study. In addition, it is important to get enough sleep every day. We should not stay up too late.
+
+  As far as I am concerned, health is important and necessary for everyone.
+```
+
+### 个人观点型
+
+我的爱好
+
+```text
+  It is well known that music is very popular and trendy in our lives. As a matter of fact, music is good for us in many ways. Some people enjoy dancing, while others enjoy listening to music. As for me, my hobby is listening to music. Here are the reasons.
+
+  First of all, it is obvious that music can make me happy. For example, I often listen to my favorite songs before going to bed. In addition, there is no doubt that music can help me relax after a busy day. Last but not least, it goes without saying that music can make my life more meaningful.
+
+  As far as I am concerned, listening to music is important, helpful to me.
+```
